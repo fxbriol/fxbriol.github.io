@@ -28,7 +28,7 @@ News
 
 1. Our paper on "Convergence Rates for a Class of Estimators Based on Stein's Identity" has been accepted for publication at Bernoulli.
 
-1. I am organising a session on "Stein's method in Computational Statistics" at [BayesComp 2018](https://www.maths.nottingham.ac.uk/personal/tk/bayescomp/) in Barcelona (26-28th March 2018)
+1. I am organising a session on "Stein's method in Computational Statistics" at [BayesComp 2018](https://www.maths.nottingham.ac.uk/personal/tk/bayescomp/) in Barcelona (26-28th March 2018).
 
 
 
