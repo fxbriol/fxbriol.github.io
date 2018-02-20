@@ -1,15 +1,15 @@
 ---
-title: "A numerical study of the 3D random interchange and random loop models."
+title: "Paper Title Number 1"
 collection: publications
-permalink: 
-excerpt: 'We have studied numerically the random interchange model and related loop models on the three-dimensional cubic lattice. We have determined the transition time for the occurrence of long loops. The joint distribution of the lengths of long loops is Poisson–Dirichlet with parameter 1 or 1/2.'
-date: 2015
-venue: 'Journal of Physics A: Mathematical and Theoretical'
-paperurl: 'http://iopscience.iop.org/article/10.1088/1751-8113/48/34/345002/meta'
-citation: 'Barp, A., Barp, E. G., Briol, F.-X., & Ueltschi, D. (2015). A numerical study of the 3d random interchange and random loop models. Journal of Physics A: Mathematical and Theoretical, 48(May), 345002.'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-We have studied numerically the random interchange model and related loop models on the three-dimensional cubic lattice. We have determined the transition time for the occurrence of long loops. The joint distribution of the lengths of long loops is Poisson–Dirichlet with parameter 1 or 1/2.
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://iopscience.iop.org/article/10.1088/1751-8113/48/34/345002/meta)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Barp, A., Barp, E. G., Briol, F.-X., & Ueltschi, D. (2015). A numerical study of the 3d random interchange and random loop models. Journal of Physics A: Mathematical and Theoretical, 48(May), 345002.
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
