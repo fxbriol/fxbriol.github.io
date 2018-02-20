@@ -15,7 +15,7 @@ I am currently a fourth year PhD student supervised by [Prof. Mark Girolami](htt
 
 My main research interests are at the interface of Computational Statistics, Machine Learning and Applied Mathematics. In particular, I have been working on:
 
-* **Bayesian Probabilistic Numerical Methods**: I am interested in developing algorithms which solve problems from the field of numerical analysis using Bayesian inference methods. My work has focused particularly on Bayesian Quadrature, a method for numerical integration. As part of this interest, I am part of the [SAMSI Working Group on Probabilistic Numerics](http://oates.work/samsi/) and one of the organisers of the regular online talks series.
+* **Bayesian Probabilistic Numerical Methods**: I am interested in developing algorithms which solve problems from the field of numerical analysis using Bayesian inference methods. My work has focused particularly on Bayesian Quadrature, a method for numerical integration. I am part of the [SAMSI Working Group on Probabilistic Numerics](http://oates.work/samsi/) and one of the organisers of the regular online talks series.
 
 * **Monte Carlo Methods**: I am interested in analysing Markov Chain Monte Carlo algorithms and variance reduction methods for related Monte Carlo estimators, specifically control variates and control functionals.
 
