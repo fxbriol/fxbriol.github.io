@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Francois-Xavier Briol"
+title                    : "François-Xavier Briol"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Francois-Xavier Briol"
+  name             : "François-Xavier Briol"
   avatar           : "profpic.png"
   bio              : "PhD Student in Statistics"
   location         : "Department of Statistics"
