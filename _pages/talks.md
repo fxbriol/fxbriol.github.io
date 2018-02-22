@@ -31,3 +31,28 @@ author_profile: true
 * 3rd May 2017 - Talk - SIAM-IMA Annual Conference of the Cambridge Student Chapter, Centre for Mathematical Sciences, University of Cambridge (Cambridge, UK).
 * 31st January 2017 - Talk - International Center for Mathematical Sciences, University of Edinburgh. Workshop on the Mathematics for Measurement (Edinburgh, UK).
 * 23rd January 2017 - Talk - University of Oxford, Mathematics Institute, Stochastic Analysis Seminar (Oxford, UK).
+
+
+##### 2016
+
+* 10th December 2016 - Talk - CMStatistics 2016, Universidad de Sevilla (Seville, Spain). Invited Session on Stein's Method in Statistics.
+* 1st December 2016 - Talk - 2nd IMA Conference on the Mathematical Challenges of Big Data (London, UK).
+* 9th November 2016 - Talk - SIAM Student Conference, University of Warwick (Coventry, UK).
+* 7th October 2016 - Talk - Oxford-Warwick Statistics Programme Annual Workshop, University of Warwick (Coventry, UK).
+* 6th October 2016 - Talk - Workshop on Stein's Method and its Applications, Statistics Department, University of Oxford (Oxford, UK).
+* 18th August 2016 - Talk - 12th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing (MCQMC 2016), University of Stanford (Stanford, US). Special Session on "Probabilistic Numerics".
+* 2nd August 2016 - Talk - Joint Statistical Meetings (JSM2016), ASA Section on Bayesian Statistical Science Student Award Session, McCormick Place Convention Center (Chicago, US).
+* 24th May 2016 - Talk - University of Warwick, Statistics Department (Coventry, UK). Young Researchers Meetings.
+* 10th May 2016 - Talk & Poster - Amazon Machine Learning Division (Berlin, Germany).
+* 26th April 2016 - Talk - Max Planck Institute for Intelligent Systems (Tuebingen, Germany). 1st Probabilistic Numerics PhD Convention.
+* 20th April 2016 - Poster & Elevator Talk - University of Warwick, Statistics Department (Coventry, UK). CRISM workshop on Estimating Constants.
+* 19th April 2016 - Talk - University of Reading, Department of Mathematics and Statistics (Reading, UK). Afternoon meeting on Bayesian Computation.
+* 16th April 2016 - Poster - 52nd Gregynog Statistical Conference, Gregynog Hall (Newton, UK).
+* 5th April 2016 - Poster - University of Warwick, Statistics Department (Coventry, UK). CRISM Master Class on Nonparametric Bayes.
+* 11th March 2016 - Talk - University College London, Centre for Computational Statistics and Machine Learning (London, UK). Microsoft Research CSML Seminar Series.
+* 8th March 2016 - Talk - University of Bath, Department of Mathematical Sciences, Statistics Seminar (Bath, UK).
+* 7th March 2016 - Talk - University of Warwick, Mathematics Institute (Coventry, UK). EQUIP Research Group, Lunch Talk.
+* 29th February 2016 - Poster - University of Nottingham (Nottingham, UK), LMS workshop on Big Inverse Problems.
+* 1st February 2016 - Talk - University of Oxford, Statistics Department (Oxford, UK). Kernel Methods Talk.
+* 21st January 2016 - Talk - University of Oxford, Engineering Science Department (Oxford, UK). Machine Learning Group, Tea Talk.
+* 5-7th January 2016 - Talk & Poster - 6th IMS-ISBA Joint Meeting Bayes. Comp. at MCMSKI V (Lenzerheide, Switzerland)
