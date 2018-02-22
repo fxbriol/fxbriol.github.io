@@ -33,7 +33,7 @@ author_profile: true
 
 ##### 2016
 
-* 10th December 2016 - Talk - CMStatistics 2016, Universidad de Sevilla (Seville, Spain). Invited Session on "Stein's Method in Statistics".
+* 10th December 2016 - Talk - CMStatistics 2016, Universidad de Sevilla (Seville, Spain). Invited Session on Stein's Method in Statistics.
 * 1st December 2016 - Talk - 2nd IMA Conference on the Mathematical Challenges of Big Data (London, UK).
 * 9th November 2016 - Talk - SIAM Student Conference, University of Warwick (Coventry, UK).
 * 7th October 2016 - Talk - Oxford-Warwick Statistics Programme Annual Workshop, University of Warwick (Coventry, UK).
@@ -57,7 +57,7 @@ author_profile: true
 
 ##### 2015
 
-* 11th December 2015 - Talk - 29th Annual Conference on Neural Information Processing Systems, NIPS workshop on Probabilistic Integration, Palais des congrès de Montreal (Montreal, Canada).
+* 11th December 2015 - Talk - 29th Annual Conference on Neural Information Processing Systems, NIPS workshop on Probabilistic Integration, Palais des congres de Montreal (Montreal, Canada).
 * 8th December 2015 - Spotlight Presentation & Poster - 29th Annual Conference on Neural Information Processing Systems (NIPS) (Montreal, Canada).
 * 13th November 2015 - Talk - London Mathematical Society (London, UK), Annual General Meeting & Graduate Student Meeting.
 * 23rd October 2015 - Talk - University of Warwick, Statistics Department (Coventry, UK). Algorithms & Computationally Intensive Inference Seminars.
