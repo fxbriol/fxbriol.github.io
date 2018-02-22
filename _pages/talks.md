@@ -7,16 +7,10 @@ author_profile: true
 
 ### Upcoming
 
-* 21st February 2018 - Talk - University of Cambridge, Isaac Newton Institute (Cambridge, UK).
-
 * 28th February 2018 - Talk - University of Sheffield, Machine Learning Seminar (Sheffield, UK).
-
 * 26th-28th March 2018 - Talk - BayesComp 2018, Contributed Session on Stein's method in Computational Statistics, Universitat Pompeu Fabra (Barcelona, Spain).
-
 * 3rd April 2018 - Talk - The Alan Turing Institute, Theory and Algorithms for Data Science (London, UK).
-
 * 16th April 2018 - Talk - SIAM Conference on Uncertainty Quantification, Session on Probabilistic Numerical Methods for Quantification of Discretisation Error (Garden Grove, California, US).
-
 * 4th-6th June 2018 - Talk - Universite de Liege, Workshop on Modern Mathematical Methods for Data Analysis (Liege, Belgium).
 
 
@@ -24,6 +18,7 @@ author_profile: true
 
 ##### 2018
 
+* 21st February 2018 - Talk - University of Cambridge, Isaac Newton Institute (Cambridge, UK).
 * 29th January 2018 - Talk - Machine Learning Research Group, University of Warwick, Centre for Complexity Science (Coventry, UK).
 
 ##### 2017
@@ -62,12 +57,12 @@ author_profile: true
 
 ##### 2015
 
-* 11th December 2015 - Talk - 29th Annual Conference on Neural Information Processing Systems, NIPS workshop on Probabilistic Integration, Palais des congrès de Montréal (Montréal, Canada).
-* 8th December 2015 - Spotlight Presentation & Poster - 29th Annual Conference on Neural Information Processing Systems (NIPS) (Montréal, Canada).
+* 11th December 2015 - Talk - 29th Annual Conference on Neural Information Processing Systems, NIPS workshop on Probabilistic Integration, Palais des congrès de Montreal (Montreal, Canada).
+* 8th December 2015 - Spotlight Presentation & Poster - 29th Annual Conference on Neural Information Processing Systems (NIPS) (Montreal, Canada).
 * 13th November 2015 - Talk - London Mathematical Society (London, UK), Annual General Meeting & Graduate Student Meeting.
 * 23rd October 2015 - Talk - University of Warwick, Statistics Department (Coventry, UK). Algorithms & Computationally Intensive Inference Seminars.
 * 9th October 2015 - Poster - University of Warwick, (Coventry, UK). Oxford-Warwick Workshop: Scalable Statistical Methods for the Analysis of Large and Complex Data Sets.
-* 14th September 2015 - Talk - International Conference on Scientific Computation and Differential Equations (SciCADE 2015), Minisymposia on "Probabilistic Numerical Analysis of Differential Equations", University of Potsdam (Potsdam, Germany).
+* 14th September 2015 - Talk - International Conference on Scientific Computation and Differential Equations (SciCADE 2015), Minisymposia on Probabilistic Numerical Analysis of Differential Equations, University of Potsdam (Potsdam, Germany).
 * 21st August 2015 - Poster - Monash University, Clayton School of Information Technology (Melbourne, Australia). Machine Learning Bootcamp.
 * 22nd June 2015 – Talk - University of Warwick, Mathematics Institute (Coventry, UK). EQUIP Research Group, Lunch Talk.
 * 11th June 2015 – Talk - University of Oxford, Engineering Science Department (Oxford, UK). Machine Learning Group, Tea Talk.
