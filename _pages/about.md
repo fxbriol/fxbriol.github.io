@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
+### About
 
 I am currently a fourth year PhD student supervised by [Prof. Mark Girolami](https://www.imperial.ac.uk/people/m.girolami) and am part of a joint PhD program between the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/) and the Department of Statistics at the [University of Oxford](https://www.stats.ox.ac.uk/) called the Oxford-Warwick Statistics Programme (OxWaSP). Since September 2016, I also have a visiting position in the Statistics Section at the Department of Mathematics at [Imperial College London](http://www.imperial.ac.uk/statistics/) and at [The Alan Turing Institute](https://www.turing.ac.uk/) as part of their programme on [Data-Centric Engineering](https://www.turing.ac.uk/research_projects/programme-data-centric-engineering).
 
@@ -23,8 +22,7 @@ My main research interests are at the interface of Computational Statistics, Mac
 
 For more details on my research, see my [publications](https://fxbriol.github.io/publications/) page or my [Google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en), or try to catch me at one of my [talks](https://fxbriol.github.io/talks/).
 
-News
-======
+### News
 
 1. I am currently visiting the [Isaac Newton Institute](https://www.newton.ac.uk/) at the University of Cambridge (between the 19th February and 2nd March) as part of their [programme on Uncertainty Quantification](https://www.newton.ac.uk/event/unq).
 
