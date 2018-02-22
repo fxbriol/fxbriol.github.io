@@ -17,13 +17,14 @@ author_profile: true
 * Barp, A., ***Briol, F-X.***, Kennedy, A. D. & Girolami, M. (2017). Geometry and Dynamics for Markov Chain Monte Carlo. Annual Review of Statistics and Its Applications, 5.
 [Journal](www.annualreviews.org/doi/abs/10.1146/annurev-statistics-031017-100141) [arXiv](https://arxiv.org/abs/1705.02891)
 
-* Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2016). Convergence Rates for a Class of Estimators Based on Stein's Identity. arXiv:1603.03220. Accepted for publication at "Bernoulli". [arXiv]
+* Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2016). Convergence Rates for a Class of Estimators Based on Stein's Identity. arXiv:1603.03220. Accepted for publication at "Bernoulli". [arXiv](https://arxiv.org/abs/1603.03220)
     
-* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2015). Probabilistic Integration: A Role for Statisticians in Numerical Analysis? Student Paper award 2016 from the Section on Bayesian Statistical Science of the ASA. [arXiv] [code] [blog post by A. Gelman] [blog post by C. Robert]
+* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2015). Probabilistic Integration: A Role for Statisticians in Numerical Analysis? Student Paper award 2016 from the Section on Bayesian Statistical Science of the ASA. [arXiv](https://arxiv.org/abs/1512.00933) [code](www.warwick.ac.uk/fxbriol/probabilistic_integration/code_pi_mar16.zip) [blog post by Andrew Gelman](http://andrewgelman.com/2015/12/07/28279/) [blog post by Christian Robert](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/)
     
-* ***Briol, F-X.***, Oates, C. J., Girolami, M. & Osborne, M. A. (2015). Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees. Advances In Neural Information Processing Systems (NIPS), pages 1162-1170. Accepted with spotlight presentation (top 4.5% of submitted papers). [arXiv] [conference] [blog post by I. Schuster]
+* ***Briol, F-X.***, Oates, C. J., Girolami, M. & Osborne, M. A. (2015). Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees. Advances In Neural Information Processing Systems (NIPS), pages 1162-1170. Accepted with spotlight presentation (top 4.5% of submitted papers).
+[arXiv](https://arxiv.org/abs/1506.02681) [NIPS](https://papers.nips.cc/paper/5749-frank-wolfe-bayesian-quadrature-probabilistic-integration-with-theoretical-guarantees) [blog post by Ingmar Schuster](https://ingmarschuster.wordpress.com/2015/10/26/frank-wolfe-bayesian-quadrature/)
     
-* Barp, A., Barp, E. G., ***Briol, F-X.*** & Ueltschi, D. (2015). A numerical study of the 3D random interchange and random loop models. Journal of Physics A: Mathematical and Theoretical, 48(34). [journal] [arXiv] 
+* Barp, A., Barp, E. G., ***Briol, F-X.*** & Ueltschi, D. (2015). A numerical study of the 3D random interchange and random loop models. Journal of Physics A: Mathematical and Theoretical, 48(34). [journal](http://iopscience.iop.org/article/10.1088/1751-8113/48/34/345002/meta) [arXiv](https://arxiv.org/abs/1505.00983) 
 
 Discussion Papers
 ======
