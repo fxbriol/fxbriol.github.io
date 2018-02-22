@@ -56,3 +56,17 @@ author_profile: true
 * 1st February 2016 - Talk - University of Oxford, Statistics Department (Oxford, UK). Kernel Methods Talk.
 * 21st January 2016 - Talk - University of Oxford, Engineering Science Department (Oxford, UK). Machine Learning Group, Tea Talk.
 * 5-7th January 2016 - Talk & Poster - 6th IMS-ISBA Joint Meeting Bayes. Comp. at MCMSKI V (Lenzerheide, Switzerland)
+
+
+##### 2015
+
+* 11th December 2015 - Talk - 29th Annual Conference on Neural Information Processing Systems, NIPS workshop on Probabilistic Integration, Palais des congres de Montreal (Montreal, Canada).
+* 8th December 2015 - Spotlight Presentation & Poster - 29th Annual Conference on Neural Information Processing Systems (NIPS) (Montreal, Canada).
+* 13th November 2015 - Talk - London Mathematical Society (London, UK), Annual General Meeting & Graduate Student Meeting.
+* 23rd October 2015 - Talk - University of Warwick, Statistics Department (Coventry, UK). Algorithms & Computationally Intensive Inference Seminars.
+* 9th October 2015 - Poster - University of Warwick, (Coventry, UK). Oxford-Warwick Workshop: Scalable Statistical Methods for the Analysis of Large and Complex Data Sets.
+* 14th September 2015 - Talk - International Conference on Scientific Computation and Differential Equations (SciCADE 2015), Minisymposia on Probabilistic Numerical Analysis of Differential Equations, University of Potsdam (Potsdam, Germany).
+* 21st August 2015 - Poster - Monash University, Clayton School of Information Technology (Melbourne, Australia). Machine Learning Bootcamp.
+* 22nd June 2015 - Talk - University of Warwick, Mathematics Institute (Coventry, UK). EQUIP Research Group, Lunch Talk.
+* 11th June 2015 - Talk - University of Oxford, Engineering Science Department (Oxford, UK). Machine Learning Group, Tea Talk.
+* 17th April 2015 - Poster - 51st Gregynog Statistical Conference, Gregynog Hall (Newton, UK).
