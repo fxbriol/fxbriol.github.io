@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). Bayesian Quadrature for Multiple Related Integrals. arXiv:1801.04153. 
-[arXiv](https://arxiv.org/abs/1801.04153)
+[arXiv](https://arxiv.org/abs/1801.04153).btn
 
 * Oates, C. J., Niederer, S., Lee, A., ***Briol, F-X.*** & Girolami, M. (2017). Probabilistic Models for Integration Error in the Assessment of Functional Cardiac Models. Advances in Neural Information Processing Systems (NIPS), pages 109-117. 
-[NIPS](https://papers.nips.cc/paper/6616-probabilistic-models-for-integration-error-in-the-assessment-of-functional-cardiac-models) [arXiv](https://arxiv.org/abs/1606.06841) [video](https://www.youtube.com/watch?v=SrrO4OxydO0&feature=youtu.be)
+[NIPS](https://papers.nips.cc/paper/6616-probabilistic-models-for-integration-error-in-the-assessment-of-functional-cardiac-models).btn [arXiv](https://arxiv.org/abs/1606.06841).btn [Video](https://www.youtube.com/watch?v=SrrO4OxydO0&feature=youtu.be).btn
 
 * ***Briol, F-X.***, Oates, C. J., Cockayne, J., Chen, W. Y. & Girolami, M. (2017). On the Sampling Problem for Kernel Quadrature. Proceedings of the 34th International Conference on Machine Learning, PMLR 70:586-595, 2017. 
 [ICML](http://proceedings.mlr.press/v70/briol17a.html) [arXiv](https://arxiv.org/abs/1706.03369) 
