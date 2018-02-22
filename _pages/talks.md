@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Upcoming
+## Upcoming
 
 * 28th February 2018 - Talk - University of Sheffield, Machine Learning Seminar (Sheffield, UK).
 * 26th-28th March 2018 - Talk - BayesComp 2018, Contributed Session on Stein's method in Computational Statistics, Universitat Pompeu Fabra (Barcelona, Spain).
@@ -14,15 +14,15 @@ author_profile: true
 * 4th-6th June 2018 - Talk - Universite de Liege, Workshop on Modern Mathematical Methods for Data Analysis (Liege, Belgium).
 
 
-### Past
+## Past
 
-##### 2018
+### 2018
 
 * 21st February 2018 - Talk - University of Cambridge, Isaac Newton Institute (Cambridge, UK).
 * 29th January 2018 - Talk - Machine Learning Research Group, University of Warwick, Centre for Complexity Science (Coventry, UK).
 
 
-##### 2017
+### 2017
 
 * 1st December 2017- Talk - Alan Turing Institute for Data Science (London, UK)
 * 17th October 2017 - Talk - Imperial College London, Data Science Institute (London, UK).
@@ -33,7 +33,7 @@ author_profile: true
 * 23rd January 2017 - Talk - University of Oxford, Mathematics Institute, Stochastic Analysis Seminar (Oxford, UK).
 
 
-##### 2016
+### 2016
 
 * 10th December 2016 - Talk - CMStatistics 2016, Universidad de Sevilla (Seville, Spain). Invited Session on Stein's Method in Statistics.
 * 1st December 2016 - Talk - 2nd IMA Conference on the Mathematical Challenges of Big Data (London, UK).
@@ -58,7 +58,7 @@ author_profile: true
 * 5-7th January 2016 - Talk & Poster - 6th IMS-ISBA Joint Meeting Bayes. Comp. at MCMSKI V (Lenzerheide, Switzerland)
 
 
-##### 2015
+### 2015
 
 * 11th December 2015 - Talk - 29th Annual Conference on Neural Information Processing Systems, NIPS workshop on Probabilistic Integration, Palais des congres de Montreal (Montreal, Canada).
 * 8th December 2015 - Spotlight Presentation & Poster - 29th Annual Conference on Neural Information Processing Systems (NIPS) (Montreal, Canada).
