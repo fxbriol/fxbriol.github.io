@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### About
 
 I am currently a fourth year PhD student supervised by [Prof. Mark Girolami](https://www.imperial.ac.uk/people/m.girolami) and am part of a joint PhD program between the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/) and the Department of Statistics at the [University of Oxford](https://www.stats.ox.ac.uk/) called the Oxford-Warwick Statistics Programme (OxWaSP). Since September 2016, I also have a visiting position in the Statistics Section at the Department of Mathematics at [Imperial College London](http://www.imperial.ac.uk/statistics/) and at [The Alan Turing Institute](https://www.turing.ac.uk/) as part of their programme on [Data-Centric Engineering](https://www.turing.ac.uk/research_projects/programme-data-centric-engineering).
 
