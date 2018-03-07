@@ -23,9 +23,9 @@ For more details on my research, see my [publications](https://fxbriol.github.io
 
 ### News
 
-1. I am currently visiting the [Isaac Newton Institute](https://www.newton.ac.uk/) at the University of Cambridge (between the 19th February and 2nd March) as part of their [programme on Uncertainty Quantification](https://www.newton.ac.uk/event/unq).
+1. I will be visiting [Lester Mackey](https://web.stanford.edu/~lmackey/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in Cambridge (Massachusetts) between the 22nd October 2018 and 16th November 2018. 
 
-1. Our paper on "Convergence Rates for a Class of Estimators Based on Stein's Identity" has been accepted for publication at Bernoulli.
+1. Our paper on "Convergence Rates for a Class of Estimators Based on Stein's Identity" has been accepted for publication at [Bernoulli](http://www.bernoulli-society.org/index.php/publications/bernoulli-journal/bernoulli-journal).
 
 1. I am organising a session on "Stein's method in Computational Statistics" at [BayesComp 2018](https://www.maths.nottingham.ac.uk/personal/tk/bayescomp/) in Barcelona (26-28th March 2018).
 
