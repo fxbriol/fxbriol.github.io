@@ -10,8 +10,8 @@ author_profile: true
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian Quadrature for Multiple Related Integrals*. arXiv:1801.04153. 
 [(***arXiv***)](https://arxiv.org/abs/1801.04153)
 
-* Barp, A., ***Briol, F-X.***, Kennedy, A. D. & Girolami, M. (2018). *Geometry and Dynamics for Markov Chain Monte Carlo*. Annual Review of Statistics and Its Applications, 5.
-[(***Journal***)](www.annualreviews.org/doi/abs/10.1146/annurev-statistics-031017-100141) [(***arXiv***)](https://arxiv.org/abs/1705.02891)
+* Barp, A., ***Briol, F-X.***, Kennedy, A. D. & Girolami, M. (2018). *Geometry and Dynamics for Markov Chain Monte Carlo*. Annual Review of Statistics and Its Applications, Vol. 5:451-471
+[(***Journal***)](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031017-100141) [(***arXiv***)](https://arxiv.org/abs/1705.02891)
 
 * Oates, C. J., Niederer, S., Lee, A., ***Briol, F-X.*** & Girolami, M. (2017). *Probabilistic Models for Integration Error in the Assessment of Functional Cardiac Models*. Advances in Neural Information Processing Systems (NIPS), pages 109-117. 
 [(***NIPS***)](https://papers.nips.cc/paper/6616-probabilistic-models-for-integration-error-in-the-assessment-of-functional-cardiac-models) [(***arXiv***)](https://arxiv.org/abs/1606.06841) [(***Video***)](https://www.youtube.com/watch?v=SrrO4OxydO0&feature=youtu.be)
