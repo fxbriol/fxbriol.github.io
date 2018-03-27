@@ -6,19 +6,19 @@ author_profile: true
 
 ## Upcoming
 
-* 23rd March 2018 - Poster - ***54th Gregynog Statistical Conference***, Gregynog Hall (Newton, UK).
-* 26th March 2018 - Poster - ***BayesComp 2018***, Universitat Pompeu Fabra (Barcelona, Spain).
-* 26th March 2018 - Talk - ***BayesComp 2018***, Contributed Session on Stein's method in Computational Statistics, Universitat Pompeu Fabra (Barcelona, Spain).
 * 3rd April 2018 - Talk - ***The Alan Turing Institute***, Theory and Algorithms for Data Science (London, UK).
-* 16th April 2018 - Talk - ***SIAM Conference on Uncertainty Quantification***, Session on Probabilistic Numerical Methods for Quantification of Discretisation Error (Garden Grove, California, US).
+* 16th April 2018 - Talk - [***SIAM Conference on Uncertainty Quantification***](http://www.siam.org/meetings/uq18/), Session on Probabilistic Numerical Methods for Quantification of Discretisation Error (Garden Grove, California, US).
 * 2nd May 2018 - Talk - ***University of Sheffield***, Machine Learning Seminar (Sheffield, UK).
-* 4th-6th June 2018 - Talk - ***Universite de Liege***, Workshop on Modern Mathematical Methods for Data Analysis (Liege, Belgium).
+* 4th-6th June 2018 - Talk - ***Universite de Liege***, [Workshop on Modern Mathematical Methods for Data Analysis](https://events.uliege.be/belpro2018/) (Liege, Belgium).
 
 
 ## Past
 
 ### 2018
 
+* 26th March 2018 - Talk - ***BayesComp 2018***, Contributed Session on Stein's method in Computational Statistics, Universitat Pompeu Fabra (Barcelona, Spain).
+* 26th March 2018 - Poster - ***BayesComp 2018***, Universitat Pompeu Fabra (Barcelona, Spain).
+* 23rd March 2018 - Poster - ***54th Gregynog Statistical Conference***, Gregynog Hall (Newton, UK).
 * 21st February 2018 - Talk - ***University of Cambridge***, Isaac Newton Institute (Cambridge, UK).
 * 29th January 2018 - Talk - ***University of Warwick***, Centre for Complexity Science, Machine Learning Research Group (Coventry, UK).
 
