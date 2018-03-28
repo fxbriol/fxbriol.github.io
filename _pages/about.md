@@ -27,5 +27,7 @@ For more details on my research, see my [publications](https://fxbriol.github.io
 
 1. Our paper on "Convergence Rates for a Class of Estimators Based on Stein's Identity" has been accepted for publication at [Bernoulli](http://www.bernoulli-society.org/index.php/publications/bernoulli-journal/bernoulli-journal).
 
+1. Our paper on [*Stein Points*](https://arxiv.org/abs/1803.10161) was recently uploaded to arXiv. This paper proposes a method for obtaining representative samples from complex posteriors using Stein's method. 
+
 
 

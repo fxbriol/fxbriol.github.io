@@ -4,8 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+,
 ### Papers
+
+* Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein Points*. arXiv:1803.10161. 
+[(***arXiv***)](https://arxiv.org/abs/1803.10161)
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian Quadrature for Multiple Related Integrals*. arXiv:1801.04153. 
 [(***arXiv***)](https://arxiv.org/abs/1801.04153)
