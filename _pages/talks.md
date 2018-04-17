@@ -6,16 +6,15 @@ author_profile: true
 
 ## Upcoming
 
-
-* 16th April 2018 - Talk - [***SIAM Conference on Uncertainty Quantification***](http://www.siam.org/meetings/uq18/), Session on Probabilistic Numerical Methods for Quantification of Discretisation Error (Garden Grove, California, US).
 * 2nd May 2018 - Talk - ***University of Sheffield***, Machine Learning Seminar (Sheffield, UK).
 * 4th-6th June 2018 - Talk - ***Universite de Liege***, [Workshop on Modern Mathematical Methods for Data Analysis](https://events.uliege.be/belpro2018/) (Liege, Belgium).
-
 
 ## Past
 
 ### 2018
 
+
+* 16th April 2018 - Talk - [***SIAM Conference on Uncertainty Quantification***](http://www.siam.org/meetings/uq18/), Session on Probabilistic Numerical Methods for Quantification of Discretisation Error (Garden Grove, California, US).
 * 12th April 2018 - Talk - ***The Alan Turing Institute***, Workshop on Probabilistic Numerical Computation (London, UK).
 * 3rd April 2018 - Talk - ***The Alan Turing Institute***, Theory and Algorithms for Data Science (London, UK).
 * 26th March 2018 - Talk - ***BayesComp 2018***, Contributed Session on Stein's method in Computational Statistics, Universitat Pompeu Fabra (Barcelona, Spain).
