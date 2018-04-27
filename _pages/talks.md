@@ -10,6 +10,7 @@ author_profile: true
 * 23rd May 2018 - Talk - ***University of Cambridge***, Isaac Newton Institute (Cambridge, UK).
 * 4th-6th June 2018 - Talk - ***Universite de Liege***, [Workshop on Modern Mathematical Methods for Data Analysis](https://events.uliege.be/belpro2018/) (Liege, Belgium).
 * 19th June 2018 - Talk - ***Mind Foundry Ltd*** (Oxford, UK).
+* 19th June 2018 - Talk - ***University of Oxford***, Oxford-Man Institute of Quantitative Finance (Oxford, UK).
 
 ## Past
 
