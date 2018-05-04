@@ -6,7 +6,6 @@ author_profile: true
 
 ## Upcoming
 
-* 2nd May 2018 - Talk - ***University of Sheffield***, Machine Learning Seminar (Sheffield, UK).
 * 23rd May 2018 - Talk - ***University of Cambridge***, Isaac Newton Institute (Cambridge, UK).
 * 4th-6th June 2018 - Talk - ***Universite de Liege***, [Workshop on Modern Mathematical Methods for Data Analysis](https://events.uliege.be/belpro2018/) (Liege, Belgium).
 * 19th June 2018 - Talk - ***Mind Foundry Ltd*** (Oxford, UK).
@@ -16,7 +15,7 @@ author_profile: true
 
 ### 2018
 
-
+* 2nd May 2018 - Talk - ***University of Sheffield***, Machine Learning Seminar (Sheffield, UK).
 * 16th April 2018 - Talk - [***SIAM Conference on Uncertainty Quantification***](http://www.siam.org/meetings/uq18/), Session on Probabilistic Numerical Methods for Quantification of Discretisation Error (Garden Grove, California, US).
 * 12th April 2018 - Talk - ***The Alan Turing Institute***, Workshop on Probabilistic Numerical Computation (London, UK).
 * 3rd April 2018 - Talk - ***The Alan Turing Institute***, Theory and Algorithms for Data Science (London, UK).
