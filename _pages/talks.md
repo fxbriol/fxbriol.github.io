@@ -6,15 +6,16 @@ author_profile: true
 
 ## Upcoming
 
-* 23rd May 2018 - Talk - ***University of Cambridge***, Isaac Newton Institute (Cambridge, UK).
 * 4th-6th June 2018 - Talk - ***Universite de Liege***, [Workshop on Modern Mathematical Methods for Data Analysis](https://events.uliege.be/belpro2018/) (Liege, Belgium).
 * 19th June 2018 - Talk - ***Mind Foundry Ltd*** (Oxford, UK).
 * 19th June 2018 - Talk - ***University of Oxford***, Oxford-Man Institute of Quantitative Finance (Oxford, UK).
+* 14th-16th December 2018 - Talk - [***11th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2018)***](http://cmstatistics.org/conferences.php), Session on ``The Stein method and applications in statistics" (Pisa, Italy)
 
 ## Past
 
 ### 2018
 
+* 23rd May 2018 - Talk - ***University of Cambridge***, Isaac Newton Institute (Cambridge, UK).
 * 2nd May 2018 - Talk - ***University of Sheffield***, Machine Learning Seminar (Sheffield, UK).
 * 16th April 2018 - Talk - [***SIAM Conference on Uncertainty Quantification***](http://www.siam.org/meetings/uq18/), Session on Probabilistic Numerical Methods for Quantification of Discretisation Error (Garden Grove, California, US).
 * 12th April 2018 - Talk - ***The Alan Turing Institute***, Workshop on Probabilistic Numerical Computation (London, UK).
