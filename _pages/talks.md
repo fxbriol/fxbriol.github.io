@@ -6,8 +6,6 @@ author_profile: true
 
 ## Upcoming
 
-* 19th June 2018 - Talk - ***Mind Foundry Ltd.*** (Oxford, UK).
-* 19th June 2018 - Talk - ***University of Oxford***, Oxford-Man Institute of Quantitative Finance (Oxford, UK).
 * 3rd July 2018 - Poster - [***38th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering***](https://max-ent.github.io/), The Alan Turing Institute (London, UK). 
 * 10th-15th July 2018 - Two talks and two posters - [***International Conference on Machine Learning***](https://icml.cc/), Stockholmsmassan (Stockholm, Sweden).
 * 14th-16th December 2018 - Talk - [***11th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2018)***](http://cmstatistics.org/conferences.php), Session on ``The Stein method and applications in statistics" (Pisa, Italy).
@@ -16,6 +14,8 @@ author_profile: true
 
 ### 2018
 
+* 19th June 2018 - Talk - ***Mind Foundry Ltd.*** (Oxford, UK).
+* 19th June 2018 - Talk - ***University of Oxford***, Oxford-Man Institute of Quantitative Finance (Oxford, UK).
 * 6th June 2018 - Talk - ***Universite de Liege***, [Workshop on Modern Mathematical Methods for Data Analysis](https://events.uliege.be/belpro2018/) (Liege, Belgium).
 * 23rd May 2018 - Talk - ***University of Cambridge***, Isaac Newton Institute (Cambridge, UK).
 * 2nd May 2018 - Talk - ***University of Sheffield***, Machine Learning Seminar (Sheffield, UK).
