@@ -8,7 +8,7 @@ author_profile: true
 ### Papers
 
 * Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein Points*. International Conference on Machine Learning (to appear), arXiv:1803.10161. 
-[(***arXiv***)](https://arxiv.org/abs/1803.10161)
+[(***arXiv***)](https://arxiv.org/abs/1803.10161)[(***code***)](https://github.com/wilson-ye-chen/stein_points)
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian Quadrature for Multiple Related Integrals*. International Conference on Machine Learning (to appear)- Accepted for a long talk (top 8\% of papers submitted). arXiv:1801.04153.
 [(***arXiv***)](https://arxiv.org/abs/1801.04153)
