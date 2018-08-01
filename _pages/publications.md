@@ -4,13 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-,
 ### Papers
 
 * Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein Points*. International Conference on Machine Learning, PMLR 80:843-852. 
 [(***ICML***)](http://proceedings.mlr.press/v80/chen18f.html)[(***arXiv***)](https://arxiv.org/abs/1803.10161)[(***code***)](https://github.com/wilson-ye-chen/stein_points)
 
-* Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian Quadrature for Multiple Related Integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. Accepted for a long talk (top 8\% of papers submitted).[(***ICML***)](http://proceedings.mlr.press/v80/xi18a.html)
+* Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian Quadrature for Multiple Related Integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. Accepted for a long talk (top 8% of papers submitted).[(***ICML***)](http://proceedings.mlr.press/v80/xi18a.html)
 [(***arXiv***)](https://arxiv.org/abs/1801.04153)
 
 * Barp, A., ***Briol, F-X.***, Kennedy, A. D. & Girolami, M. (2018). *Geometry and Dynamics for Markov Chain Monte Carlo*. Annual Review of Statistics and Its Applications, Vol. 5:451-471
