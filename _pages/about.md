@@ -19,7 +19,7 @@ My main research interests are at the interface of Computational Statistics, Mac
 
 * **Stein's Method and Kernels**: Recent work has shown the benefits of combining [Stein's method](https://sites.google.com/site/steinsmethod/home) with reproducing kernel Hilbert spaces in order to obtain tractable divergences between probability measures. This can be a useful tool for developing methods in computational statistics such as control variates, samplers and statistical estimators.  
 
-For more details on my research, see my [publications](https://fxbriol.github.io/publications/) page or my [Google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en), or try to catch me at one of my [talks](https://fxbriol.github.io/talks/).
+For more details on my research, see my [publications](https://fxbriol.github.io/publications/) page or my [Google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en), or try to catch me at one of my [talks](https://fxbriol.github.io/talks/). For students at Imperial College London, see also my page about [supervision](https://fxbriol.github.io/supervision/)
 
 ### News
 
