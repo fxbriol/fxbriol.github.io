@@ -11,10 +11,8 @@ Department of Mathematics,\\
 Imperial College London,\\
 Huxley Building,\\
 180 Queen's Gate, \\
-Kensington, \\
-London SW7 2AZ,\\ 
-United Kingdom.\\
-
+London SW7 2AZ, \\ 
+United Kingdom.
 
 ### Email
 
