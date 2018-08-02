@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Papers"
+permalink: /papers/
 author_profile: true
 ---
 
@@ -29,7 +29,7 @@ author_profile: true
     
 * Barp, A., Barp, E. G., ***Briol, F-X.*** & Ueltschi, D. (2015). *A numerical study of the 3D random interchange and random loop models*. Journal of Physics A: Mathematical and Theoretical, 48(34). [(***Journal***)](http://iopscience.iop.org/article/10.1088/1751-8113/48/34/345002/meta) [(***arXiv***)](https://arxiv.org/abs/1505.00983) 
 
-### Discussion Papers
+### Discussions and Opinion Pieces
 
 * ***Briol, F-X.*** & Girolami, M. (2018) Bayesian Numerical Methods as a Case Study for Statistical Data Science. [Statistical Data Science](https://www.worldscientific.com/doi/abs/10.1142/9781786345400_0006): pp. 99-110. 
 
