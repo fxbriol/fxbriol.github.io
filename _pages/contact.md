@@ -7,13 +7,13 @@ author_profile: true
 ### Address
 
 Francois-Xavier Briol,\\
-Department of Mathematics,
-Imperial College London,
-Huxley Building,
-180 Queen's Gate, 
-Kensington, 
-London SW7 2AZ, 
-United Kingdom.
+Department of Mathematics,\\
+Imperial College London,\\
+Huxley Building,\\
+180 Queen's Gate, \\
+Kensington, \\
+London SW7 2AZ,\\ 
+United Kingdom.\\
 
 
 ### Email
