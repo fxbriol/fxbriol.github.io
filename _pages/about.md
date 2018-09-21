@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher at [Imperial College London](http://www.imperial.ac.uk/statistics/) in the Statistics section of the Department of Mathematics. I work with [Prof. Mark Girolami](https://www.imperial.ac.uk/people/m.girolami) on the EPSRC funded [MURI project](http://vision.jhu.edu/infopursuit/) on ``Semantic Information Pursuit for Multimodal Data Analysis". I also hold a visiting researcher position at [The Alan Turing Institute](https://www.turing.ac.uk/) where I am part of the programme on [Data-Centric Engineering](https://www.turing.ac.uk/research_projects/programme-data-centric-engineering).
+I am currently a researcher at [Imperial College London](http://www.imperial.ac.uk/statistics/), where I am a member of the statistics section in the department of mathematics. I work with [Prof. Mark Girolami](https://www.imperial.ac.uk/people/m.girolami) on the EPSRC funded [MURI project](http://vision.jhu.edu/infopursuit/) on "Semantic Information Pursuit for Multimodal Data Analysis". I am also a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk/) where I work on the [Data-Centric Engineering](https://www.turing.ac.uk/research_projects/programme-data-centric-engineering) programme. 
 
-Previously, I was also a PhD student on the Oxford-Warwick Statistics Programme (OxWaSP), which was jointly organised between the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/) and the Department of Statistics at the [University of Oxford](https://www.stats.ox.ac.uk/). 
+My current research interests are at the interface of computational statistics, machine learning and applied mathematics. In particular, I have been working on:
 
-My main research interests are at the interface of Computational Statistics, Machine Learning and Applied Mathematics. In particular, I have been working on:
+* **Bayesian Probabilistic Numerical Methods**: My work focuses on developing algorithms which solve problems from the field of numerical analysis using approaches from Bayesian inference. I have particularly focused on numerical integration, due to its importance in statistics and machine learning.
 
-* **Bayesian Probabilistic Numerical Methods**: I am interested in developing algorithms which solve problems from the field of numerical analysis using Bayesian inference methods. 
+* **Monte Carlo Methods**: I am interested in analysing Markov Chain Monte Carlo algorithms and variance reduction methods, specifically control variates and control functionals.
 
-* **Monte Carlo Methods**: I am interested in analysing Markov Chain Monte Carlo algorithms and variance reduction methods for related Monte Carlo estimators, specifically control variates and control functionals.
-
-* **Stein's Method and Kernels**: Recent work has shown the benefits of combining [Stein's method](https://sites.google.com/site/steinsmethod/home) with reproducing kernel Hilbert spaces in order to obtain tractable divergences between probability measures. This can be a useful tool for developing methods in computational statistics such as control variates, samplers and statistical estimators.  
+* **Stein's Method and Reproducing Kernels**: I have been working on the combination of [Stein's method](https://sites.google.com/site/steinsmethod/home) and reproducing kernel Hilbert spaces to construct algorithms for statistical computation and inference. This approach can be useful for a variety of problems, including control variates, approximation of measures and statistical estimators.  
 
 For more details on my research, see my [publications](https://fxbriol.github.io/papers/) page or my [Google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en), or try to catch me at one of my [presentations](https://fxbriol.github.io/presentations/). For supervision opportunities at Imperial College London, see also [this page](https://fxbriol.github.io/supervision/).
 
