@@ -4,12 +4,13 @@ permalink: /supervision/
 author_profile: true
 ---
 
-I enjoy supervising research projects and regularly take up the supervision of students at Imperial College London. If you are currently an MSc Statistics student at Imperial and are interested in my research, feel free to contact me to discuss opportunities.
+I enjoy supervising research projects and regularly take up the supervision or co-supervision of MSc and PhD students at Imperial College London. If you are interested in my research area, feel free to contact me to discuss opportunities.
 
 ### Current students
 
-* **Charline le Lan**, MSc Statistics thesis (Imperial College London, 2018), title: ``Neural Networks for Variance Reduction in MCMC". 
+* **George Wynne**, PhD student in Statistics at Imperial College London, Department of Mathematics. Co-supervised with Prof. Mark Girolami.
 
 ### Past students
 
+* **Charline le Lan**, MSc Statistics thesis (Imperial College London, 2018), title: ``Neural Networks for Variance Reduction in MCMC". 
 * **Xiaoyue Xi**, MSc Statistics thesis (Imperial College London, 2017), title: ``Bayesian Monte Carlo in Computer Graphics". Received best MSc thesis award. Now PhD student at Imperial College under the supervision of Dr. Oliver Ratmann. 
