@@ -12,7 +12,7 @@ Imperial College London,\\
 Huxley Building,\\
 180 Queen's Gate, \\
 London SW7 2AZ, \\ 
-United Kingdom.
+United Kingdom. \\
 
 ### Email
 

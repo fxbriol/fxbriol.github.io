@@ -6,6 +6,7 @@ author_profile: true
 
 ## Upcoming
 
+* 14th November 2018 - Talk - ***Harvard University***, Department of Statistics (Cambridge, US).
 * 14th-16th December 2018 - Talk - [***11th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2018)***](http://cmstatistics.org/conferences.php), Session on ``The Stein method and applications in statistics" (Pisa, Italy).
 
 ## Past
