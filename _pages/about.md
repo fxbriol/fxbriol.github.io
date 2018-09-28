@@ -16,7 +16,7 @@ My current research interests are at the interface of computational statistics, 
 
 * **Monte Carlo Methods**: I am interested in analysing Markov Chain Monte Carlo algorithms and variance reduction methods, specifically control variates and control functionals.
 
-* **Stein's Method and Reproducing Kernels**: I have been working on the combination of [Stein's method](https://sites.google.com/site/steinsmethod/home) and reproducing kernel Hilbert spaces to construct algorithms for statistical computation and inference. This approach can be useful for a variety of problems, including control variates, approximation of measures and statistical estimators.  
+* **Stein's Method and Reproducing Kernels**: I have been working on the combination of [Stein's method](https://sites.google.com/site/steinsmethod/home) and reproducing kernel Hilbert spaces to construct algorithms for statistical computation and inference. This approach can be useful for a variety of problems, including control variates, approximation of measures and statistical estimators.
 
 For more details on my research, see my [publications](https://fxbriol.github.io/papers/) page or my [Google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en), or try to catch me at one of my [presentations](https://fxbriol.github.io/presentations/). For supervision opportunities at Imperial College London, see also [this page](https://fxbriol.github.io/supervision/).
 
