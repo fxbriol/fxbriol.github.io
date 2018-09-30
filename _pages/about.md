@@ -12,7 +12,7 @@ I am currently a researcher at [Imperial College London](http://www.imperial.ac.
 
 My current research interests are at the interface of computational statistics, machine learning and applied mathematics. In particular, I have been working on:
 
-* **Bayesian Probabilistic Numerical Methods**: My work focuses on developing algorithms which solve problems from the field of numerical analysis using approaches from Bayesian inference. I have particularly focused on numerical integration, due to its importance in statistics and machine learning.
+* **Bayesian Probabilistic Numerical Methods**: My work focuses on developing algorithms which solve problems from the field of numerical analysis using approaches from Bayesian inference. I have particularly focused on numerical integration, due to its importance in statistics and machine learning. See [this page](http://probabilistic-numerics.org/) for recent work in probabilistic numerics, and [this page](https://www.turing.ac.uk/research/research-projects/probabilistic-numerics) for a non-technical overview.
 
 * **Monte Carlo Methods**: I am interested in analysing Markov Chain Monte Carlo algorithms and variance reduction methods, specifically control variates and control functionals.
 
