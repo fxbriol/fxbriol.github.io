@@ -22,9 +22,7 @@ For more details on my research, see my [publications](https://fxbriol.github.io
 
 ### News
 
-1. I will be visiting [Lester Mackey](https://web.stanford.edu/~lmackey/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in Cambridge (US) between the 22nd October 2018 and 16th November 2018. 
+1. I will be visiting [Lester Mackey](https://web.stanford.edu/~lmackey/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in Cambridge (US) between the 22nd October 2018 and 16th November 2018, and will also be giving talks at Harvard and MIT. 
 
 1. My paper on ["Probabilistic Integration: A Role in Statistical Computation?"](https://arxiv.org/abs/1512.00933) has been accepted for publication at [Statistical Science](https://projecteuclid.org/euclid.ss) and will appear together with invited discussions from leading researchers in statistics.
-
-1. I have two papers accepted at this year's edition of ICML; the first paper is on [*Stein Points*](https://arxiv.org/abs/1803.10161), a method to efficiently sample from complex posteriors, and the second is on [Bayesian Quadrature for Multiple Related Functions](https://arxiv.org/abs/1801.04153), an algorithm to compute the integral of several correlated functions simultaneously.
 
