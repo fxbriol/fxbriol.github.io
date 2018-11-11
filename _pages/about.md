@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Imperial College London](http://www.imperial.ac.uk/statistics/), where I am a member of the Statistics section in the Department of Mathematics. At Imperial, I work with [Prof. Mark Girolami](https://www.imperial.ac.uk/people/m.girolami) on the EPSRC funded [MURI project](http://vision.jhu.edu/infopursuit/) on "Semantic Information Pursuit for Multimodal Data Analysis". I am also a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk/), where I work on projects relating to the [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) programme with [Dr. Chris J. Oates](http://oates.work/). 
+I am a researcher at [Imperial College London](http://www.imperial.ac.uk/statistics/), where I am a member of the Statistics section in the Department of Mathematics. At Imperial, I work with [Prof. Mark Girolami](https://www.imperial.ac.uk/people/m.girolami) on the EPSRC funded [MURI project](http://vision.jhu.edu/infopursuit/) on "Semantic Information Pursuit for Multimodal Data Analysis". I am also a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk/), where I work on projects relating to the [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) programme with [Prof. Chris J. Oates](http://oates.work/). 
 
 My current research interests are at the interface of Computational Statistics, Machine Learning and Applied Mathematics. In particular, I have been working on:
 
