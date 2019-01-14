@@ -6,8 +6,7 @@ author_profile: true
 
 ## Upcoming
 
-
-
+* 21st June 2018 - Talk - ***Imperial College London, Department of Mathematics***. [Statistics section seminar](http://www.imperial.ac.uk/statistics/seminars/statistics-seminar/) (London, UK).
 
 ## Past
 
