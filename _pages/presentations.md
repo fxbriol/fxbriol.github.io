@@ -11,6 +11,7 @@ author_profile: true
 ## Past
 
 ### 2018
+* 31st January 2019 - Talk - ***London School of Economics and Political Sciences***, Department of Statistics (London, UK).
 * 15th December 2018 - Talk - [***11th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2018)***](http://cmstatistics.org/conferences.php), Session on ``The Stein method and applications in statistics" (Pisa, Italy).
 * 14th November 2018 - Talk - ***Harvard University***, Department of Statistics (Cambridge, US).
 * 13th November 2018 - Talk - ***Massachusetts Institute of Technology***, Computer Science and Artificial Intelligence Laboratory (CSAIL) (Cambridge, US).
