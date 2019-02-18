@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research associate at [Imperial College London](http://www.imperial.ac.uk/statistics/), where I am a member of the statistics section in the Department of Mathematics. At Imperial, I work with [Prof. Mark Girolami](https://www.imperial.ac.uk/people/m.girolami) on the EPSRC funded [MURI project](http://vision.jhu.edu/infopursuit/) on "Semantic Information Pursuit for Multimodal Data Analysis". I am also a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk/), where I work on projects relating to the [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering) programme with [Prof. Chris J. Oates](http://oates.work/). Prior to this, I was a PhD student on the joint Oxford-Warwick CDT programme in statistical science.
+I am a research associate at [Imperial College London](http://www.imperial.ac.uk/statistics/), where I am a member of the statistics section in the Department of Mathematics. At Imperial, on the EPSRC funded [MURI project](http://vision.jhu.edu/infopursuit/) on "Semantic Information Pursuit for Multimodal Data Analysis". I am also a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk/), where I work on projects relating to the [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). Prior to this, I was a PhD student on the joint Oxford-Warwick centre for doctoral training in statistical science.
 
 
 
-My current research interests are at the interface of computational statistics, machine learning and applied mathematics. In particular, I work on methodology for statistical computation and inference for large scale probabilistic models and use a variety of tools to solve these problems including kernel methods, stochastic process theory, Stein's method and Monte Carlo methods. For more details on my research, see my [publications](https://fxbriol.github.io/papers/) page or my [Google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en), or try to catch me at one of my [presentations](https://fxbriol.github.io/presentations/). For supervision opportunities at Imperial College London, see also [this page](https://fxbriol.github.io/supervision/).
+My current research interests are at the interface of computational statistics, machine learning and applied mathematics. In particular, I work on methodology for statistical computation and inference for large scale probabilistic models and use a variety of tools to solve these problems including kernel methods, stochastic process theory, Stein's method and Monte Carlo methods. 
+
+For more details on my research, see my [publications](https://fxbriol.github.io/papers/) page or my [Google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en), or try to catch me at one of my [presentations](https://fxbriol.github.io/presentations/). For supervision opportunities at Imperial College London, see also [this page](https://fxbriol.github.io/supervision/).
 
 ### News
 
