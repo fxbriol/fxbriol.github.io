@@ -20,3 +20,4 @@ For more details on my research, see my [publications](https://fxbriol.github.io
 
 * My paper on "Probabilistic Integration: A Role in Statistical Computation?" has been accepted for publication at Statistical Science and will appear together with invited discussions (all available [here](https://www.imstat.org/journals-and-publications/statistical-science/statistical-science-future-papers/)) from leading researchers in statistics, as well as a [rejoinder](https://arxiv.org/abs/1811.10275). 
 
+* I am co-organising an [ICML](http://icml.cc/) workshop on "Stein's method in Machine Learning and Statistics" with Lester Mackey, Chris Oates, Qiang Liu and Larry Goldstein. The workshop will bring together experts in Stein's method and researchers in machine learning and statistics to explore applications of the method in those fields. More details to come soon!
