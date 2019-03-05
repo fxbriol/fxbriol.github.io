@@ -6,12 +6,12 @@ author_profile: true
 
 ## Upcoming
 
-* 25th February 2019 - Talk - ***University College London, Department of Statistics***. (London, UK)
 * 21st June 2019 - Talk - ***Imperial College London, Department of Mathematics***. [Statistics section seminar](http://www.imperial.ac.uk/statistics/seminars/statistics-seminar/) (London, UK).
 
 ## Past
 
 ### 2019 
+* 28th February 2019 - Talk - ***University College London, Department of Statistics***. (London, UK)
 * 31st January 2019 - Talk - ***London School of Economics and Political Sciences***, Department of Statistics (London, UK).
 
 
