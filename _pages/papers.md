@@ -6,13 +6,15 @@ author_profile: true
 
 ### Papers
 
-* Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein Points*. International Conference on Machine Learning, PMLR 80:843-852. 
-[(***Conference***)](http://proceedings.mlr.press/v80/chen18f.html) [(***arXiv***)](https://arxiv.org/abs/1803.10161) [(***code***)](https://github.com/wilson-ye-chen/stein_points)
+* Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence Rates for a Class of Estimators Based on Stein's Identity*. arXiv:1603.03220. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846)[(***arXiv***)](https://arxiv.org/abs/1603.03220)
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian Quadrature for Multiple Related Integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. Accepted for a long talk (top 8% of papers submitted).[(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html)
 [(***arXiv***)](https://arxiv.org/abs/1801.04153)
 
-* Barp, A., ***Briol, F-X.***, Kennedy, A. D. & Girolami, M. (2018). *Geometry and Dynamics for Markov Chain Monte Carlo*. Annual Review of Statistics and Its Applications, Vol. 5:451-471
+* Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein Points*. International Conference on Machine Learning, PMLR 80:843-852. 
+[(***Conference***)](http://proceedings.mlr.press/v80/chen18f.html) [(***arXiv***)](https://arxiv.org/abs/1803.10161) [(***code***)](https://github.com/wilson-ye-chen/stein_points)
+
+* Barp, A., ***Briol, F-X.***, Kennedy, A. D. & Girolami, M. (2018). *Geometry and Dynamics for Markov Chain Monte Carlo*. Annual Review of Statistics and Its Applications, Vol. 5:451-471.
 [(***Journal***)](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031017-100141) [(***arXiv***)](https://arxiv.org/abs/1705.02891)
 
 * Oates, C. J., Niederer, S., Lee, A., ***Briol, F-X.*** & Girolami, M. (2017). *Probabilistic Models for Integration Error in the Assessment of Functional Cardiac Models*. Advances in Neural Information Processing Systems (NeurIPS), pages 109-117. 
@@ -20,7 +22,6 @@ author_profile: true
 
 * ***Briol, F-X.***, Oates, C. J., Cockayne, J., Chen, W. Y. & Girolami, M. (2017). *On the Sampling Problem for Kernel Quadrature*. Proceedings of the 34th International Conference on Machine Learning, PMLR 70:586-595. [(***Conference***)](http://proceedings.mlr.press/v70/briol17a.html) [(***arXiv***)](https://arxiv.org/abs/1706.03369) 
 
-* Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2016). *Convergence Rates for a Class of Estimators Based on Stein's Identity*. arXiv:1603.03220. Accepted for publication at "Bernoulli". [(***arXiv***)](https://arxiv.org/abs/1603.03220)
     
 * ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2015). *Probabilistic Integration: A Role in Statistical Computation?* Accepted for publication at "Statistical Science" (with discussion). Student Paper award 2016 from the Section on Bayesian Statistical Science of the ASA. [(***Journal***)](https://www.imstat.org/journals-and-publications/statistical-science/statistical-science-future-papers/) [(***arXiv***)](https://arxiv.org/abs/1512.00933) [(***Blog post by Andrew Gelman***)](http://andrewgelman.com/2015/12/07/28279/) [(***Blog post by Christian Robert***)](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/)
     
