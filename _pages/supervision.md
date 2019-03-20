@@ -4,11 +4,11 @@ permalink: /supervision/
 author_profile: true
 ---
 
-I enjoy supervising research projects and regularly take up the supervision or co-supervision of MSc and PhD students at Imperial College London. If you are interested in my research area, feel free to contact me to discuss opportunities.
+I enjoy supervising research projects and regularly take up the supervision or co-supervision of MSc and PhD students. If you are interested in my research area, feel free to contact me to discuss opportunities.
 
 ### Current students
 
-* **George Wynne**, PhD student in Statistics at Imperial College London, Department of Mathematics. Co-supervised with Prof. Mark Girolami.
+* **George Wynne**, PhD student in Statistics at Imperial College London, Department of Mathematics. Co-supervised with Dr. Andrew Duncan.
 
 ### Past students
 
