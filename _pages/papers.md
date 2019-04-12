@@ -6,6 +6,12 @@ author_profile: true
 
 ### Papers
 
+* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, pp1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***arXiv***)](https://arxiv.org/abs/1512.00933)
+	* This paper accepted with discussion and [rejoinder](dx.doi.org/10.1214/18-STS683). 
+	* This paper was awarded a Student Paper Award from the section on Bayesian Statistical Science of the American Statistical Association in 2016.
+	* This paper was discussed on several blogs, including by [Prof Andrew Gelman](http://andrewgelman.com/2015/12/07/28279/) and [Prof. Christian Robert](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/)
+
+
 * Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***arXiv***)](https://arxiv.org/abs/1603.03220)
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. Accepted for a long talk (top 8% of papers submitted).[(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html)
@@ -23,8 +29,6 @@ author_profile: true
 * ***Briol, F-X.***, Oates, C. J., Cockayne, J., Chen, W. Y. & Girolami, M. (2017). *On the sampling problem for kernel quadrature*. Proceedings of the 34th International Conference on Machine Learning, PMLR 70:586-595. [(***Conference***)](http://proceedings.mlr.press/v70/briol17a.html) [(***arXiv***)](https://arxiv.org/abs/1706.03369) 
 
     
-* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2015). *Probabilistic integration: a role in statistical computation?* Accepted for publication at "Statistical Science" (with discussion). Student Paper award 2016 from the Section on Bayesian Statistical Science of the ASA. [(***Journal***)](https://www.imstat.org/journals-and-publications/statistical-science/statistical-science-future-papers/) [(***arXiv***)](https://arxiv.org/abs/1512.00933) [(***Blog post by Andrew Gelman***)](http://andrewgelman.com/2015/12/07/28279/) [(***Blog post by Christian Robert***)](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/)
-    
 * ***Briol, F-X.***, Oates, C. J., Girolami, M. & Osborne, M. A. (2015). *Frank-Wolfe Bayesian Quadrature: probabilistic integration with theoretical guarantees*. Advances In Neural Information Processing Systems (NIPS), pages 1162-1170. Accepted with spotlight presentation (top 4.5% of submitted papers).
 [(***arXiv***)](https://arxiv.org/abs/1506.02681) [(***Conference***)](https://papers.nips.cc/paper/5749-frank-wolfe-bayesian-quadrature-probabilistic-integration-with-theoretical-guarantees) [(***Blog post by Ingmar Schuster***)](https://ingmarschuster.wordpress.com/2015/10/26/frank-wolfe-bayesian-quadrature/)
     
@@ -32,7 +36,7 @@ author_profile: true
 
 ### Discussions and Opinion Pieces
 
-* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2018). *Rejoinder for "Probabilistic integration: a role in statistical computation?"* Accepted for publication at "Statistical Science". [(***arXiv***)](https://arxiv.org/abs/1811.10275) 
+* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2018). *Rejoinder for "Probabilistic integration: a role in statistical computation?"* Statistical Science, Vol 34, Number 1, pp38-42. [(***Journal***)](dx.doi.org/10.1214/18-STS683) [(***arXiv***)](https://arxiv.org/abs/1811.10275) 
 
 * ***Briol, F-X.*** & Girolami, M. (2018) Bayesian numerical methods as a case study for statistical data science, Statistical Data Science (Chapter 6): pp. 99-110. [(***Book***)](https://www.worldscientific.com/doi/abs/10.1142/9781786345400_0006) 
 
