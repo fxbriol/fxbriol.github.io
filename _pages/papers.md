@@ -12,10 +12,10 @@ This page contains a list of all my publications. For more details, see also my 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, pp1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***Preprint***)](https://fxbriol.github.io/_pages/pdfs/STS660.pdf) [(***Supplement***)](https://fxbriol.github.io/_pages/pdfs/STS660_supplement.pdf)
 	* This paper accepted with discussion and [rejoinder](https://projecteuclid.org/euclid.ss/1555056029). There are three discussion pieces by (i) Fred Hickernel and R. Jagadeeswaran [(Journal)](https://projecteuclid.org/euclid.ss/1555056026) [(Preprint)](https://arxiv.org/pdf/1812.01811.pdf), (ii) Art Owen [(Journal)](https://projecteuclid.org/euclid.ss/1555056027) [(Preprint)](http://statweb.stanford.edu/~owen/reports/unreeff), and (iii) Michael Stein and Ying Hung [(Journal)](https://projecteuclid.org/euclid.ss/1555056028). 
 	* This paper was awarded a Student Paper Award from the section on Bayesian Statistical Science of the American Statistical Association in 2016.
-	* This paper was discussed on several blogs, including by [Prof Andrew Gelman](http://andrewgelman.com/2015/12/07/28279/) and [Prof. Christian Robert](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/)
+	* This paper was discussed on several blogs, including by [Prof. Andrew Gelman](http://andrewgelman.com/2015/12/07/28279/) and [Prof. Christian Robert](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/).
 
 
-* Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***arXiv***)](https://arxiv.org/abs/1603.03220)
+* Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***Preprint***)](https://fxbriol.github.io/_pages/pdfs/Bernoulli_1551862846pdf)
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. [(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html)
 [(***arXiv***)](https://arxiv.org/abs/1801.04153)
