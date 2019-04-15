@@ -9,7 +9,7 @@ This page contains a list of all my publications. For more details, see also my 
 
 ### Papers
 
-* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, pp1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***arXiv***)](https://arxiv.org/abs/1512.00933) [(***Supplement***)](https://doi.org/10.1214/18-STS660SUPP)
+* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, pp1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***Preprint***)](https://fxbriol.github.io/_pages/pdfs/STS660.pdf) [(***Supplement***)](https://fxbriol.github.io/_pages/pdfs/STS660_supplement.pdf)
 	* This paper accepted with discussion and [rejoinder](https://projecteuclid.org/euclid.ss/1555056029). There are three discussion pieces by (i) Fred Hickernel and R. Jagadeeswaran [(Journal)](https://projecteuclid.org/euclid.ss/1555056026) [(Preprint)](https://arxiv.org/pdf/1812.01811.pdf), (ii) Art Owen [(Journal)](https://projecteuclid.org/euclid.ss/1555056027) [(Preprint)](http://statweb.stanford.edu/~owen/reports/unreeff), and (iii) Michael Stein and Ying Hung [(Journal)](https://projecteuclid.org/euclid.ss/1555056028). 
 	* This paper was awarded a Student Paper Award from the section on Bayesian Statistical Science of the American Statistical Association in 2016.
 	* This paper was discussed on several blogs, including by [Prof Andrew Gelman](http://andrewgelman.com/2015/12/07/28279/) and [Prof. Christian Robert](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/)
@@ -41,7 +41,7 @@ This page contains a list of all my publications. For more details, see also my 
 
 ### Discussions and Opinion Pieces
 
-* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2018). *Rejoinder for "Probabilistic integration: a role in statistical computation?"* Statistical Science, Vol 34, Number 1, pp38-42. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056029) [(***arXiv***)](https://arxiv.org/abs/1811.10275) 
+* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2018). *Rejoinder for "Probabilistic integration: a role in statistical computation?"* Statistical Science, Vol 34, Number 1, pp38-42. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056029) [(***Preprint***)](https://fxbriol.github.io/_pages/pdfs/STS683.pdf) 
 
 * ***Briol, F-X.*** & Girolami, M. (2018) Bayesian numerical methods as a case study for statistical data science, Statistical Data Science (Chapter 6): pp. 99-110. [(***Book***)](https://www.worldscientific.com/doi/abs/10.1142/9781786345400_0006) 
 
