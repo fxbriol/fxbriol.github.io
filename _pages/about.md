@@ -16,6 +16,6 @@ For more details on my research, see my [publications](https://fxbriol.github.io
 
 ### News
 
-* My paper on "Probabilistic Integration: A Role in Statistical Computation?" has been accepted for [publication in Statistical Science](https://projecteuclid.org/euclid.ss/1555056029) and will appear together with invited discussions from leading researchers in statistics, as well as a rejoinder. 
+* My paper on "Probabilistic Integration: A Role in Statistical Computation?" has been accepted for [publication in Statistical Science](https://projecteuclid.org/euclid.ss/1555056025) and will appear together with invited discussions from leading researchers in statistics, as well as a [rejoinder](https://projecteuclid.org/euclid.ss/1555056029). There are three discussion pieces by (i) [Fred Hickernel and R. Jagadeeswaran](https://projecteuclid.org/euclid.ss/1555056026), (ii) [Art Owen](https://projecteuclid.org/euclid.ss/1555056027), and (iii) [Michael Stein and Ying Hung](https://projecteuclid.org/euclid.ss/1555056028).
 
 * I am co-organising a work at the International Conference on Machine Learning (ICML) on ["Stein's method in Machine Learning and Statistics"](https://steinworkshop.github.io/) with Lester Mackey, Chris Oates, Qiang Liu and Larry Goldstein. The workshop will bring together experts in Stein's method and researchers in machine learning and statistics to explore applications of the method in those fields. The call for posters closes on the 17th May.
