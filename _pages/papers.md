@@ -15,7 +15,7 @@ This page contains a list of all my publications. For more details, see also my 
 	* This paper was discussed on several blogs, including by [Prof. Andrew Gelman](http://andrewgelman.com/2015/12/07/28279/) and [Prof. Christian Robert](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/).
 
 
-* Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***Preprint***)](https://fxbriol.github.io/_pages/pdfs/Bernoulli_1551862846pdf)
+* Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***Preprint***)](https://fxbriol.github.io/_pages/pdfs/Bernoulli_1551862846.pdf)
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. [(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html)
 [(***arXiv***)](https://arxiv.org/abs/1801.04153)
@@ -46,3 +46,9 @@ This page contains a list of all my publications. For more details, see also my 
 * ***Briol, F-X.*** & Girolami, M. (2018) Bayesian numerical methods as a case study for statistical data science, Statistical Data Science (Chapter 6): pp. 99-110. [(***Book***)](https://www.worldscientific.com/doi/abs/10.1142/9781786345400_0006) 
 
 * ***Briol, F-X.***, Cockayne, J. & Teymur, O. (2016). *Contributed discussion on article by Chkrebtii, Campbell, Calderhead, and Girolami*. Bayesian Analysis, 11(4), 1285-1293. [(***Journal***)](https://projecteuclid.org/euclid.ba/1480474950) [(***arXiv***)](https://arxiv.org/abs/1610.06752)
+
+### Dissertations
+
+* ***Briol, F-X.*** (2019). *Statistical computation with kernels*. PhD thesis, Department of Statistics, University of Warwick. [(***PDF***)](https://fxbriol.github.io/_pages/pdfs/PhDthesis_fxbriol.pdf)
+
+* ***Briol, F-X.*** (2014). *Inference for Hawkes Processes*. Masters thesis, Department of Statistics, University of Warwick.
