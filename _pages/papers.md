@@ -4,7 +4,12 @@ permalink: /papers/
 author_profile: true
 ---
 
-This page contains a list of all my publications. For more details, see also my [Google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en).
+This page contains a list of all my publications. For more details, see also my [Google Scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en).
+
+
+### Preprints
+
+* Chen, W. Y., Barp, A., ***Briol, F-X***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein Point Markov Chain Monte Carlo*, to appear at ICML 2019. [(***Preprint***)](https://arxiv.org/pdf/1905.03673)
 
 
 ### Papers

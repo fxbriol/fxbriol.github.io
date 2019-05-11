@@ -12,5 +12,5 @@ I enjoy supervising research projects and regularly take up the supervision or c
 
 ### Past students
 
-* **Charline le Lan**, MSc Statistics thesis (Imperial College London, 2018), title: ``Neural Networks for Variance Reduction in MCMC". Now PhD student at the University of Oxford under the supervision of Prof. Yee Whye Teh. 
-* **Xiaoyue Xi**, MSc Statistics thesis (Imperial College London, 2017), title: ``Bayesian Monte Carlo in Computer Graphics". Received best MSc thesis award. Now PhD student at Imperial College under the supervision of Dr. Oliver Ratmann. 
+* **Charline le Lan**, MSc Statistics thesis (Imperial College London, 2018), title: "Neural Networks for Variance Reduction in MCMC". Now PhD student at the University of Oxford under the supervision of Prof. Yee Whye Teh. 
+* **Xiaoyue Xi**, MSc Statistics thesis (Imperial College London, 2017), title: "Bayesian Monte Carlo in Computer Graphics". Received best MSc thesis award. Now PhD student at Imperial College under the supervision of Dr. Oliver Ratmann. 
