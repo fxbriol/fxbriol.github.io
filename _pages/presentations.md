@@ -6,6 +6,7 @@ author_profile: true
 
 ## Upcoming
 
+* 22nd May 2019 - Talk - ***University College London, Department of Computer Science***, (London, UK).
 * 21st June 2019 - Talk - ***Imperial College London, Department of Mathematics***. [Statistics Section Seminar](http://www.imperial.ac.uk/statistics/seminars/statistics-seminar/) (London, UK).
 * 24th-26th July 2019 - Talk - ***Imperial College London***, Workshop on "[Scalable Bayesian Inference in Applied Fields](https://www.eventbrite.co.uk/e/workshop-in-scalable-bayesian-inference-in-applied-fields-and-stan-course-tickets-60214998682?utm_term=eventurl_text)" (London, UK). 
 * 24th October 2019 - Talk - ***Lancaster University, Department of Mathematics and Statistics***. [Computational Statistics and Machine Learning Seminar](https://lu-csml.github.io/) (Lancaster, UK).
