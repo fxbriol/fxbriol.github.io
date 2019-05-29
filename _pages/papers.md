@@ -6,13 +6,9 @@ author_profile: true
 
 This page contains a list of all my publications. For more details, see also my [Google Scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en).
 
-
-### Preprints
-
-* Chen, W. Y., Barp, A., ***Briol, F-X***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein Point Markov Chain Monte Carlo*, to appear at ICML 2019. [(***Preprint***)](https://arxiv.org/pdf/1905.03673)
-
-
 ### Papers
+
+* Chen, W. Y., Barp, A., ***Briol, F-X***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/pdf/1905.03673)
 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, pp1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS660.pdf) [(***Supplement***)](https://fxbriol.github.io/pdfs/STS660_supplement.pdf)
 	* This paper accepted with discussion and [rejoinder](https://projecteuclid.org/euclid.ss/1555056029). There are three discussion pieces by (i) Fred Hickernel and R. Jagadeeswaran [(Journal)](https://projecteuclid.org/euclid.ss/1555056026) [(Preprint)](https://arxiv.org/pdf/1812.01811.pdf), (ii) Art Owen [(Journal)](https://projecteuclid.org/euclid.ss/1555056027) [(Preprint)](http://statweb.stanford.edu/~owen/reports/unreeff), and (iii) Michael Stein and Ying Hung [(Journal)](https://projecteuclid.org/euclid.ss/1555056028). 
