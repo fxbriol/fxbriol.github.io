@@ -8,8 +8,7 @@ This page contains a list of all my publications. For more details, see also my 
 
 ### Preprints
 
-* Briol, F-X, Barp, A., Duncan, A. B., Girolami, M. (2019). Statistical Inference for Generative Models
-with Maximum Mean Discrepancy. [(***Preprint***)](https://fxbriol.github.io/pdfs/StatisticalInferenceMMD.pdf)
+* ***Briol, F-X***, Barp, A., Duncan, A. B., Girolami, M. (2019). Statistical Inference for Generative Models with Maximum Mean Discrepancy. [(***Preprint***)](https://fxbriol.github.io/pdfs/StatisticalInferenceMMD.pdf)
 
 ### Papers
 
