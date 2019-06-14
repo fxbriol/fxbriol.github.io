@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-This page contains a list of all my publications. For more details, see also my [Google Scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en).
+This page contains all my publications; for more details, see my [Google Scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en).
 
 ### Preprints
 
