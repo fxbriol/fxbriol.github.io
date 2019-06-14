@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research associate at the University of Cambridge in the Department of Engineering, and a visiting researcher at The Alan Turing Institute, where I am affiliated to the [data-centric engineering programme](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). From August 2019 onwards, I will be moving to University College London where I will be taking up a position of Lecturer in Statistical Sciences (equivalent to Assistant Professor). 
+I am currently a research associate at the University of Cambridge and a visiting researcher at The Alan Turing Institute, where I am affiliated to the data-centric engineering programme. From August 2019 onwards, I will be moving to University College London where I will be taking up a position of Lecturer in Statistical Sciences (equivalent to Assistant Professor). 
 
 Prior to Cambridge, I was a research assistant in the Department of Mathematics at Imperial College London, and before that, a PhD student on the joint centre for doctoral training in Statistical Science led by the universities of Warwick and Oxford.
 
@@ -18,7 +18,6 @@ For more details on my research, see my [publications](https://fxbriol.github.io
 
 ### News
 
-* I will be moving to University College London as a Lecturer in Statistical Sciences from August onwards.
 
 * New paper on approximating expensive and multimodal probability measures: [*Stein Point Markov Chain Monte Carlo*](https://arxiv.org/pdf/1905.03673). This paper significantly improves the scalability of the Stein Point algorithms, which were proposed as an alternative to MCMC methods for Bayesian computation for expensive posterior distributions. The paper will appear in the proceedings of ICML 2019.
 

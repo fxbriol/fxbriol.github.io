@@ -6,6 +6,11 @@ author_profile: true
 
 This page contains a list of all my publications. For more details, see also my [Google Scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en).
 
+### Preprints
+
+* Briol, F-X, Barp, A., Duncan, A. B., Girolami, M. (2019). Statistical Inference for Generative Models
+with Maximum Mean Discrepancy. [(***Preprint***)](https://fxbriol.github.io/pdfs/StatisticalInferenceMMD.pdf)
+
 ### Papers
 
 * Chen, W. Y., Barp, A., ***Briol, F-X***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/pdf/1905.03673)
