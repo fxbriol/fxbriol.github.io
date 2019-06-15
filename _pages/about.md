@@ -19,10 +19,9 @@ For more details on my research, see my [publications](https://fxbriol.github.io
 ### News
 
 
+* I have two new papers on doing inference for intractable model. The first paper, called [Minimum Stein Discrepancy Estimators](https://fxbriol.github.io/pdfs/MinimumSteinDiscrepancyEstimators.pdf), is a very flexible framework to do inference for models with unnormalised likelihoods which is grounded in Stein's method and can recover many existing methods, such as score-matching and contrastive divergence, as special cases. The second, called [Statistical Inference for Generative Models with Maximum Mean Discrepancy](https://fxbriol.github.io/pdfs/StatisticalInferenceMMD.pdf) considers the problem of inference for generative models, and studies the flexibility afforded by the choice of reproducing kernel.
+
 * New paper on approximating expensive and multimodal probability measures: [*Stein Point Markov Chain Monte Carlo*](https://arxiv.org/pdf/1905.03673). This paper significantly improves the scalability of the Stein Point algorithms, which were proposed as an alternative to MCMC methods for Bayesian computation for expensive posterior distributions. The paper will appear in the proceedings of ICML 2019.
-
-* I am co-organising a work at the International Conference on Machine Learning (ICML) on ["Stein's method in Machine Learning and Statistics"](https://steinworkshop.github.io/) with Lester Mackey, Chris Oates, Qiang Liu and Larry Goldstein. The workshop will bring together experts in Stein's method and researchers in machine learning and statistics to explore applications of the method in those fields. The call for posters closes on the 17th May.
-
 
 * Our paper on "Probabilistic Integration: A Role in Statistical Computation?" has been accepted for [publication in Statistical Science](https://projecteuclid.org/euclid.ss/1555056025) and will appear together with invited discussions from leading researchers in statistics, as well as a [rejoinder](https://projecteuclid.org/euclid.ss/1555056029). There are three discussion pieces by (i) [Fred Hickernel and R. Jagadeeswaran](https://projecteuclid.org/euclid.ss/1555056026), (ii) [Art Owen](https://projecteuclid.org/euclid.ss/1555056027), and (iii) [Michael Stein and Ying Hung](https://projecteuclid.org/euclid.ss/1555056028).
 
