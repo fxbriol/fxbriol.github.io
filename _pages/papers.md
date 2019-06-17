@@ -10,9 +10,9 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 
 
-* ***Briol, F-X***, Barp, A., Duncan, A. B., Girolami, M. (2019). Statistical inference for generative models with maximum mean discrepancy. [(***Preprint***)](https://fxbriol.github.io/pdfs/StatisticalInferenceMMD.pdf)
+* ***Briol, F-X***, Barp, A., Duncan, A. B., Girolami, M. (2019). Statistical inference for generative models with maximum mean discrepancy. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/pdf/1906.05944.pdf)
 
-* Barp, A., ***Briol, F-X***, Duncan, A. B., Girolami, M., Mackey, L. (2019). Minimum Stein Discrepancy Estimators. [(***Preprint***)](https://fxbriol.github.io/pdfs/MinimumSteinDiscrepancyEstimators.pdf)
+* Barp, A., ***Briol, F-X***, Duncan, A. B., Girolami, M., Mackey, L. (2019). Minimum Stein discrepancy estimators. [(***Preprint***)](https://fxbriol.github.io/pdfs/MinimumSteinDiscrepancyEstimators.pdf)
 
 ### Papers
 
