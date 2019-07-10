@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research associate at the University of Cambridge and a visiting researcher at The Alan Turing Institute, where I am affiliated to the data-centric engineering programme. From August 2019 onwards, I will be moving to University College London where I will be taking up a position of Lecturer in Statistical Science (equivalent to Assistant Professor). Prior to Cambridge, I was a research assistant in the Department of Mathematics at Imperial College London, and before that, a PhD student on the joint centre for doctoral training in Statistical Science led by the universities of Warwick and Oxford.
+I am currently a research associate at the University of Cambridge and a visiting researcher at The Alan Turing Institute, where I am affiliated to the data-centric engineering programme. From August 2019 onwards, I will be moving to University College London where I will be a Lecturer in Statistical Science (equivalent to Assistant Professor). Prior to Cambridge, I was a research assistant in the Department of Mathematics at Imperial College London, and before that, a PhD student on the joint centre for doctoral training in Statistical Science led by the universities of Warwick and Oxford.
 
 My research interests are at the interface of computational statistics, machine learning and applied mathematics. In particular, I work on methodology for statistical computation and inference for large scale and computationally expensive probabilistic models. To do so, I like to use a variety of tools including kernel methods, Monte Carlo methods, stochastic process theory and Stein's method. 
 
