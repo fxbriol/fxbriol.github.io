@@ -6,9 +6,11 @@ author_profile: true
 
 ## Upcoming
 
-* 24th-26th July 2019 - Talk - [***Workshop on Scalable Bayesian Inference in Applied Fields***](https://www.eventbrite.co.uk/e/workshop-in-scalable-bayesian-inference-in-applied-fields-and-stan-course-tickets-60214998682?utm_term=eventurl_text), Imperial College London (London, UK). 
-* 26th-27th October 2019 - Talk - ***Workshop on Recent Developments on Kernel Methods***, University College London (London, UK).
+* 26th July 2019 - Talk - [***Workshop on Scalable Bayesian Inference in Applied Fields***](https://www.eventbrite.co.uk/e/workshop-in-scalable-bayesian-inference-in-applied-fields-and-stan-course-tickets-60214998682?utm_term=eventurl_text), Imperial College London (London, UK). 
+* 26th-27th September 2019 - Talk - ***Workshop on Recent Developments on Kernel Methods***, University College London (London, UK).
 * 24th October 2019 - Talk - ***Lancaster University, Department of Mathematics and Statistics***. [Computational Statistics and Machine Learning Seminar](https://lu-csml.github.io/) (Lancaster, UK).
+* 18th-19th November 2019 - Talk - ***Workshop on Active Learning in Regenerative Medicine***, Imperial College London (London, UK).
+* 19th-20th February 2020 - Talk - ***The Institute for Statistical Mathematics*** (Tokyo, Japan).
 
 ## Past
 
