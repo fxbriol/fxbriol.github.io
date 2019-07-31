@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research associate at the University of Cambridge and a visiting researcher at The Alan Turing Institute, where I am affiliated to the data-centric engineering programme. From August 2019 onwards, I will be moving to University College London where I will be a Lecturer in Statistical Science (equivalent to Assistant Professor). Prior to Cambridge, I was a research assistant in the Department of Mathematics at Imperial College London, and before that, a PhD student on the joint centre for doctoral training in Statistical Science led by the universities of Warwick and Oxford.
+I am currently a Lecturer in the Department of Statistical Science at University College London (equivalent to Assistant Professor), and a visiting researcher at The Alan Turing Institute, where I am affiliated to the data-centric engineering programme.
 
-My research interests are at the interface of computational statistics, machine learning and applied mathematics. In particular, I work on methodology for statistical computation and inference for large scale and computationally expensive probabilistic models. To do so, I like to use a variety of tools including kernel methods, Monte Carlo methods, stochastic process theory and Stein's method. 
+My research interests are at the interface of computational statistics, machine learning and applied mathematics. In particular, I work on methodology for statistical computation and inference for large scale and computationally expensive probabilistic models. To do so, I like to use a variety of tools including kernel methods, Monte Carlo methods, stochastic process theory and Stein's method.
 
-For more details on my research, see my [publications](https://fxbriol.github.io/papers/) page or my [Google Scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en). Alternatively, you can catch me at one of my [presentations](https://fxbriol.github.io/presentations/). For supervision opportunities, see also [this page](https://fxbriol.github.io/supervision/).
+For more details on my research, see my [publications](https://fxbriol.github.io/papers/) page or my [google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en). Alternatively, you can catch me at one of my [presentations](https://fxbriol.github.io/presentations/). For supervision opportunities, see also [this page](https://fxbriol.github.io/supervision/).
+
+Prior to UCL, I was a PhD student on the joint centre for doctoral training in between Warwick and Oxford, then briefly a research assistant in the Department of Mathematics at Imperial College London and a research associate in the Department of Engineering at the University of Cambridge. 
 
 ### News
-
-* I will be joining University College London in August as a Lecturer in Statistical Science.
 
 * I have two new papers on doing inference for intractable model. The first paper, called [Minimum Stein Discrepancy Estimators](https://arxiv.org/abs/1906.08283), is a very flexible framework to do inference for models with unnormalised likelihoods which is grounded in Stein's method and can recover many existing methods, such as score-matching and contrastive divergence, as special cases. The second, called [Statistical Inference for Generative Models with Maximum Mean Discrepancy](https://arxiv.org/abs/1906.05944) considers the problem of inference for generative models, and studies the flexibility afforded by the choice of reproducing kernel.
 
