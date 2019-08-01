@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "François-Xavier Briol"
   avatar           : "fxbriol_website_photo.jpg"
-  bio              : "Research Associate in Statistics & Machine Learning"
-  location         : "Department of Engineering"
-  employer         : "University of Cambridge"
+  bio              : "Lecturer in Statistical Science"
+  location         : "Department of Statistical Science"
+  employer         : "University College London"
   googlescholar    : "https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en"
   email            : "fbriol@turing.ac.uk"
   uri              :

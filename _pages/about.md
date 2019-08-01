@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer in the Department of Statistical Science at University College London (equivalent to Assistant Professor), and a Visiting Researcher at The Alan Turing Institute, where I am affiliated to the data-centric engineering programme.
+I am a Lecturer (equivalent to Assistant Professor) in the Department of Statistical Science at University College London, and a Visiting Researcher at The Alan Turing Institute, the UK's national institute for Data Science and AI, where I am affiliated to the Data-Centric Engineering programme.
 
-My research interests are at the interface of computational statistics, machine learning and applied mathematics. I work on methodology for statistical computation and inference for large scale and computationally expensive probabilistic models. In particular, I am interested in the development of algorithms for numerical integration and sampling, and methodology for inference with intractable models. To do so, I like to use a variety of tools including kernel methods, Monte Carlo methods, stochastic process theory and Stein's method. 
+My research interests are at the interface of computational statistics, machine learning and applied mathematics. I work on methodology for statistical computation and inference for large scale and computationally expensive probabilistic models. In particular, I am interested in the development of algorithms for numerical integration and sampling, as well as methodology for inference with intractable models. In my research, I like to use a variety of tools including kernel methods, Monte Carlo methods, stochastic process theory and Stein's method. 
+
+Prior to UCL, I was a PhD student on the joint centre for doctoral training between Warwick and Oxford, then spent a year first as research assistant in the Department of Mathematics at Imperial College London, then as a research associate in the Department of Engineering at the University of Cambridge. 
 
 For more details on my research, see my [publications](https://fxbriol.github.io/papers/) page or my [google scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en). Alternatively, you can catch me at one of my [presentations](https://fxbriol.github.io/presentations/). For supervision opportunities, see also [this page](https://fxbriol.github.io/supervision/).
 
-Prior to UCL, I was a PhD student on the joint centre for doctoral training between Warwick and Oxford, then briefly a research assistant in the Department of Mathematics at Imperial College London and a research associate in the Department of Engineering at the University of Cambridge. 
+
 
 ### News
 
