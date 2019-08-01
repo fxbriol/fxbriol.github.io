@@ -6,21 +6,19 @@ author_profile: true
 
 ### Address
 
-Francois-Xavier Briol, <br />
-Office 144, <br />
-Department of Statistical Science <br />
-University College London <br />
-1-19 Torrington Place <br />
-London WC1E 7HB <br />
+Office 144 <br/>
+Department of Statistical Science <br/>
+University College London <br/>
+1-19 Torrington Place <br/>
+London WC1E 7HB <br/>
 United Kingdom.
 
 or
 
-Francois-Xavier Briol, <br />
-The Alan Turing Institute, <br />
-British Library, <br />
-96 Euston Road, <br />
-London NW1 2DB, <br /> 
+The Alan Turing Institute <br/>
+British Library <br/>
+96 Euston Road <br/>
+London NW1 2DB <br/> 
 United Kingdom. 
 
 ### Email
