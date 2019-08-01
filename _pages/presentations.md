@@ -6,7 +6,7 @@ author_profile: true
 
 ## Upcoming
 
-
+* 4th September 2019 - Talk - [***Data-Centric Engineering Reading Group***](https://dce-rg.github.io/), The Alan Turing Institute (London, UK).
 * 26th-27th September 2019 - Talk - ***Workshop on Recent Developments on Kernel Methods***, University College London, Gatsby Unit (London, UK).
 * 18th October 2019 - Talk - ***University of Bristol, School of Mathematics*** (Bristol, UK).
 * 24th October 2019 - Talk - ***Lancaster University, Department of Mathematics and Statistics***. [Computational Statistics and Machine Learning Seminar](https://lu-csml.github.io/) (Lancaster, UK).
