@@ -9,5 +9,8 @@ main:
   - title: "Supervision"
     url: /supervision/   
 
+  - title: "Teaching"
+    url: /teaching/  
+
   - title: "Contact"
     url: /contact/
