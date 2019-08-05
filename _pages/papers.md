@@ -8,11 +8,11 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ### Preprints
 
+* ***Briol, F-X***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944)
 
+* Barp, A., ***Briol, F-X***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. arXiv:1906.08283. [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 
-* ***Briol, F-X***, Barp, A., Duncan, A. B., Girolami, M. (2019). Statistical inference for generative models with maximum mean discrepancy. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944)
-
-* Barp, A., ***Briol, F-X***, Duncan, A. B., Girolami, M., Mackey, L. (2019). Minimum Stein discrepancy estimators. arXiv:1906.08283. [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
+* ***Briol, F-X.***, DiazDelaO, F. A., Hristov, P. O. (2019). *Contributed Discussion of "A Bayesian Conjugate Gradient Method"*. To appear in Bayesian Analysis.
 
 ### Papers
 
@@ -50,9 +50,10 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ### Discussions and Opinion Pieces
 
-* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2018). *Rejoinder for "Probabilistic integration: a role in statistical computation?"* Statistical Science, Vol 34, Number 1, pp38-42. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056029) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS683.pdf) 
 
-* ***Briol, F-X.*** & Girolami, M. (2018) Bayesian numerical methods as a case study for statistical data science, Statistical Data Science (Chapter 6): pp. 99-110. [(***Book***)](https://www.worldscientific.com/doi/abs/10.1142/9781786345400_0006) 
+* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Rejoinder for "Probabilistic integration: a role in statistical computation?"* Statistical Science, Vol 34, Number 1, pp38-42. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056029) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS683.pdf) 
+
+* ***Briol, F-X.*** & Girolami, M. (2018) *Bayesian numerical methods as a case study for statistical data science*, Statistical Data Science (Chapter 6): pp. 99-110. [(***Book***)](https://www.worldscientific.com/doi/abs/10.1142/9781786345400_0006) 
 
 * ***Briol, F-X.***, Cockayne, J. & Teymur, O. (2016). *Contributed discussion on article by Chkrebtii, Campbell, Calderhead, and Girolami*. Bayesian Analysis, 11(4), 1285-1293. [(***Journal***)](https://projecteuclid.org/euclid.ba/1480474950) [(***Preprint***)](https://arxiv.org/abs/1610.06752)
 
