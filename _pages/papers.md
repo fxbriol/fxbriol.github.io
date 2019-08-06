@@ -8,15 +8,15 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ### Preprints
 
-* ***Briol, F-X***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944)
+* ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944)
 
-* Barp, A., ***Briol, F-X***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. arXiv:1906.08283. [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
+* Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. arXiv:1906.08283. [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 
 * ***Briol, F-X.***, DiazDelaO, F. A., Hristov, P. O. (2019). *Contributed Discussion of "A Bayesian Conjugate Gradient Method"*. To appear in Bayesian Analysis.
 
 ### Papers
 
-* Chen, W. Y., Barp, A., ***Briol, F-X***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/abs/1905.03673)
+* Chen, W. Y., Barp, A., ***Briol, F-X.***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/abs/1905.03673)
 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, pp1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS660.pdf) [(***Supplement***)](https://fxbriol.github.io/pdfs/STS660_supplement.pdf)
 	* This paper accepted with discussion and [rejoinder](https://projecteuclid.org/euclid.ss/1555056029). There are three discussion pieces by (i) Fred Hickernel and R. Jagadeeswaran [(Journal)](https://projecteuclid.org/euclid.ss/1555056026) [(Preprint)](https://arxiv.org/pdf/1812.01811.pdf), (ii) Art Owen [(Journal)](https://projecteuclid.org/euclid.ss/1555056027) [(Preprint)](http://statweb.stanford.edu/~owen/reports/unreeff), and (iii) Michael Stein and Ying Hung [(Journal)](https://projecteuclid.org/euclid.ss/1555056028). 

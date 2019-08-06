@@ -10,6 +10,7 @@ author_profile: true
 * 26th-27th September 2019 - Talk - ***Workshop on Recent Developments on Kernel Methods***, University College London, Gatsby Unit (London, UK).
 * 18th October 2019 - Talk - ***University of Bristol, School of Mathematics*** (Bristol, UK).
 * 24th October 2019 - Talk - ***Lancaster University, Department of Mathematics and Statistics***. [Computational Statistics and Machine Learning Seminar](https://lu-csml.github.io/) (Lancaster, UK).
+* 21st November 2019 - Talk - ***Kings College London, Department of Mathematics***. Departmental Seminar (London, UK).
 * 19th-20th February 2020 - Talk - ***The Institute for Statistical Mathematics*** (Tokyo, Japan).
 
 ## Past
