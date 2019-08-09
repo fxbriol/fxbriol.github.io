@@ -12,7 +12,6 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. arXiv:1906.08283. [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 
-* ***Briol, F-X.***, DiazDelaO, F. A., Hristov, P. O. (2019). *Contributed Discussion of "A Bayesian Conjugate Gradient Method"*. To appear in Bayesian Analysis.
 
 ### Papers
 
@@ -50,6 +49,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ### Discussions and Opinion Pieces
 
+
+* ***Briol, F-X.***, Diaz De la O, F. A., Hristov, P. O. (2019). *Contributed Discussion of "A Bayesian Conjugate Gradient Method"*. To appear in Bayesian Analysis. arXiv:1908.02964. [(***Preprint***)](https://arxiv.org/abs/1908.02964)
 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Rejoinder for "Probabilistic integration: a role in statistical computation?"* Statistical Science, Vol 34, Number 1, pp38-42. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056029) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS683.pdf) 
 
