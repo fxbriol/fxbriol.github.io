@@ -8,7 +8,7 @@ I enjoy supervising research projects and regularly take up the supervision or c
 
 ### Current students
 
-* **George Wynne**, PhD student in Statistics at Imperial College London, Department of Mathematics. Co-supervised with Dr. Andrew Duncan.
+* **George Wynne**, PhD student in Statistics at Imperial College London, Department of Mathematics. Co-supervised with Dr. Andrew Duncan and Prof. Mark Girolami since September 2018.
 
 ### Past students
 
