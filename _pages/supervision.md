@@ -4,7 +4,7 @@ permalink: /supervision/
 author_profile: true
 ---
 
-I enjoy supervising research projects and regularly take up the supervision or co-supervision of MSc and PhD students. If you are interested in my research area, feel free to contact me to discuss opportunities at UCL or the Turing Institute.
+I enjoy supervising research projects and regularly take up the supervision or co-supervision of MSc and PhD students. Unfortunately, I do not tend to take on students for internships or summer projects. I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. If you are interested in my research area, feel free to contact me by email to discuss opportunities at UCL or the Turing Institute. When contacting me, please tell me what you are interested in doing, why you think I would be a suitable supervisor, and attach a copy of your CV and transcript.
 
 ### Current students
 
