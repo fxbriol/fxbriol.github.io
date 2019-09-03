@@ -6,14 +6,14 @@ author_profile: true
 
 This page contains all my publications; for more details, see my [Google Scholar profile](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en).
 
-### Preprints
+## Preprints
 
 * ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944)
 
 * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. arXiv:1906.08283. [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 
 
-### Papers
+## Published Papers
 
 * Chen, W. Y., Barp, A., ***Briol, F-X.***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/abs/1905.03673)
 
@@ -47,7 +47,7 @@ This page contains all my publications; for more details, see my [Google Scholar
     
 * Barp, A., Barp, E. G., ***Briol, F-X.*** & Ueltschi, D. (2015). *A numerical study of the 3D random interchange and random loop models*. Journal of Physics A: Mathematical and Theoretical, 48(34). [(***Journal***)](http://iopscience.iop.org/article/10.1088/1751-8113/48/34/345002/meta) [(***Preprint***)](https://arxiv.org/abs/1505.00983) 
 
-### Discussions and Opinion Pieces
+## Discussions and Opinion Pieces
 
 
 * ***Briol, F-X.***, Diaz De la O, F. A., Hristov, P. O. (2019). *Contributed Discussion of "A Bayesian Conjugate Gradient Method"*. To appear in Bayesian Analysis. arXiv:1908.02964. [(***Preprint***)](https://arxiv.org/abs/1908.02964)
@@ -58,7 +58,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * ***Briol, F-X.***, Cockayne, J. & Teymur, O. (2016). *Contributed discussion on article by Chkrebtii, Campbell, Calderhead, and Girolami*. Bayesian Analysis, 11(4), 1285-1293. [(***Journal***)](https://projecteuclid.org/euclid.ba/1480474950) [(***Preprint***)](https://arxiv.org/abs/1610.06752)
 
-### Dissertations
+## Dissertations
 
 * ***Briol, F-X.*** (2019). *Statistical computation with kernels*. PhD thesis, Department of Statistics, University of Warwick. [(***PDF***)](https://fxbriol.github.io/pdfs/PhDthesis_fxbriol.pdf)
 
