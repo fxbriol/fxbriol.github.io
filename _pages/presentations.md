@@ -14,6 +14,7 @@ author_profile: true
 * 30th January 2019 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
 * 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 * 19th-20th February 2020 - Talk - ***The Institute for Statistical Mathematics*** (Tokyo, Japan).
+* 4th March 2020 - Talk - ***AI Centre, University College London***, seminar series, CDT Foundations of AI (London, UK).
 
 ## Past
 
