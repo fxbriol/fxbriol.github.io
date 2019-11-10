@@ -12,7 +12,7 @@ author_profile: true
 * 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 * 19th-20th February 2020 - Talk - ***The Institute for Statistical Mathematics*** (Tokyo, Japan).
 * 4th March 2020 - Talk - ***AI Centre, University College London***, seminar series, CDT Foundations of AI (London, UK).
-* 24th-27th March 2020 - Talk - ***SIAM Conference on Uncertainty Quantification*** (Garching, Germany).
+* 24th-27th March 2020 - Talk - ***[SIAM Conference on Uncertainty Quantification](https://siam-uq20.ma.tum.de/)*** (Garching, Germany).
 
 ## Past
 
