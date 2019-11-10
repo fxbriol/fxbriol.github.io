@@ -22,6 +22,8 @@ For more details on my research, see my [publications](https://fxbriol.github.io
 
 ## News
 
+* I am organising a two-part minisymposium on "Kernel Methods in Uncertainty Quantification" at the SIAM UQ conference which will take place in Munich (Garching) in March 2020. 
+
 * I have two new papers on doing inference for intractable model. The first paper, called [Minimum Stein Discrepancy Estimators](https://arxiv.org/abs/1906.08283), is a very flexible framework to do inference for models with unnormalised likelihoods which is grounded in Stein's method and can recover many existing methods, such as score-matching and contrastive divergence, as special cases. See the following [talk](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators) for more details. The second, called [Statistical Inference for Generative Models with Maximum Mean Discrepancy](https://arxiv.org/abs/1906.05944) considers the problem of inference for generative models, and studies the flexibility afforded by the choice of reproducing kernel.
 
 * Our paper on "Probabilistic Integration: A Role in Statistical Computation?" has been accepted for [publication in Statistical Science](https://projecteuclid.org/euclid.ss/1555056025) and will appear together with invited discussions from leading researchers in statistics, as well as a [rejoinder](https://projecteuclid.org/euclid.ss/1555056029). There are three discussion pieces by (i) [Fred Hickernel and R. Jagadeeswaran](https://projecteuclid.org/euclid.ss/1555056026), (ii) [Art Owen](https://projecteuclid.org/euclid.ss/1555056027), and (iii) [Michael Stein and Ying Hung](https://projecteuclid.org/euclid.ss/1555056028).
