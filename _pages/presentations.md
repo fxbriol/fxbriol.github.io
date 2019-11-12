@@ -6,7 +6,6 @@ author_profile: true
 
 ## Upcoming
 
-* 19th November 2019 - Talk - ***Workshop on Active Learning and Regenerative Medicine***, Imperial College London (London, UK).
 * 21st November 2019 - Talk - ***Kings College London, Department of Mathematics***. Departmental Seminar (London, UK).
 * 30th January 2019 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
 * 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
