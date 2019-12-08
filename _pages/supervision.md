@@ -4,12 +4,17 @@ permalink: /supervision/
 author_profile: true
 ---
 
+I enjoy supervising research projects and regularly take up the supervision of MSc and PhD students.
 
-## MSc and PhD Students
+## MSc Students
 
-I enjoy supervising research projects and regularly take up the supervision of MSc and PhD students. I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. If you are interested in my research area, feel free to contact me by email to discuss opportunities at UCL or the Turing Institute.
+At UCL, I supervise MSc students through the MSc Statistics, MSc Data Science and MSc Computational Statistics and Data Science programmes. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. Unfortunately I am not able to supervise any other MSc projects at this time (whether at UCL or not).
 
-Funding for PhD students (including international and/or home students) is available through several routes, including the [*UCL Statistical Science department fund*](https://www.ucl.ac.uk/statistics/prospective-postgraduates/phd), the [UCL centre for doctoral training in *Foundations of AI*](https://www.ucl.ac.uk/ai-centre/study/research-degree-foundational-artificial-intelligence), the [UCL centre for doctoral training in *Financial Computing and Data Science*](https://financialcomputing.org/), the [UCL centre for doctoral training in *Data Intensive Science*](https://www.hep.ucl.ac.uk/cdt-dis/) and the [Health Data Research UK/Turing PhD programme](https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/?_cldee=ci5jaGFuZGxlckB1Y2wuYWMudWs%3d&recipientid=contact-243cf3cbd2a9e711810970106faa95f1-cd798151ea1648d0a88aaf88b8173974&esid=83591eb5-de0a-ea11-a811-002248070f4c).
+## PhD Students
+
+I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. If you are interested in my research area, feel free to contact me by email to discuss opportunities at UCL or the Turing Institute. When getting in touch, please make sure to highlight your research interests and how these align with my own based on my recent publications.
+
+Funding for international and UK-EU students is available through several routes. These include the [*UCL Statistical Science department fund*](https://www.ucl.ac.uk/statistics/prospective-postgraduates/phd), the [UCL centre for doctoral training in *Foundations of AI*](https://www.ucl.ac.uk/ai-centre/study/research-degree-foundational-artificial-intelligence), the [UCL centre for doctoral training in *Financial Computing and Data Science*](https://financialcomputing.org/), the [UCL centre for doctoral training in *Data Intensive Science*](https://www.hep.ucl.ac.uk/cdt-dis/) and the [Health Data Research UK/Turing PhD programme](https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/?_cldee=ci5jaGFuZGxlckB1Y2wuYWMudWs%3d&recipientid=contact-243cf3cbd2a9e711810970106faa95f1-cd798151ea1648d0a88aaf88b8173974&esid=83591eb5-de0a-ea11-a811-002248070f4c).
 
 
 ### Current Students
