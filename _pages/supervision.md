@@ -19,7 +19,9 @@ Funding for international and UK-EU students is available through several routes
 
 ### Current Students
 
-* **George Wynne**, PhD student in Statistics at Imperial College London, Department of Mathematics. Co-supervised with Dr. Andrew Duncan and Prof. Mark Girolami since September 2018.
+* **George Wynne**, PhD student in Mathematics at Imperial College London, Department of Mathematics (since September 2018). Co-supervised with Dr. Andrew Duncan and Prof. Mark Girolami.
+
+* **Kaiyu Li**, PhD student in Statistics at University College London, Department of Statistical Science (since December 2019). Second supervisor. First supervisor: Prof. Serge Guillas.
 
 ### Past Students
 
