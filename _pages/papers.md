@@ -8,6 +8,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Wynne, G., ***Briol, F-X.***, Girolami, M. (2020). *Convergence guarantees for Gaussian process approximations under several observation models*. arXiv:2001.10818. [(***Preprint***)](https://arxiv.org/abs/2001.10818)
+
 * ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944)
 
 
