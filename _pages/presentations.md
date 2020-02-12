@@ -6,15 +6,19 @@ author_profile: true
 
 ## Upcoming
 
-* 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 * 19th-20th February 2020 - Talk - ***[Workshop on Emerging Themes in Computational Statistics](https://etcs-workshop.github.io/)***, The Institute for Statistical Mathematics (Tokyo, Japan).
 * 21st February 2020 - Talk - ***RIKEN Centre for Artificial Intelligence Project*** (Tokyo, Japan).
 * 27th February 2020 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
 * 4th March 2020 - Talk - ***AI Centre, University College London***, seminar series, CDT Foundations of AI (London, UK).
 * 12th March 2020 - Talk - ***University of Exeter***, College of Engineering, Mathematics and Physical Sciences. Statistical Science research group (Exeter, UK).
 * 24th-27th March 2020 - Talk - ***[SIAM Conference on Uncertainty Quantification](https://siam-uq20.ma.tum.de/)*** (Garching, Germany).
+* 14th-16th March 2020 - Talk - ***[DALI 2020 - Data, Learning and Inference](http://dalimeeting.org/)*** (Palma de Mallorca, Spain).
 
 ## Past
+
+### 2020
+
+* 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 
 ### 2019 
 * 21st November 2019 - Talk - ***Kings College London, Department of Mathematics***. Departmental Seminar (London, UK).
