@@ -15,7 +15,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Published Papers
 
-* Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. arXiv:1906.08283. To appear in Neural Information Processing Systems. [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
+* Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. arXiv:1906.08283. To appear in Neural Information Processing Systems, 12964-12976. [(***Conference***)](https://papers.nips.cc/paper/9457-minimum-stein-discrepancy-estimators) [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 
 
 * Chen, W. Y., Barp, A., ***Briol, F-X.***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/abs/1905.03673)
