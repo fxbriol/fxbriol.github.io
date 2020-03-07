@@ -6,7 +6,6 @@ author_profile: true
 
 ## Upcoming
 
-* 27th February 2020 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
 * 4th March 2020 - Talk - ***AI Centre, University College London***, seminar series, CDT Foundations of AI (London, UK).
 * 12th March 2020 - Talk - ***University of Exeter***, College of Engineering, Mathematics and Physical Sciences. Statistical Science research group (Exeter, UK).
 * 24th-27th March 2020 - Talk - ***[SIAM Conference on Uncertainty Quantification](https://siam-uq20.ma.tum.de/)*** (Garching, Germany).
@@ -16,6 +15,7 @@ author_profile: true
 
 ### 2020
 
+* 27th February 2020 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
 * 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 
 ### 2019 
