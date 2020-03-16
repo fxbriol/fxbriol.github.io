@@ -4,14 +4,6 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## Upcoming
-
-* 4th March 2020 - Talk - ***AI Centre, University College London***, seminar series, CDT Foundations of AI (London, UK).
-* 12th March 2020 - Talk - ***University of Exeter***, College of Engineering, Mathematics and Physical Sciences. Statistical Science research group (Exeter, UK).
-* 24th-27th March 2020 - Talk - ***[SIAM Conference on Uncertainty Quantification](https://siam-uq20.ma.tum.de/)*** (Garching, Germany).
-* 14th-16th April 2020 - Talk - ***[DALI 2020 - Data, Learning and Inference](http://dalimeeting.org/)*** (Palma de Mallorca, Spain).
-
-## Past
 
 ### 2020
 
