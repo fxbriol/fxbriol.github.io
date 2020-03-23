@@ -7,6 +7,14 @@ author_profile: true
 
 ### 2020
 
+#### Upcoming
+
+* 9-14th August 2020 - Talk - [***14th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing***](https://mcqmc20.web.ox.ac.uk/), University of Oxford (Oxford, UK).
+* 22-23rd October 2020 - Talk - ***Annual Meeting of the Royal Statistical Society of Belgium*** (Liege, Belgium).
+* 25-28th October 2020 - Talk - [***DALI 2020 - Data, Learning and Inference***](http://dalimeeting.org/) (Palma, Spain).
+
+#### Past
+
 * 27th February 2020 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
 * 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 

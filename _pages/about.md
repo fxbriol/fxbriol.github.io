@@ -22,7 +22,6 @@ For more details, see my [Publications](https://fxbriol.github.io/papers/) page 
 
 ## News
 
-* I am organising a two-part minisymposium on "Kernel Methods in Uncertainty Quantification" at the [SIAM UQ conference](https://siam-uq20.ma.tum.de/) which will take place in Munich (Garching) in March 2020. 
 
 * I have two new papers on doing inference for intractable model. The first paper, called [Minimum Stein Discrepancy Estimators](https://arxiv.org/abs/1906.08283), is a very flexible framework to do inference for models with unnormalised likelihoods which is grounded in Stein's method and can recover many existing methods, such as score-matching and contrastive divergence, as special cases. See the following [talk](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators) for more details. The second, called [Statistical Inference for Generative Models with Maximum Mean Discrepancy](https://arxiv.org/abs/1906.05944) considers the problem of inference for generative models, and studies the flexibility afforded by the choice of reproducing kernel.
 
