@@ -9,12 +9,15 @@ author_profile: true
 
 #### Upcoming
 
+* 2nd August 2019 - Talk - [***Joint Statistical Meetings 2020***](https://ww2.amstat.org/meetings/jsm/2020/), Philadelphia, Pennsylvania. Talk moved online due to the ongoing pandemic. Link to follow shortly.
 * 9-14th August 2020 - Talk - [***14th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing***](https://mcqmc20.web.ox.ac.uk/), University of Oxford (Oxford, UK).
 * 22-23rd October 2020 - Talk - ***Annual Meeting of the Royal Statistical Society of Belgium*** (Liege, Belgium).
 * 25-28th October 2020 - Talk - [***DALI 2020 - Data, Learning and Inference***](http://dalimeeting.org/) (Palma, Spain).
 
 #### Past
 
+* 22nd April 2020 - Talk (online) - ***University College London, Department of Computer Science***. AI Centre Seminar (London, UK).
+* 2nd April 2020 - Talk (online) - ***University College London, Department of Statistical Science***, Computational Statistics Reading Group (London, UK).
 * 27th February 2020 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
 * 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 
