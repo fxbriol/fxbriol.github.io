@@ -31,7 +31,9 @@ Several schemes independent of UCL may also be of interest. A list of possible o
 
 * [**George Wynne**](https://georgewynne.github.io/), PhD student in Mathematics at Imperial College London, Department of Mathematics (since September 2018). Co-supervised with Dr. Andrew Duncan (Imperial) and Prof. Mark Girolami (Cambridge).
 
-* **Kaiyu Li**, PhD student in Statistics at University College London, Department of Statistical Science (since December 2019). Second supervisor. First supervisor: Prof. Serge Guillas.
+* **Kaiyu Li**, PhD student in Statistics at UCL, Department of Statistical Science (since December 2019). Second supervisor. First supervisor: Prof. Serge Guillas.
+
+* **Zhuo Sun**, PhD student in Statistics at UCL, Department of Statistical Science (since May 2020). Second supervisor. First supervisor: Dr. Jinghao Xue.
 
 ### Past Students
 
