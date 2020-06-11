@@ -8,7 +8,10 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). Joint modeling of received power, mean delay and delay spread for wideband radio channels. arXiv:2005.06808. [(***Preprint***)](https://arxiv.org/abs/2005.06808)
+
+* Zhu, H., Liu, X., Kang, R., Shen, Z., Flaxman, S., ***Briol, F-X.*** (2020). *Bayesian Probabilistic Numerical Integration with Tree-Based Models*. arXiv:2006.05371. [(***Preprint***)](https://arxiv.org/abs/2006.05371)
+
+* Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. arXiv:2005.06808. [(***Preprint***)](https://arxiv.org/abs/2005.06808)
 
 * Wynne, G., ***Briol, F-X.***, Girolami, M. (2020). *Convergence guarantees for Gaussian process approximations under several observation models*. arXiv:2001.10818. [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
