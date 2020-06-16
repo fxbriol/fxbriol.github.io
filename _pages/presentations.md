@@ -9,7 +9,7 @@ author_profile: true
 
 #### Upcoming
 
-* 25th June 2020 - Talk - [***Junior Bayes Beyond Borders Seminar Series***], Bocconi University. Online talk.
+* 25th June 2020 - Talk - ***Junior Bayes Beyond Borders Seminar Series***, Bocconi University. Online talk.
 * 3rd August 2020 - Talk - [***Joint Statistical Meetings 2020***](https://ww2.amstat.org/meetings/jsm/2020/), Philadelphia, Pennsylvania. Online talk.
 * 9-14th August 2020 - Talk - [***14th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing***](https://mcqmc20.web.ox.ac.uk/), University of Oxford (Oxford, UK).
 * 22-23rd October 2020 - Talk - ***Annual Meeting of the Royal Statistical Society of Belgium*** (Liege, Belgium).
