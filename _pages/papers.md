@@ -8,6 +8,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487)
 
 * Zhu, H., Liu, X., Kang, R., Shen, Z., Flaxman, S., ***Briol, F-X.*** (2020). *Bayesian probabilistic numerical integration with tree-based models*. arXiv:2006.05371. [(***Preprint***)](https://arxiv.org/abs/2006.05371)
 
