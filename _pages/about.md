@@ -22,10 +22,8 @@ For more details, see my [Publications](https://fxbriol.github.io/papers/) page 
 
 ## News
 
-* I will be giving an invited (virtual) talk as part of the j-ISBA series on [***Junior Bayes Beyond Borders (JB^3)***](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home/Webinar+series/).
+* I will be giving an invited (virtual) talk as part of the j-ISBA series on [Junior Bayes Beyond Borders (JB^3)](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home/Webinar+series/). This will highlight how Stein's method can be a very useful trick for computational statistics, and discuss my work in this area.
 
 * I have been awarded an [Amazon Research Award](https://www.amazon.science/blog/recipients-of-the-2019-amazon-research-awards-announced) by Amazon Science for a project on *"Transfer Learning for Numerical Integration in Expensive Machine Learning Systems"*. 
 
 * I am now research group lead for [Data Science Methodology for Weather and Climate](https://www.ucl.ac.uk/statistics/research/methodology-weather-and-climate), which is part of the new Met Office Academic Partnership with UCL.
-
-* I have two new papers on doing inference for intractable model. The first paper, called [Minimum Stein Discrepancy Estimators](https://arxiv.org/abs/1906.08283), is a very flexible framework to do inference for models with unnormalised likelihoods which is grounded in Stein's method and can recover many existing methods, such as score-matching and contrastive divergence, as special cases. See the following [talk](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators) for more details. The second, called [Statistical Inference for Generative Models with Maximum Mean Discrepancy](https://arxiv.org/abs/1906.05944) considers the problem of inference for generative models, and studies the flexibility afforded by the choice of reproducing kernel.
