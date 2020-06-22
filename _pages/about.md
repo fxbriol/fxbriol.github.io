@@ -22,6 +22,8 @@ For more details, see my [Publications](https://fxbriol.github.io/papers/) page 
 
 ## News
 
+* I will be giving an invited (virtual) talk as part of the j-ISBA series on [***Junior Bayes Beyond Borders (JB^3)***](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home/Webinar+series/).
+
 * I have been awarded an [Amazon Research Award](https://www.amazon.science/blog/recipients-of-the-2019-amazon-research-awards-announced) by Amazon Science for a project on *"Transfer Learning for Numerical Integration in Expensive Machine Learning Systems"*. 
 
 * I am now research group lead for [Data Science Methodology for Weather and Climate](https://www.ucl.ac.uk/statistics/research/methodology-weather-and-climate), which is part of the new Met Office Academic Partnership with UCL.

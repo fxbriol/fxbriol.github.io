@@ -5,17 +5,26 @@ author_profile: true
 ---
 
 
+
+## Upcoming
+
 ### 2020
 
-#### Upcoming
-
-* 25th June 2020 - Talk - ***Junior Bayes Beyond Borders Seminar Series***, Bocconi University. Online talk.
+* 25th June 2020 - Talk - [***Junior Bayes Beyond Borders Seminar Series***](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home/Webinar+series/), Bocconi University. Online talk.
 * 3rd August 2020 - Talk - [***Joint Statistical Meetings 2020***](https://ww2.amstat.org/meetings/jsm/2020/), Philadelphia, Pennsylvania. Online talk.
 * 9-14th August 2020 - Talk - [***14th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing***](https://mcqmc20.web.ox.ac.uk/), University of Oxford (Oxford, UK).
 * 22-23rd October 2020 - Talk - ***Annual Meeting of the Royal Statistical Society of Belgium*** (Liege, Belgium).
-* 25-28th October 2020 - Talk - [***DALI 2020 - Data, Learning and Inference***](http://dalimeeting.org/) (Palma, Spain).
 
-#### Past
+### 2021
+
+* 28-31st October 2021 - Talk - [***DALI 2021 - Data, Learning and Inference***](http://dalimeeting.org/) (Palma, Spain).
+
+
+
+## Past
+
+### 2020
+
 
 * 22nd April 2020 - Talk (online) - ***University College London, Department of Computer Science***. AI Centre Seminar (London, UK). Online talk.
 * 2nd April 2020 - Talk (online) - ***University College London, Department of Statistical Science***, Computational Statistics Reading Group (London, UK). Online talk.
