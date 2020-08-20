@@ -10,6 +10,7 @@ author_profile: true
 
 ### 2020
 
+* 25th September 2020 - Talk - ***RIKEN AIP*** (Online Talk).
 * 22-23rd October 2020 - Talk - ***Annual Meeting of the Royal Statistical Society of Belgium*** (Liege, Belgium).
 
 ### 2021
