@@ -58,8 +58,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Discussions and Opinion Pieces
 
-* Zhu, H., Liu, X., Caron, A., Manolopoulou, I. Flaxman, S., ***Briol, F-X.*** (2020). *Contributed Discussion of "Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects"*.  Bayesian Analysis, 15(3), to appear. [(***Journal***) - see pages 55-58](https://projecteuclid.org/euclid.ba/1580461461#abstract)
-
+* Zhu, H., Liu, X., Caron, A., Manolopoulou, I. Flaxman, S., ***Briol, F-X.*** (2020). *Contributed Discussion of "Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects"*.  Bayesian Analysis, 15(3), to appear. [(***Journal (pp55-58)***)](https://projecteuclid.org/euclid.ba/1580461461#abstract) [(***Preprint***)](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf)
 
 * ***Briol, F-X.***, Diaz De la O, F. A., Hristov, P. O. (2019). *Contributed Discussion of "A Bayesian Conjugate Gradient Method"*.  Bayesian Analysis, 14(3), 980-984. [(***Journal***)](https://projecteuclid.org/euclid.ba/1558144846) [(***Preprint***)](https://arxiv.org/abs/1908.02964)
 
