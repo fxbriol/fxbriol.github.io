@@ -4,22 +4,9 @@ permalink: /supervision/
 author_profile: true
 ---
 
-I enjoy supervising research projects and regularly take up the supervision of MSc and PhD students.
-
+I enjoy supervising research projects and regularly take up the supervision of MSc and PhD students. I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. If you are interested in my research area, feel free to contact me by email to discuss opportunities at UCL or the Turing Institute. 
 
 ## PhD Students
-
-I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. If you are interested in my research area, feel free to contact me by email to discuss opportunities at UCL or the Turing Institute. 
-
-### Current Students
-
-* **Oscar Key**, PhD student within the CDT in Foundational AI at UCL, Department of Computer Science (since September 2020). Main supervisor. Second supervisor: Prof. Marc Deisenroth.
-
-* **Kaiyu Li**, PhD student in Statistics at UCL, Department of Statistical Science (since December 2019). Second supervisor. First supervisor: Prof. Serge Guillas.
-
-* **Zhuo Sun**, PhD student in Statistics at UCL, Department of Statistical Science (since May 2020). Second supervisor. First supervisor: Dr. Jinghao Xue.
-
-* [**George Wynne**](https://georgewynne.github.io/), PhD student in Mathematics at Imperial College London, Department of Mathematics (since September 2018). Co-supervised with Dr. Andrew Duncan (Imperial) and Prof. Mark Girolami (Cambridge).
 
 ### Important Information for Applicants
 
@@ -43,10 +30,6 @@ Several schemes independent of UCL may also be of interest. A list of possible o
 
 At UCL, I supervise MSc students through the MSc Statistics, MSc Data Science and MSc Computational Statistics and Data Science programmes. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. Unfortunately I am not able to supervise any other MSc projects at this time (whether at UCL or not).
 
-### Past Students doing Research
-
-* [**Charline le Lan**](http://csml.stats.ox.ac.uk/people/lelan/), MSc Statistics thesis (Imperial College London, 2018), title: "Neural Networks for Variance Reduction in MCMC". Now PhD student at the University of Oxford under the supervision of Prof. Yee Whye Teh. 
-* **Xiaoyue Xi**, MSc Statistics thesis (Imperial College London, 2017), title: "Bayesian Monte Carlo in Computer Graphics". Received best MSc thesis award. Now PhD student at Imperial College under the supervision of Dr. Oliver Ratmann. 
 
 ## Postdoctoral Researchers
 
