@@ -223,6 +223,14 @@ defaults:
       layout: teaching
       author_profile: true
       share: true
+# _group
+  - scope:
+      path: ""
+      type: group
+    values:
+      layout: group
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
