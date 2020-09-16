@@ -4,8 +4,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Lectures
+### Academic Year 2020-21
 
-I am in charge of the MSc level module on *Introduction to Statistical Data Science* (STAT0032) which will take place in autumn 2019 at UCL. Lectures are 9-11 on Mondays and tutorials 11-12 on Fridays in weeks 5-10 and 12-16.  For further details on the course, see the corresponding Moodle page. 
+I am in charge of the MSc level module on *Introduction to Statistical Data Science* (STAT0032) in autumn 2020 at UCL. The module will be run remotely via Moodle, and UCL students should hence refer to the Moodle page for further details.
 
-On top of that, I also teach tutorials for the term 1 module STAT0005 *Probability & Inference* for second and third year undergraduates.
+
+### Academic Year 2019-20
+
+* Module lead for STAT0032 *Introduction to Statistical Data Science*. 
+* Tutorials for STAT0005 *Probability & Inference*.
