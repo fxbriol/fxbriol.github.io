@@ -6,7 +6,7 @@ author_profile: true
 
 ### Academic Year 2020-21
 
-I am in charge of the MSc level module on *Introduction to Statistical Data Science* (STAT0032) in autumn 2020 at UCL. The module will be run remotely via Moodle, and UCL students should hence refer to the Moodle page for further details.
+I am in charge of the MSc level module on *Introduction to Statistical Data Science* (STAT0032) which runs in autumn 2020 at UCL. The module will be run remotely via Moodle, and UCL students should hence refer to the Moodle page for further details.
 
 
 ### Academic Year 2019-20
