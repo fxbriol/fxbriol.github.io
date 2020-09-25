@@ -10,8 +10,7 @@ author_profile: true
 
 ### 2020
 
-* 25th September 2020 - Talk - ***RIKEN AIP*** (Online).
-* 25th September 2020 - Talk - ***Duke University***, Department of Statistical Science, Departmental Seminar (Online).
+...
 
 ### 2021
 
@@ -24,10 +23,12 @@ author_profile: true
 
 ### 2020
 
+* 25th September 2020 - Talk - ***Duke University***, Department of Statistical Science, Departmental Seminar (Online).
+* 25th September 2020 - Talk - ***RIKEN AIP*** (Online). [(slides)](https://fxbriol.github.io/pdfs/fxbriol_RIKEN_sept2020.pdf)
 * 9-14th August 2020 - Talk - [***14th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing***](https://mcqmc20.web.ox.ac.uk/), University of Oxford (Oxford, UK). [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 * 3rd August 2020 - Talk - [***Joint Statistical Meetings 2020***](https://ww2.amstat.org/meetings/jsm/2020/) (Online talk).
 * 30th July 2020 - Talk - University College London, Department of Statistical Science. Departmental Seminar Series (Online talk).
-* 25th June 2020 - Talk - [***Junior Bayes Beyond Borders Seminar Series***](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home/Webinar+series/), Bocconi University (Online talk). [(slides)](https://fxbriol.github.io/pdfs/fxbriol_JBBB_jun2020.pdf)
+* 25th June 2020 - Talk - [***Junior Bayes Beyond Borders Seminar Series***](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home/Webinar+series/), Bocconi University (Online talk). 
 * 22nd April 2020 - Talk - ***University College London, Department of Computer Science***. AI Centre Seminar (Online talk).
 * 2nd April 2020 - Talk (online) - ***University College London, Department of Statistical Science***, Computational Statistics Reading Group (Online talk).
 * 27th February 2020 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
