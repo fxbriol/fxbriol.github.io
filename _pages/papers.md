@@ -8,6 +8,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2020). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. arXiv:2010.08488. [(***Preprint***)](https://arxiv.org/abs/2010.08488)
+
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
 * Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. arXiv:2005.06808. [(***Preprint***)](https://arxiv.org/abs/2005.06808)
