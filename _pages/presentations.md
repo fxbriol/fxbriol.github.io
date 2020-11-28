@@ -8,12 +8,6 @@ author_profile: true
 
 ## Upcoming
 
-### 2020
-
-...
-
-### 2021
-
 
 * 28-31st October 2021 - Talk - [***DALI 2021 - Data, Learning and Inference***](http://dalimeeting.org/) (Palma, Spain).
 
