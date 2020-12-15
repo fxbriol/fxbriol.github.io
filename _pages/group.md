@@ -12,7 +12,7 @@ author_profile: true
 
 * **Kaiyu Li**, PhD student in Statistics at UCL, Department of Statistical Science (since December 2019). *Second supervisor*. First supervisor: Prof. Serge Guillas. *Project*: Bayesian quadrature and multi-level Monte Carlo. 
 
-* **Zhuo Sun**, PhD student in Statistics at UCL, Department of Statistical Science (since May 2020). *Second supervisor*. First supervisor: Dr. Jinghao Xue. *Project*: Control Variates for Monte Carlo Methods.
+* [**Zhuo Sun**](https://jz-fun.github.io), PhD student in Statistics at UCL, Department of Statistical Science (since May 2020). *Second supervisor*. First supervisor: Dr. Jinghao Xue. *Project*: Control Variates for Monte Carlo Methods.
 
 * [**George Wynne**](https://georgewynne.github.io/), PhD student in Mathematics at Imperial College London, Department of Mathematics (since September 2018). Co-supervised with Dr. Andrew Duncan (Imperial) and Prof. Mark Girolami (Cambridge). *Project*: Theory for Gaussian processes.
 
