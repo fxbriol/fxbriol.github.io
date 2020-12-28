@@ -8,6 +8,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2020). *Calibration of stochastic radio channel models with kernels*. arXiv:2012.09612. [(***Preprint***)](https://arxiv.org/abs/2012.09612) 
+
 * Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2020). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. arXiv:2010.08488. [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be)
 
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
