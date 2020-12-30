@@ -14,8 +14,6 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
-* Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. arXiv:2005.06808. [(***Preprint***)](https://arxiv.org/abs/2005.06808)
-
 * Wynne, G., ***Briol, F-X.***, Girolami, M. (2020). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. arXiv:2001.10818. [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
 * ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944) [(***Talk/Video***)](https://youtu.be/mm7bHjEzhow)
@@ -23,6 +21,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Published Papers
 
+* Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. Accepted for Publication in IEEE Transactions on Antennas and Propagation. arXiv:2005.06808. [(***Preprint***)](https://arxiv.org/abs/2005.06808)
 
 * Zhu, H., Liu, X., Kang, R., Shen, Z., Flaxman, S., ***Briol, F-X.*** (2020). *Bayesian probabilistic numerical integration with tree-based models*. To appear at Neural Information Processing Systems. [(***Preprint***)](https://arxiv.org/abs/2006.05371)
 
