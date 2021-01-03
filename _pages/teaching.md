@@ -4,12 +4,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Academic Year 2020-21
+Since joining UCL, I teach mostly at the MSc level including:
 
-I am in charge of the MSc level module on *Introduction to Statistical Data Science* (STAT0032) which runs in autumn 2020 at UCL. The module will be run remotely via Moodle, and UCL students should hence refer to the Moodle page for further details.
-
-
-### Academic Year 2019-20
-
-* Module lead for STAT0032 *Introduction to Statistical Data Science*. 
-* Tutorials for STAT0005 *Probability & Inference*.
+* Module lead for STAT0032 *Introduction to Statistical Data Science* (Autumn 2019 & 2020). 
+* *Foundations Fortnight* classes for MSc students in the Statistical Science department (Autumn 2019 & 2020)
+* Tutorials for STAT0005 *Probability & Inference* (Autumn 2019).
