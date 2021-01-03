@@ -10,7 +10,7 @@ I enjoy supervising research projects and regularly take up the supervision of M
 
 **Before Applying:** Please contact me via email before submitting a formal application. When getting in touch, make sure to highlight your research interests and how these align with my own. I usually get a high number of applicants, and a good way to show your are motivated to work with me is to demonstrate that you have done your research by, for example, having read some of my research papers in detail.
 
-**Application Process:** I can supervise PhD students at UCL through a number of routes, including:
+**Application Process:** I can supervise PhD students at UCL through a number of routes (each providing funding for UK and international students), including:
 * The [*UCL Statistical Science*](https://www.ucl.ac.uk/statistics/prospective-postgraduates/phd) department PhD programme. 
 * The [centre for doctoral training (CDT) in *Foundations of AI*](https://www.ucl.ac.uk/ai-centre/study/research-degree-foundational-artificial-intelligence).
 * The [London NERC doctoral training partnership (DTP)](https://london-nerc-dtp.org/). This PhD programme is a joint programme across a number of London institutions, and is appropriate if you are interested in a project at the intersection of statistics/machine learning and the environmental science. 
