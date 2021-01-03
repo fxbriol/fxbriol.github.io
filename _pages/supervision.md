@@ -8,8 +8,6 @@ I enjoy supervising research projects and regularly take up the supervision of M
 
 ## PhD Students
 
-See below for important information and useful resources if you are thinking of applying.
-
 **Before Applying** When getting in touch, please make sure to highlight your research interests and how these align with my own based on my recent publications. 
 
 **Application Process** After our initial discussion you might be interested to get details on the application process for PhDs at UCL. For this, please have a look at [the UCL graduate study guide](https://www.ucl.ac.uk/prospective-students/graduate/applying-graduate-study/what-you-need-complete-application) on this process. You can also find tips on writing a convincing research statement on [this page](https://www.ucl.ac.uk/prospective-students/graduate/sites/prospective-students_graduate/files/potential-supervisor.pdf).
