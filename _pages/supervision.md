@@ -8,7 +8,7 @@ I enjoy supervising research projects and regularly take up the supervision of M
 
 ## PhD Students
 
-**Before Applying** I usually prefer to be contacted via email before a formal application is submitted. When getting in touch, please make sure to highlight your research interests and how these align with my own based on my recent publications. 
+**Before Applying** Please contact me via email before submitting a formal application. When getting in touch, make sure to highlight your research interests and how these align with my own. I usually get a high number of applicants, and a good way to show your are motivated to work with me is to demonstrate that you have done your research by, for example, having read some of my research papers in detail.
 
 **Application Process** After our initial discussion you might be interested to get details on the application process for PhDs at UCL. For this, please have a look at [the UCL graduate study guide](https://www.ucl.ac.uk/prospective-students/graduate/applying-graduate-study/what-you-need-complete-application) on this process. You can also find tips on writing a convincing research statement on [this page](https://www.ucl.ac.uk/prospective-students/graduate/sites/prospective-students_graduate/files/potential-supervisor.pdf).
 
