@@ -52,7 +52,6 @@ This page contains all my publications; for more details, see my [Google Scholar
 [(***Conference***)](https://papers.nips.cc/paper/6616-probabilistic-models-for-integration-error-in-the-assessment-of-functional-cardiac-models) [(***Preprint***)](https://arxiv.org/abs/1606.06841) 
 
 * ***Briol, F-X.***, Oates, C. J., Cockayne, J., Chen, W. Y. & Girolami, M. (2017). *On the sampling problem for kernel quadrature*. Proceedings of the 34th International Conference on Machine Learning, PMLR 70:586-595. [(***Conference***)](http://proceedings.mlr.press/v70/briol17a.html) [(***Preprint***)](https://arxiv.org/abs/1706.03369) 
-
     
 * ***Briol, F-X.***, Oates, C. J., Girolami, M. & Osborne, M. A. (2015). *Frank-Wolfe Bayesian Quadrature: probabilistic integration with theoretical guarantees*. Advances In Neural Information Processing Systems (NIPS), 1162-1170. [(***Preprint***)](https://arxiv.org/abs/1506.02681) [(***Conference***)](https://papers.nips.cc/paper/5749-frank-wolfe-bayesian-quadrature-probabilistic-integration-with-theoretical-guarantees)
 	* This paper was accepted with a spotlight presentation (top 4.5% of submitted papers).
@@ -62,7 +61,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Discussions and Opinion Pieces
 
-* Zhu, H., Liu, X., Caron, A., Manolopoulou, I. Flaxman, S., ***Briol, F-X.*** (2020). *Contributed Discussion of "Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects"*.  Bayesian Analysis, 15(3), to appear. [(***Journal (pp55-58)***)](https://projecteuclid.org/euclid.ba/1580461461#abstract) [(***Preprint***)](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf)
+* Zhu, H., Liu, X., Caron, A., Manolopoulou, I. Flaxman, S., ***Briol, F-X.*** (2020). *Contributed Discussion of "Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects"*.  Bayesian Analysis, 15(3),  965-1056. [(***Journal (pp55-58)***)](https://projecteuclid.org/euclid.ba/1580461461#abstract) [(***Preprint***)](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf)
 
 * ***Briol, F-X.***, Diaz De la O, F. A., Hristov, P. O. (2019). *Contributed Discussion of "A Bayesian Conjugate Gradient Method"*.  Bayesian Analysis, 14(3), 980-984. [(***Journal***)](https://projecteuclid.org/euclid.ba/1558144846) [(***Preprint***)](https://arxiv.org/abs/1908.02964)
 
