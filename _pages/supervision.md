@@ -13,7 +13,7 @@ I enjoy supervising research projects and regularly take up the supervision of M
 **Application Process:** I can supervise PhD students at UCL through a number of routes, including:
 * The [*UCL Statistical Science*](https://www.ucl.ac.uk/statistics/prospective-postgraduates/phd) department PhD programme. 
 * The [centre for doctoral training (CDT) in *Foundations of AI*](https://www.ucl.ac.uk/ai-centre/study/research-degree-foundational-artificial-intelligence).
-* The [London NERC DTP](https://london-nerc-dtp.org/).
+* The [London NERC doctoral training partnership (DTP)](https://london-nerc-dtp.org/). This PhD programme is a joint programme across a number of London institutions, and is appropriate if you are interested in a project at the intersection of statistics/machine learning and the environmental science. 
 
 You can find more details on the application process for PhDs at UCL through [the UCL graduate study guide](https://www.ucl.ac.uk/prospective-students/graduate/applying-graduate-study/what-you-need-complete-application). You can also find tips on writing a convincing research statement on [this page](https://www.ucl.ac.uk/prospective-students/graduate/sites/prospective-students_graduate/files/potential-supervisor.pdf).
 
