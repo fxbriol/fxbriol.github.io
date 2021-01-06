@@ -8,7 +8,7 @@ author_profile: true
 
 ## Current Students
 
-* **Oscar Key**, PhD student within the CDT in Foundational AI at UCL, Department of Computer Science (since September 2020). *Main supervisor*. Second supervisor: Prof. Marc Deisenroth. *Project*: Robustness of Gaussian processes
+* [**Oscar Key**](https://oscarkey.github.io), PhD student within the CDT in Foundational AI at UCL, Department of Computer Science (since September 2020). *Main supervisor*. Second supervisor: Prof. Marc Deisenroth. *Project*: Robustness of Gaussian processes
 
 * **Kaiyu Li**, PhD student in Statistics at UCL, Department of Statistical Science (since December 2019). *Second supervisor*. First supervisor: Prof. Serge Guillas. *Project*: Bayesian quadrature and multi-level Monte Carlo. 
 
