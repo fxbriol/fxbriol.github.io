@@ -296,3 +296,14 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+gallery_students:
+  - url: /images/fxbriol_website_photo.jpg
+    image_path: /images/fxbriol_website_photo.jpg
+    alt: "placeholder image 1"
+    title: "Hello this is me"
+  - url: /images/fxbriol_website_photo.jpg
+    image_path: /images/fxbriol_website_photo.jpg
+    alt: "placeholder image 1"
+    title: "Hello this is me"
