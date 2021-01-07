@@ -25,6 +25,8 @@ I also have honorary PhD students i.e. PhD students with which I work with regul
 
 ## Past Students doing Research
 
+I have previously supervised a number of students currently doing research:
+
 * ***Johanna Meier***, MSc Data Science thesis (UCL, 2020), title: "Scalable Inference for Generative
 Models using Quasi-Monte Carlo". Now PhD student at Leibniz Universitat Hannover under the supervision of Prof. Philipp Sibbertsen.
 * [**Charline le Lan**](http://csml.stats.ox.ac.uk/people/lelan/), MSc Statistics thesis (Imperial College London, 2018), title: "Neural Networks for Variance Reduction in MCMC". Now PhD student at the University of Oxford under the supervision of Prof. Yee Whye Teh. 
