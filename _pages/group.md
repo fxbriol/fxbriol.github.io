@@ -16,7 +16,7 @@ I am currently supervising the following great team of PhD students:
 
 * [**Zhuo Sun**](https://jz-fun.github.io), PhD student in Statistics at UCL, Department of Statistical Science (since May 2020). *Second supervisor*. First supervisor: Dr. Jinghao Xue. *Project*: Control Variates for Monte Carlo Methods.
 
-I also have a couple of honorary PhD students i.e. PhD students with which I work with regularly and mentor, but are not based at UCL:
+I also have honorary PhD students i.e. PhD students with which I work with regularly and mentor, but that are not based at UCL:
 
 * [**George Wynne**](https://georgewynne.github.io/), PhD student in Mathematics at Imperial College London, Department of Mathematics (since September 2018). Co-supervised with Dr. Andrew Duncan (Imperial) and Prof. Mark Girolami (Cambridge). *Project*: Theory for Gaussian processes.
 
