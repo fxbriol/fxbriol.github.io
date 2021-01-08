@@ -17,7 +17,10 @@ I am currently supervising the following great team of PhD students:
 * [**Zhuo Sun**](https://jz-fun.github.io), PhD student in Statistics at UCL, Department of Statistical Science (since May 2020). *Second supervisor*. First supervisor: Dr. Jinghao Xue. *Project*: Control Variates for Monte Carlo Methods.
 
 
-<center><img src="/images/research_group.png" alt="research group" width="65%"> </center> </br> </br>
+<center><img src="/images/research_group.png" alt="research group" width="65%"> </center> 
+
+<br />
+<br />
 
 
 I also have honorary PhD students i.e. PhD students with which I work with regularly and mentor, but that are not based at UCL:
