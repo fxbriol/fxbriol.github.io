@@ -33,8 +33,8 @@ Models using Quasi-Monte Carlo". Now PhD student at Leibniz Universitat Hannover
 * [**Xiaoyue Xi**](https://www.researchgate.net/profile/Xiaoyue_Xi), MSc Statistics thesis (Imperial College London, 2017), title: "Bayesian Monte Carlo in Computer Graphics". Received best MSc thesis award. Now PhD student at Imperial College under the supervision of Dr. Oliver Ratmann. 
 
 <figure class="half">
-    <a href="/images/fxbriol_website_photo.jpg"><img src="/images/fxbriol_website.jpg"></a>
-    <a href="/images/fxbriol_website_photo.jpg"><img src="/images/fxbriol_website.jpg"></a>
+    <a href="/images/fxbriol_website_photo.jpg"><img src="/images/fxbriol_website_photo.jpg"></a>
+    <a href="/images/fxbriol_website_photo.jpg"><img src="/images/fxbriol_website_photo.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
