@@ -20,7 +20,6 @@ I am currently supervising the following great team of PhD students:
 <center><img src="/images/research_group.png" alt="research group" width="65%"> </center> 
 
 <br />
-<br />
 
 
 I also have honorary PhD students i.e. PhD students with which I work with regularly and mentor, but that are not based at UCL:
