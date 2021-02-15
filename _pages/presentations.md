@@ -10,6 +10,7 @@ author_profile: true
 
 
 * 19th February 2021 - Talk - [***OxCSML Seminar***](https://github.com/oxcsml/ML_bazaar/wiki/Seminar), University of Oxford (Online talk).
+* 21-22nd October 2021 - Talk - [***Annual Meeting of the Royal Statistical Conference of Belgium***].
 * 28-31st October 2021 - Talk - [***DALI 2021 - Data, Learning and Inference***](http://dalimeeting.org/) (Palma, Spain).
 
 
