@@ -8,7 +8,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Mastubara, M., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) 
+* Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) 
 
 * Bharti, A., ***Briol, F-X.***, Pedersen, T. (2020). *Calibration of stochastic radio channel models with kernels*. arXiv:2012.09612. [(***Preprint***)](https://arxiv.org/abs/2012.09612) 
 
