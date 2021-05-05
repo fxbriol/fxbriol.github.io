@@ -16,9 +16,14 @@ author_profile: true
 
 ## Past
 
-### 2020
+
+### 2021
 
 * 19th February 2021 - Talk - [***OxCSML Seminar***](https://github.com/oxcsml/ML_bazaar/wiki/Seminar), University of Oxford (Online talk).
+
+
+### 2020
+
 * 25th September 2020 - Talk - ***Duke University***, Department of Statistical Science, Departmental Seminar (Online talk).
 * 25th September 2020 - Talk - ***RIKEN AIP*** (Online). [(slides)](https://fxbriol.github.io/pdfs/fxbriol_RIKEN_sept2020.pdf)
 * 9-14th August 2020 - Talk - [***14th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing***](https://mcqmc20.web.ox.ac.uk/), University of Oxford (Oxford, UK). [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
