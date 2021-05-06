@@ -10,18 +10,18 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) 
 
-* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2020). *Calibration of stochastic radio channel models with kernels*. arXiv:2012.09612. [(***Preprint***)](https://arxiv.org/abs/2012.09612) 
-
 * Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2020). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. arXiv:2010.08488. [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be)
 
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
-
-* Wynne, G., ***Briol, F-X.***, Girolami, M. (2020). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. arXiv:2001.10818. (accepted for publication in the Journal of Machine Learning Research subject to minor revisions) [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
 * ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944) [(***Talk/Video***)](https://youtu.be/mm7bHjEzhow)
 
 
 ## Published Papers
+
+* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2020). *Calibration of stochastic radio channel models with kernels*. arXiv:2012.09612. Accepted for publication in IEEE Transactions on Antennas and Propagation. [(***Preprint***)](https://arxiv.org/abs/2012.09612) 
+
+* Wynne, G., ***Briol, F-X.***, Girolami, M. (2020). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. arXiv:2001.10818. Accepted for publication in the Journal of Machine Learning Research (subject to minor revisions). [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
 * Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. IEEE Transactions on Antennas and Propagation. [(***Journal***)](https://ieeexplore.ieee.org/document/9362172) [(***Preprint***)](https://arxiv.org/abs/2005.06808)
 
