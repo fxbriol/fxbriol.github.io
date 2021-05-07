@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-This page contains all my publications; for more details, see my [Google Scholar](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en) profile. If you want a non-technical overview of some of my work, see the [Fundamentals of Statistical Machine Learning](https://www.turing.ac.uk/research/research-projects/fundamentals-statistical-machine-learning) project page from the Turing Institute, which I lead.
+This page contains all my publications; for more details, see my [Google Scholar](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en) profile. If you want a non-technical overview of some of my work, see the Fundamentals of Statistical Machine Learning [project page](https://www.turing.ac.uk/research/research-projects/fundamentals-statistical-machine-learning) from the Turing Institute, which I lead.
 
 ## Preprints
 
