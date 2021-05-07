@@ -8,7 +8,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***code***)](https://github.com/takuomatsubara/KSD-Bayes)
+* Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes)
 
 * Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2020). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. arXiv:2010.08488. [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be)
 
@@ -45,7 +45,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 	* This paper was accepted for a long talk (top 8% of submitted papers).
 
 * Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein points*. International Conference on Machine Learning, PMLR 80:843-852. 
-[(***Conference***)](http://proceedings.mlr.press/v80/chen18f.html) [(***Preprint***)](https://arxiv.org/abs/1803.10161) [(***code***)](https://github.com/wilson-ye-chen/stein_points)
+[(***Conference***)](http://proceedings.mlr.press/v80/chen18f.html) [(***Preprint***)](https://arxiv.org/abs/1803.10161) [(***Code***)](https://github.com/wilson-ye-chen/stein_points)
 
 * Barp, A., ***Briol, F-X.***, Kennedy, A. D. & Girolami, M. (2018). *Geometry and dynamics for Markov chain Monte Carlo*. Annual Review of Statistics and Its Applications, Vol. 5:451-471.
 [(***Journal***)](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031017-100141) [(***Preprint***)](https://arxiv.org/abs/1705.02891)
