@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Papers"
+  - title: "Publications"
     url: /papers/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /presentations/  
 
   - title: "Research Group"
     url: /group/ 
 
-  - title: "Supervision"
+  - title: "Prospective Students"
     url: /supervision/   
 
   - title: "Teaching"
