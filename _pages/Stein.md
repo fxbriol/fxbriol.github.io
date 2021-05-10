@@ -33,7 +33,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
 
 <p align="center">
-  <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="50%">
+  <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="75%">
 </p>
 
 2. Parameter estimation methods for models with unnormalised likelihoods:
@@ -43,7 +43,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   * Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes)
 
 <p align="center">
-  <img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="70%">
+  <img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="100%">
 </p>
 
 3. Novel samplers for approximating complicated probability distributions such as Bayesian posterior distribution:
@@ -55,7 +55,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
 
 <p align="center">
-  <img src="/images/SP.png" alt="Stein Points" width="50%">
+  <img src="/images/SP.png" alt="Stein Points" width="75%">
 </p>
 
 
