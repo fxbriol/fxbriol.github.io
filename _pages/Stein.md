@@ -30,7 +30,9 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
 <center><img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="50%"> </center> 
 
-
+<p align="center">
+  <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="50%">
+</p>
 
 * Parameter estimation methods for models with unnormalised likelihoods in Bayesian and frequentist settings:
 
