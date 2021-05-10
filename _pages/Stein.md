@@ -34,6 +34,10 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
   * Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes)
 
+
+<center><img src="/images/KSD-Bayes.png" alt="research group" width="50%"> </center> 
+<br />
+
 * Novel samplers for approximating complicated probability distributions such as Bayesian posterior distribution:
 
   * Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein points*. International Conference on Machine Learning, PMLR 80:843-852. 
@@ -44,6 +48,5 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
 
 <center><img src="/images/SP.png" alt="research group" width="50%"> </center> 
-
 <br />
 
