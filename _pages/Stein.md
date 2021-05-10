@@ -22,6 +22,9 @@ If you would like to get an in-depth introduction to this topic, see the followi
 
    * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets statistics: A review of some recent developments*
 
+<br>
+
+
 Instead, you might be interested in specific uses of Stein's method, including:
 * **Control variates to reduce the variance of Monte Carlo/MCMC estimators**:
 
@@ -34,6 +37,8 @@ Instead, you might be interested in specific uses of Stein's method, including:
   <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="75%">
 </p>
 
+<br>
+
 * **Statistical estimation methods for models with unnormalised likelihoods**:
 
   * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. Neural Information Processing Systems, 12964-12976. [(***Conference***)](https://papers.nips.cc/paper/9457-minimum-stein-discrepancy-estimators) [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
@@ -43,6 +48,9 @@ Instead, you might be interested in specific uses of Stein's method, including:
 <p align="center">
   <img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="100%">
 </p>
+
+<br>
+
 
 * **Novel samplers for approximating complicated probability distributions such as Bayesian posterior distributions**:
 
