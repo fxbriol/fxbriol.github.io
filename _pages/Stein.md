@@ -10,9 +10,9 @@ author_profile: true
 
 Some of my main research interests consist in developing novel statistical or machine learning methodology which can deal with computational expensive or intractable models. From a computational viewpoint, two of the main challenges in this context are: 
 
-1. We usually want to obtain certain quantities of interest, but these take the form of some intractable integral/expectations
+* We usually want to obtain certain quantities of interest, but these take the form of some intractable integral/expectations
 
-2. We often only know the probability density functions we are working with up to some unknown normalisation constant. For example, we usually do not know the normalisation constant of Bayesian posterior distributions (called the model evidence), and sometimes the likelihood itself has an unknown constant.
+* We often only know the probability density functions we are working with up to some unknown normalisation constant. For example, we usually do not know the normalisation constant of Bayesian posterior distributions (called the model evidence), and sometimes the likelihood itself has an unknown constant.
 
 The most common solution to these problems is to use elaborate Monte Carlo methods or variational inference, but this can often lead to significant challenges. Thankfully, Stein's method offers us an alternative approach. Using so-called Stein operators, it is straightforward to construct functions which integrate to a known value, and can be evaluated even without knowing normalisation constants of the densities of interest.  
 
@@ -32,7 +32,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="50%">
 </p>
 
-2. Parameter estimation methods for models with unnormalised likelihoods in Bayesian and frequentist settings:
+2. Parameter estimation methods for models with unnormalised likelihoods:
 
   * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. Neural Information Processing Systems, 12964-12976. [(***Conference***)](https://papers.nips.cc/paper/9457-minimum-stein-discrepancy-estimators) [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 
