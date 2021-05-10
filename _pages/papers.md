@@ -10,7 +10,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes)
 
-* Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2020). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. arXiv:2010.08488. [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be)
+* Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2020). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. arXiv:2010.08488. [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be) [(***Code***)](https://github.com/takuomatsubara/BNN-RidgeletPrior)
 
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
