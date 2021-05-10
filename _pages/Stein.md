@@ -1,6 +1,6 @@
 
 ---
-permalink: /research-projects/Stein
+permalink: /stein
 title: "Stein's Method for Statistical Computation"
 author_profile: true
 ---
