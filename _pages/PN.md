@@ -14,7 +14,7 @@ Whether for computing an integral, solving an optimisation problem, or solving d
 
 
 <p align="center">
-  <img src="/images/BQ-sketch.png" alt="Sketch of the Bayesian Quadrature Algorithm" width="75%">
+  <img src="/images/BQ-sketch.png" alt="Sketch of the Bayesian Quadrature Algorithm" width="65%">
 </p>
 
 <br>
@@ -22,7 +22,7 @@ Whether for computing an integral, solving an optimisation problem, or solving d
 
 
 <p align="center">
-  <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="75%">
+  <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="85%">
 </p>
 
 <br>
