@@ -16,7 +16,7 @@ The most common solution to these problems is to use elaborate Monte Carlo metho
 
 ## Work in this field
 
-A good in-depth introduction to this topic can be found in the following review paper:
+If you would like to get an in-depth introduction to this topic, see the following review paper:
 
    * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets statistics: A review of some recent developments*
 
