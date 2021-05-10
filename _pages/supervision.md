@@ -1,5 +1,5 @@
 ---
-title: "Supervision"
+title: "Prospective Students"
 permalink: /supervision/
 author_profile: true
 ---
