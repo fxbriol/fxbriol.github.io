@@ -22,7 +22,7 @@ Whether for computing an integral, solving an optimisation problem, or solving d
 ## Contributions to this field
 
 <p align="center">
-  <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="85%">
+  <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="100%">
 </p>
 
 <br>
