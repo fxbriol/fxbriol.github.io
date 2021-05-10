@@ -21,7 +21,7 @@ A good in-depth introduction to this topic can be found in the following review 
    * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets statistics: A review of some recent developments*
 
 Instead, you might be interested in specific uses of Stein's method, including:
-1. Control variates to reduce the variance of Monte Carlo/MCMC estimators:
+* Control variates to reduce the variance of Monte Carlo/MCMC estimators:
 
   * Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***Preprint***)](https://fxbriol.github.io/pdfs/Bernoulli_1551862846.pdf)
 
@@ -32,8 +32,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="75%">
 </p>
 
-{:start="2"}
-2. Parameter estimation methods for models with unnormalised likelihoods:
+* Parameter estimation methods for models with unnormalised likelihoods:
 
   * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. Neural Information Processing Systems, 12964-12976. [(***Conference***)](https://papers.nips.cc/paper/9457-minimum-stein-discrepancy-estimators) [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 
@@ -43,8 +42,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   <img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="100%">
 </p>
 
-{:start="3"}
-3. Novel samplers for approximating complicated probability distributions such as Bayesian posterior distribution:
+* Novel samplers for approximating complicated probability distributions such as Bayesian posterior distribution:
 
   * Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein points*. International Conference on Machine Learning, PMLR 80:843-852. 
 [(***Conference***)](http://proceedings.mlr.press/v80/chen18f.html) [(***Preprint***)](https://arxiv.org/abs/1803.10161) [(***Code***)](https://github.com/wilson-ye-chen/stein_points)
