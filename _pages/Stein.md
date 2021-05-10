@@ -29,7 +29,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
 
-<center><img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="70%"> </center> 
+<center><img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="50%"> </center> 
 
 
 
