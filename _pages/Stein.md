@@ -1,6 +1,6 @@
 ---
 title: "Stein's Method for Computational Statistics and Machine Learning"
-permalink: /stein/
+permalink: /Stein/
 author_profile: true
 ---
 
@@ -16,7 +16,7 @@ The most common solution to these problems is to use elaborate Monte Carlo metho
 
 I have developed novel methodology in a range of fields thanks to this computational trick. In particular, I have focused on developing novel tools for Monte Carlo, and novel statistical estimators in frequentist and Bayesian settings. Further details can be found below.
 
-## Work in this field
+## Contributions to this field
 
 If you would like to get an in-depth introduction to this topic, see the following review paper:
 
