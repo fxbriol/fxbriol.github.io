@@ -42,3 +42,8 @@ Instead, you might be interested in specific uses of Stein's method, including:
   * Chen, W. Y., Barp, A., ***Briol, F-X.***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/abs/1905.03673)
 
 
+
+<center><img src="/images/research_group.png" alt="research group" width="65%"> </center> 
+
+<br />
+
