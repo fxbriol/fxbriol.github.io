@@ -32,6 +32,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="75%">
 </p>
 
+{:start="2"}
 2. Parameter estimation methods for models with unnormalised likelihoods:
 
   * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. Neural Information Processing Systems, 12964-12976. [(***Conference***)](https://papers.nips.cc/paper/9457-minimum-stein-discrepancy-estimators) [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
@@ -42,6 +43,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   <img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="100%">
 </p>
 
+{:start="3"}
 3. Novel samplers for approximating complicated probability distributions such as Bayesian posterior distribution:
 
   * Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein points*. International Conference on Machine Learning, PMLR 80:843-852. 
