@@ -28,6 +28,11 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
   * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
+
+<center><img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="70%"> </center> 
+
+
+
 * Parameter estimation methods for models with unnormalised likelihoods in Bayesian and frequentist settings:
 
   * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. Neural Information Processing Systems, 12964-12976. [(***Conference***)](https://papers.nips.cc/paper/9457-minimum-stein-discrepancy-estimators) [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
@@ -35,7 +40,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   * Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes)
 
 
-<center><img src="/images/KSD-Bayes.png" alt="research group" width="70%"> </center> 
+<center><img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="70%"> </center> 
 
 
 * Novel samplers for approximating complicated probability distributions such as Bayesian posterior distribution:
@@ -47,6 +52,6 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
 
 
-<center><img src="/images/SP.png" alt="research group" width="50%"> </center> 
+<center><img src="/images/SP.png" alt="Stein Points" width="50%"> </center> 
 
 
