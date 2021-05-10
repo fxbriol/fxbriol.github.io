@@ -24,9 +24,9 @@ Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinez
 Instead, you might be interested in specific uses of Stein's method, including:
 * Control variates to reduce the variance of Monte Carlo/MCMC estimators:
 
-i. Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***Preprint***)](https://fxbriol.github.io/pdfs/Bernoulli_1551862846.pdf)
+  * Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***Preprint***)](https://fxbriol.github.io/pdfs/Bernoulli_1551862846.pdf)
 
-ii. Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
+  * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
 * Parameter estimation methods for models with unnormalised likelihoods in Bayesian and frequentist settings:
 
