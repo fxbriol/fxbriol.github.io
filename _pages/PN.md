@@ -19,7 +19,7 @@ Whether for computing an integral, solving an optimisation problem, or solving d
 
 <br>
 
-
+## Contributions to this field
 
 <p align="center">
   <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="85%">
