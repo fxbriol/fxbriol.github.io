@@ -4,10 +4,6 @@ permalink: /stein/
 author_profile: true
 ---
 
-
-## Stein's Method for Statistical Computation
-
-
 ### About
 
 Some of my main research interests consist in developing novel statistical or machine learning methodology which can deal with computational expensive or intractable models. From a computational viewpoint, two of the main challenges in this context are: 
