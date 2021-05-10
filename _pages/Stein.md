@@ -43,7 +43,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
 
 
-<center><img src="/images/SP.png" alt="research group" width="65%"> </center> 
+<center><img src="/images/SP.png" alt="research group" width="50%"> </center> 
 
 <br />
 
