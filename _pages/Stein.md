@@ -28,8 +28,6 @@ Instead, you might be interested in specific uses of Stein's method, including:
   * Si, S., Oates, C. J., Duncan, A. B., Carin, L., ***Briol. F-X.*** (2020). *Scalable control variates for Monte Carlo methods via stochastic optimization*. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
 
-<center><img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="50%"> </center> 
-
 <p align="center">
   <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="50%">
 </p>
@@ -40,9 +38,9 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
   * Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes)
 
-
-<center><img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="70%"> </center> 
-
+<p align="center">
+  <img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="70%">
+</p>
 
 * Novel samplers for approximating complicated probability distributions such as Bayesian posterior distribution:
 
@@ -52,7 +50,8 @@ Instead, you might be interested in specific uses of Stein's method, including:
   * Chen, W. Y., Barp, A., ***Briol, F-X.***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/abs/1905.03673)
 
 
-
-<center><img src="/images/SP.png" alt="Stein Points" width="50%"> </center> 
+<p align="center">
+  <img src="/images/SP.png" alt="Stein Points" width="50%">
+</p>
 
 
