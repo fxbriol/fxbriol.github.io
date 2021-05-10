@@ -22,8 +22,6 @@ If you would like to get an in-depth introduction to this topic, see the followi
 
    * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets statistics: A review of some recent developments*
 
-<br>
-
 
 Instead, you might be interested in specific uses of Stein's method, including:
 * **Control variates to reduce the variance of Monte Carlo/MCMC estimators**:
