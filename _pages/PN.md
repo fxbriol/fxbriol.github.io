@@ -14,7 +14,22 @@ Whether for computing an integral, solving an optimisation problem, or solving d
 
 
 <p align="center">
-  <img src="/images/Stein-CV.png" alt="Control Variates from Stein's Method" width="75%">
+  <img src="/images/BQ-sketch.png" alt="Sketch of the Bayesian Quadrature Algorithm" width="75%">
+</p>
+
+<br>
+
+
+
+<p align="center">
+  <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="75%">
+</p>
+
+<br>
+
+
+<p align="center">
+  <img src="/images/BQ-heart.png" alt="Applicatiom of Bayesian Quadrature for Heart Modelling" width="75%">
 </p>
 
 <br>
