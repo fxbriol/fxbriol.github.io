@@ -36,7 +36,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
 
 <center><img src="/images/KSD-Bayes.png" alt="research group" width="70%"> </center> 
-<br />
+
 
 * Novel samplers for approximating complicated probability distributions such as Bayesian posterior distribution:
 
@@ -48,5 +48,5 @@ Instead, you might be interested in specific uses of Stein's method, including:
 
 
 <center><img src="/images/SP.png" alt="research group" width="50%"> </center> 
-<br />
+
 
