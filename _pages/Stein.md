@@ -1,8 +1,9 @@
 ---
-title: "Research Group"
-permalink: /group/
+title: "Stein's Method for Statistical Computation"
+permalink: /stein/
 author_profile: true
 ---
+
 
 #### Stein's Method for Statistical Computation
 
