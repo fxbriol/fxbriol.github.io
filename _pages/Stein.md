@@ -16,9 +16,7 @@ The most common solution to these problems is to use elaborate Monte Carlo metho
 
 ## Contributions to this field
 
-I have developed novel methodology in a range of fields thanks to this computational trick. In particular, I have focused on developing novel tools for Monte Carlo, and novel statistical estimators in frequentist and Bayesian settings. Further details can be found below.
-
-If you would like to get an in-depth introduction to this topic, see the following review paper:
+I have developed novel methodology in a range of fields thanks to the tools from Stein's method. In particular, I have focused on developing novel tools for Monte Carlo, and novel statistical estimators in frequentist and Bayesian settings. If you would like to get an in-depth introduction to this topic, see the following review paper:
 
    * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets statistics: A review of some recent developments*
 
