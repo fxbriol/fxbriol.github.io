@@ -1,7 +1,7 @@
 
 ---
-permalink: /stein/
 title: "Stein's Method for Statistical Computation"
+permalink: /stein/
 author_profile: true
 ---
 
