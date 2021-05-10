@@ -6,7 +6,7 @@ author_profile: true
 
 ## About
 
-Some of my main research interests consist in developing novel statistical or machine learning methodology which can deal with computational expensive or intractable models. From a computational viewpoint, two of the main challenges in this context are: 
+My main research interests consist in developing novel statistical or machine learning methodology which can deal with computational expensive or intractable models. From a computational viewpoint, two of the main challenges in this context are: 
 
 * We usually want to obtain certain quantities of interest, but these take the form of some intractable integral/expectations.
 
