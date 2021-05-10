@@ -47,7 +47,7 @@ Instead, you might be interested in specific uses of Stein's method, including:
   * Chen, W. Y., Mackey, L., Gorham, J. ***Briol, F-X.*** & Oates, C. J. (2018). *Stein points*. International Conference on Machine Learning, PMLR 80:843-852. 
 [(***Conference***)](http://proceedings.mlr.press/v80/chen18f.html) [(***Preprint***)](https://arxiv.org/abs/1803.10161) [(***Code***)](https://github.com/wilson-ye-chen/stein_points)
 
-  * Chen, W. Y., Barp, A., ***Briol, F-X.***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/abs/1905.03673)
+  * Chen, W. Y., Barp, A., ***Briol, F-X.***, Gorham, J., Girolami, M., Mackey, L., Oates, C. J. (2019). *Stein point Markov chain Monte Carlo*. International Conference on Machine Learning, PMLR 97:1011-1021. [(***Conference***)](http://proceedings.mlr.press/v97/chen19b.html) [(***Preprint***)](https://arxiv.org/abs/1905.03673) [(***Code***)](https://github.com/wilson-ye-chen/sp-mcmc)
 
 
 <p align="center">
