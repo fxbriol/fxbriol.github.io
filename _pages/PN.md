@@ -17,7 +17,7 @@ The most well-know algorithm from this field is *Bayesian optimisation*, which h
 
 ## Contributions to this field
 
-Bayesian quadrature, the equivalent of the well-known Bayesian optimisation problem which focuses on tackling the computation of intractable integrals.
+My own work has focused on *Bayesian quadrature*, a family of Bayesian inference schemes for tackling the computation of intractable integrals. Although the first version of this algorithm appeared in the 1980s (and certain aspects even in the 1960s), 
 
 Following review paper, which was published with discussion and rejoinder in Statistical Science, is a good starting point:
 
