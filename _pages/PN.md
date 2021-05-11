@@ -12,7 +12,7 @@ Unfortunately, due to the increasing complexity and computational cost of modern
 
 *Bayesian numerical methods* (sometimes also called [*probabilistic numerics*](http://www.probabilistic-numerics.org)) provide an alternative way forward through the lense of Bayesian inference. The idea is to consider the solution of the numerical problem as a quantity of interest, then use Bayesian inference to obtain an estimate of this quantity. This allows for the use of prior information to be incorporated in the numerical method, and for a detailed description of our uncertainty through the resulting posterior distribution. In fact, these algorithms are particularly useful for statistical applications since they allow for both the inference and the numerics to speak the same language, and as such uncertainty can be propagated throughout the entire procedure.
 
-The most well-know algorithm from this field is *Bayesian optimisation*, which has been used in academia and industry to tune large scale models. However, there is an increasingly active research field exploring other uses of Bayesian inference in numerical analysis.
+The most well-know algorithm from this field is *Bayesian optimisation*, which has been used in academia and industry to tune large scale models. However, there is an increasingly active research field exploring other uses of Bayesian inference for integration, linear algebra or differential equations.
 
 
 ## Contributions to this field
