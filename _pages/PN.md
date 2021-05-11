@@ -6,7 +6,9 @@ author_profile: true
 
 ## About
 
-Whether for computing an integral, solving an optimisation problem, or solving differential equations, numerical methods are one of the core tools of statistics and machine learning.
+Whether for computing an integral, solving an optimisation problem, or solving differential equations, numerical methods are one of the core tools of statistics and machine learning. Most of the numerical methods available come from the field of numerical analysis, where one of the common assumption is that a high level of accuracy can be obtain by for example obtaining more function values or using a finer mesh or step-size. In this settings, strong theoretical guarantees can usually be provided in the form of worst-case errors.
+
+Unfortunately, due to the increasing complexity and computational cost of modern statistical machine learning models, there are many application areas where obtaining more function values is simply not feasible. The worst-case theoretical guarantees are therefore not particularly useful since they are designed with an alternative setting in mind, and as a result can be overly pessimistic.
 
 
 Bayesian probabilistic numerical methods, a set of tools which aim to solve problems from numerical analysis using Bayesian inference.
@@ -34,15 +36,11 @@ Following review paper, which was published with discussion and rejoinder in Sta
 * Zhu, H., Liu, X., Kang, R., Shen, Z., Flaxman, S., ***Briol, F-X.*** (2020). *Bayesian probabilistic numerical integration with tree-based models*. Accepted for Publication at Neural Information Processing Systems. [(***Conference***)](https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html) [(***Preprint***)](https://arxiv.org/abs/2006.05371)
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. [(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html) [(***Preprint***)](https://arxiv.org/abs/1801.04153)
-	* This paper was accepted for a long talk (top 8% of submitted papers).
 
 * ***Briol, F-X.***, Oates, C. J., Cockayne, J., Chen, W. Y. & Girolami, M. (2017). *On the sampling problem for kernel quadrature*. Proceedings of the 34th International Conference on Machine Learning, PMLR 70:586-595. [(***Conference***)](http://proceedings.mlr.press/v70/briol17a.html) [(***Preprint***)](https://arxiv.org/abs/1706.03369) 
 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M. & Osborne, M. A. (2015). *Frank-Wolfe Bayesian Quadrature: probabilistic integration with theoretical guarantees*. Advances In Neural Information Processing Systems (NIPS), 1162-1170. [(***Preprint***)](https://arxiv.org/abs/1506.02681) [(***Conference***)](https://papers.nips.cc/paper/5749-frank-wolfe-bayesian-quadrature-probabilistic-integration-with-theoretical-guarantees)
-	* This paper was accepted with a spotlight presentation (top 4.5% of submitted papers).
-	* This paper was discussed in the blog of [Ingmar Schuster](https://ingmarschuster.wordpress.com/2015/10/26/frank-wolfe-bayesian-quadrature/).
-
-
+	
 
 <p align="center">
   <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="100%">
