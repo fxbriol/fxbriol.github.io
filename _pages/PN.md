@@ -24,12 +24,9 @@ Bayesian quadrature, the equivalent of the well-known Bayesian optimisation prob
 ## Contributions to this field
 
 
-Following review paper is a good starting point
+Following review paper, which was published with discussion and rejoinder in Statistical Science, is a good starting point:
 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, 1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS660.pdf) [(***Supplement***)](https://fxbriol.github.io/pdfs/STS660_supplement.pdf)
-
-This paper accepted with discussion and [rejoinder](https://projecteuclid.org/euclid.ss/1555056029). There are three discussion pieces by (i) Fred Hickernel and R. Jagadeeswaran [(Journal)](https://projecteuclid.org/euclid.ss/1555056026) [(Preprint)](https://arxiv.org/pdf/1812.01811.pdf), (ii) Art Owen [(Journal)](https://projecteuclid.org/euclid.ss/1555056027) [(Preprint)](http://statweb.stanford.edu/~owen/reports/unreeff), and (iii) Michael Stein and Ying Hung [(Journal)](https://projecteuclid.org/euclid.ss/1555056028). 
-
 
 
 * Wynne, G., ***Briol, F-X.***, Girolami, M. (2020). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. arXiv:2001.10818. Accepted for publication in the Journal of Machine Learning Research (subject to minor revisions). [(***Preprint***)](https://arxiv.org/abs/2001.10818)
