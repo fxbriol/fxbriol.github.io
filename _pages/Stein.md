@@ -1,5 +1,5 @@
 ---
-title: "Stein's Method for Computational Statistics and Machine Learning"
+title: "Stein's Method as a Computational Tool"
 permalink: /Stein/
 author_profile: true
 ---
