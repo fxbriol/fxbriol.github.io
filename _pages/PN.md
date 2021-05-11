@@ -12,7 +12,7 @@ Unfortunately, due to the increasing complexity and computational cost of modern
 
 *Bayesian numerical methods* (sometimes also called *probabilistic numerics*) provide an alternative way forward through the lense of Bayesian inference. The idea is to consider the solution of the numerical problem as a quantity of interest, then use Bayesian inference to obtain an estimate of this quantity. This allows for the use of prior information to be incorporated in the numerical method, and for a detailed description of our uncertainty through the resulting posterior distribution. In fact, these algorithms are particularly useful for statistical applications since they allow for both the inference and the numerics to speak the same language, and as such uncertainty can be propagated throughout the entire procedure.
 
-The most well-know algorithm from this field is Bayesian optimisation.
+The most well-know algorithm from this field is *Bayesian optimisation*.
 
 Bayesian quadrature, the equivalent of the well-known Bayesian optimisation problem which focuses on tackling the computation of intractable integrals.
 
