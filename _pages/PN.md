@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Numerical Methods"
-permalink: /PN/
+permalink: /research/PN/
 author_profile: true
 ---
 
