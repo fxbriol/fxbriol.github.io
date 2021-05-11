@@ -19,7 +19,7 @@ The most well-know algorithm from this field is *Bayesian optimisation*, which h
 
 My own work has focused on *Bayesian quadrature*, a family of Bayesian inference schemes for tackling the computation of intractable integrals. Although the first version of this algorithm appeared in the 1980s (and certain aspects even in the 1960s), 
 
-Following review paper, which was published with discussion and rejoinder in Statistical Science, is a good starting point:
+The following paper, which was published with discussion and rejoinder in the journal *Statistical Science*, is a good starting point for anyone interested in finding out more about this research field:
 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, 1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS660.pdf) [(***Supplement***)](https://fxbriol.github.io/pdfs/STS660_supplement.pdf)
 
