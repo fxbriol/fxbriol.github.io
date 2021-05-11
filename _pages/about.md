@@ -16,13 +16,13 @@ My research interests are at the interface of computational statistics, machine 
 
 Prior to UCL, I was a PhD student on the joint centre for doctoral training between the Departments of Statistics at Warwick and Oxford, then spent a year first as research assistant in the Department of Mathematics at Imperial College London, then as a research associate in the Department of Engineering at the University of Cambridge. 
 
-For more details, see my [Publications](https://fxbriol.github.io/papers/) page or my [Google Scholar](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en) profile. Alternatively, you can catch me at one of my [Presentations](https://fxbriol.github.io/presentations/). For supervision opportunities, see also [this page](https://fxbriol.github.io/supervision/).
+For more details, see my [Publications](https://fxbriol.github.io/papers/) page or my [Google Scholar](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en) profile. Alternatively, you can catch me at one of my [Presentations](https://fxbriol.github.io/presentations/). If you are a student/postdoc interested in working with me, see also [this page](https://fxbriol.github.io/supervision/).
 
 
 
 ## News
 
-* I am organising a special session on Stein's method in computational statistics at [the 13th International Conference on Monte Carlo Methods and Applications (MCM2021)](https://www.uni-mannheim.de/mcm-2021/).
+* I am organising a special session on Stein's method in computational statistics at the 13th International Conference on Monte Carlo Methods and Applications ([MCM2021](https://www.uni-mannheim.de/mcm-2021/)).
 
 * I am now affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
 
