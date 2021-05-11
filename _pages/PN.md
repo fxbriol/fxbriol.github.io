@@ -8,9 +8,11 @@ author_profile: true
 
 Whether for computing an integral, solving an optimisation problem, or solving differential equations, numerical methods are one of the core tools of statistics and machine learning.
 
-* We usually want to obtain certain quantities of interest, but these take the form of some intractable integral/expectations.
 
-* We often only know the probability density functions we are working with up to some unknown normalisation constant. For example, we usually do not know the normalisation constant of Bayesian posterior distributions (called the model evidence), and sometimes the likelihood itself has an unknown constant.
+Bayesian probabilistic numerical methods, a set of tools which aim to solve problems from numerical analysis using Bayesian inference.
+These algorithms are particularly useful for statistical applications since they allow for both the inference and the numerics to speak the same language, and as such uncertainty can be propagated throughout the entire procedure.
+
+Bayesian quadrature, the equivalent of the well-known Bayesian optimisation problem which focuses on tackling the computation of intractable integrals.
 
 
 <p align="center">
