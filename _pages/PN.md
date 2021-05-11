@@ -50,9 +50,3 @@ Following review paper, which was published with discussion and rejoinder in Sta
 
 <br>
 
-
-<p align="center">
-  <img src="/images/BQ-heart.png" alt="Applicatiom of Bayesian Quadrature for Heart Modelling" width="75%">
-</p>
-
-<br>
