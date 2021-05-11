@@ -1,6 +1,6 @@
 ---
 title: "Stein's Method as a Computational Tool"
-permalink: /Stein/
+permalink: /research/Stein/
 author_profile: true
 ---
 
