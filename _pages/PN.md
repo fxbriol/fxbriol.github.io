@@ -12,9 +12,16 @@ Unfortunately, due to the increasing complexity and computational cost of modern
 
 *Bayesian numerical methods* (sometimes also called [*probabilistic numerics*](http://www.probabilistic-numerics.org)) provide an alternative way forward through the lense of Bayesian inference. The idea is to consider the solution of the numerical problem as a quantity of interest, then use Bayesian inference to obtain an estimate of this quantity. This allows for the use of prior information to be incorporated in the numerical method, and for a detailed description of our uncertainty through the resulting posterior distribution. In fact, these algorithms are particularly useful for statistical applications since they allow for both the inference and the numerics to speak the same language, and as such uncertainty can be propagated throughout the entire procedure.
 
-The most well-know algorithm from this field is *Bayesian optimisation*, which has been used in academia and industry to tune large scale models.
+The most well-know algorithm from this field is *Bayesian optimisation*, which has been used in academia and industry to tune large scale models. However, there is an increasingly active research field exploring other uses of Bayesian inference in numerical analysis.
+
+
+## Contributions to this field
 
 Bayesian quadrature, the equivalent of the well-known Bayesian optimisation problem which focuses on tackling the computation of intractable integrals.
+
+Following review paper, which was published with discussion and rejoinder in Statistical Science, is a good starting point:
+
+* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, 1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS660.pdf) [(***Supplement***)](https://fxbriol.github.io/pdfs/STS660_supplement.pdf)
 
 
 <p align="center">
@@ -22,13 +29,6 @@ Bayesian quadrature, the equivalent of the well-known Bayesian optimisation prob
 </p>
 
 <br>
-
-## Contributions to this field
-
-
-Following review paper, which was published with discussion and rejoinder in Statistical Science, is a good starting point:
-
-* ***Briol, F-X.***, Oates, C. J., Girolami, M., Osborne, M. A. & Sejdinovic, D. (2019). *Probabilistic integration: a role in statistical computation?* Statistical Science, Vol 34, Number 1, 1-22. [(***Journal***)](https://projecteuclid.org/euclid.ss/1555056025) [(***Preprint***)](https://fxbriol.github.io/pdfs/STS660.pdf) [(***Supplement***)](https://fxbriol.github.io/pdfs/STS660_supplement.pdf)
 
 
 * Wynne, G., ***Briol, F-X.***, Girolami, M. (2020). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. arXiv:2001.10818. Accepted for publication in the Journal of Machine Learning Research (subject to minor revisions). [(***Preprint***)](https://arxiv.org/abs/2001.10818)
