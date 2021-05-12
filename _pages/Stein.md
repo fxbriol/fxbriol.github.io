@@ -23,7 +23,8 @@ If you would like to get an in-depth introduction to this topic, see the followi
    * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets statistics: A review of some recent developments*. arXiv:2105.03481. [(***Preprint***)](https://arxiv.org/abs/2105.03481)
 
 
-Instead, you might be interested in specific uses of Stein's method, including:
+If you already know about Stein's method, you might instead be interested in my work in a range of areas including:
+
 * Control variates to reduce the variance of Monte Carlo/MCMC estimators:
 
   * Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***Preprint***)](https://fxbriol.github.io/pdfs/Bernoulli_1551862846.pdf)
