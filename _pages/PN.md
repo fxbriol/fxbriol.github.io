@@ -17,7 +17,7 @@ The most well-know algorithm from this field is *Bayesian optimisation*, which h
 
 ## Contributions to this field
 
-My own work has focused on *Bayesian quadrature*, a family of Bayesian inference schemes for tackling the computation of intractable integrals. Although the first Bayesian quadrature algorithm appeared in the 1980s (and certain aspects even in the 1960s), initial developments were slowed down because computers were not yet able to handle such models.
+My own work has focused on *Bayesian quadrature*, a family of Bayesian inference schemes for tackling the computation of intractable integrals. Although the first Bayesian quadrature algorithm appeared in the 1980s (and certain aspects even in the 1960s), initial developments were slowed down because computers were not yet able to handle such models. However, the field has recently received renewed interest due to the many advantages provided by Bayesian numerical methods. My own contributions have been on the methodology side, where I have shown how to improve the algorithms for improved computational accuracy, and the theoretical side, where I have initially provided some of the the first convergence guarantees which have now been extended upon by many authors. 
 
 The following paper, which was published with discussion and rejoinder in the journal *Statistical Science*, is a good starting point for anyone interested in finding out more about this research field:
 
@@ -30,7 +30,7 @@ The following paper, which was published with discussion and rejoinder in the jo
 
 <br>
 
-I have also contributed a number of novel methodologies to improve the scalability and accuracy of the method. See for example:
+I have also contributed a number of novel methodologies to improve the scalability and accuracy of the method. For example, one of the main questions from a computational viewpoint is where to evaluate the integrand to obtain the best accuracy and uncertainty quantification. 
 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M. & Osborne, M. A. (2015). *Frank-Wolfe Bayesian Quadrature: probabilistic integration with theoretical guarantees*. Advances In Neural Information Processing Systems (NIPS), 1162-1170. [(***Preprint***)](https://arxiv.org/abs/1506.02681) [(***Conference***)](https://papers.nips.cc/paper/5749-frank-wolfe-bayesian-quadrature-probabilistic-integration-with-theoretical-guarantees)
 
