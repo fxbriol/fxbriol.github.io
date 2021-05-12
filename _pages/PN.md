@@ -10,7 +10,7 @@ Whether for computing an integral, solving an optimisation problem, or solving d
 
 Unfortunately, due to the increasing complexity and computational cost of modern statistical machine learning models, there are many application areas where obtaining more function values is simply not feasible. The worst-case theoretical guarantees are therefore not particularly useful since they are designed with an alternative setting in mind, and as a result can be overly pessimistic.
 
-*Bayesian numerical methods* (sometimes also called [*probabilistic numerics*](http://www.probabilistic-numerics.org)) provide an alternative way forward through the lense of Bayesian inference. The idea is to consider the solution of the numerical problem as a quantity of interest, then use Bayesian inference to obtain an estimate of this quantity. This allows for the use of prior information to be incorporated in the numerical method, and for a detailed description of our uncertainty through the resulting posterior distribution. In fact, these algorithms are particularly useful for statistical applications since they allow for both the inference and the numerics to speak the same language, and as such uncertainty can be propagated throughout the entire procedure.
+*Bayesian numerical methods* (sometimes also called [*probabilistic numerics*](http://www.probabilistic-numerics.org)) provide an alternative way forward through the lense of Bayesian inference. The idea is to consider the solution of the numerical problem as a quantity of interest, then use Bayesian inference to obtain an estimate of this quantity. This allows for the use of prior information to be incorporated in the numerical method (very often using Gaussian processes), and for a detailed description of our uncertainty through the resulting posterior distribution. In fact, these algorithms are particularly useful for statistical applications since they allow for both the inference and the numerics to speak the same language, and as such uncertainty can be propagated throughout the entire procedure.
 
 The most well-know algorithm from this field is *Bayesian optimisation*, which has been used in academia and industry to tune large scale models. However, there is an increasingly active research field exploring other uses of Bayesian inference for integration, linear algebra or differential equations.
 
@@ -30,13 +30,13 @@ The following paper, which was published with discussion and rejoinder in the jo
 
 <br>
 
-I have also contributed a number of novel methodologies to improve the scalability and accuracy of the method. For example, one of the main questions from a computational viewpoint is where to evaluate the integrand to obtain the best accuracy and uncertainty quantification. 
+I have also contributed a number of novel algorithms to improve the scalability and accuracy of the method. For example, one of the main questions from a computational viewpoint is where to evaluate the integrand to obtain the best accuracy and uncertainty quantification. Two separate approaches can be found in the papers below:
 
 * ***Briol, F-X.***, Oates, C. J., Girolami, M. & Osborne, M. A. (2015). *Frank-Wolfe Bayesian Quadrature: probabilistic integration with theoretical guarantees*. Advances In Neural Information Processing Systems (NIPS), 1162-1170. [(***Preprint***)](https://arxiv.org/abs/1506.02681) [(***Conference***)](https://papers.nips.cc/paper/5749-frank-wolfe-bayesian-quadrature-probabilistic-integration-with-theoretical-guarantees)
 
 * ***Briol, F-X.***, Oates, C. J., Cockayne, J., Chen, W. Y. & Girolami, M. (2017). *On the sampling problem for kernel quadrature*. Proceedings of the 34th International Conference on Machine Learning, PMLR 70:586-595. [(***Conference***)](http://proceedings.mlr.press/v70/briol17a.html) [(***Preprint***)](https://arxiv.org/abs/1706.03369) 
 
-On the modelling side, I have also extended the approach to use alternatives to standard Gaussian process regression, including through the use of tree-based models and multi-output Gaussian processes:
+On the modelling side, I have also extended the approach to use alternatives to standard Gaussian process regression, including through the use of tree-based models, Dirichlet processes and multi-output Gaussian processes:
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. [(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html) [(***Preprint***)](https://arxiv.org/abs/1801.04153)
 
