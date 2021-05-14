@@ -8,6 +8,8 @@ author_profile: true
 
 Give examples of intractable models and explain why they pose a problem for modern statistical machine learning
 
+Researchers in Statistics and Machine Learning are having to work with ever-larger models developed by scientists or engineers. One particular challenge is that these models become so complex that standard tools are not fit for purpose anymore. For example, most standard methods rely on the availability of a likelihood function that represents our model, but when the underlying phenomena being model is highly complex, it is often not possible to specify the likelihood associated to a model of interest. 
+
 The term *intractable model* is a general term encompassing all models for which the corresponding likelihood function is not available. 
 
 There are many different types of intractability. A first example includes *intractable generative models* or *simulator-based models*, which are models for which nothing is known about the likelihood function, but it is possible to simulate new data given a fixed value of the parameters. A second example are  *unnormalised models*, in which case the likelihood function can be evaluated, but only up to some unknown normalisation constant. For each class of intractable model, alternative approaches need to be developed for parameter estimation.
@@ -15,9 +17,9 @@ There are many different types of intractability. A first example includes *intr
 
 ## Contributions to this field
 
-My work in this area is focuses on developping novel methodology for inference with intractable models which can balance several desirable properties. First, our algorithms should be robust in the sense that mild model misspecification or a few outliers should not have a disproportionate impact. This is particularly important when modelling complex phenomena because our models will ever be at best some reasonable idealisation of the underlying process. Second, the algorithm should be efficient in the sense that we obtain estimates which are as accurate as possible given the finite amount of data available. This is particularly important because collecting new data can be a costly process, and we should therefore aim to use the available data as best as possible. Finally, the algorithms should be scalable and computationally efficient in the sense that they should be able to deal with large datasets or high-dimensional problems.
+My work in this area focuses on developing novel methodology for inference with intractable models which can balance several desirable properties. First, our algorithms should be robust in the sense that mild model misspecification or a few outliers should not have a disproportionate impact. This is particularly important when modelling complex phenomena because our models will ever be at best some reasonable idealisation of the underlying process. Second, the algorithm should be efficient in the sense that we obtain estimates which are as accurate as possible given the finite amount of data available. This is particularly important because collecting new data can be a costly process, and we should therefore aim to use the available data as best as possible. Finally, the algorithms should be scalable and computationally efficient in the sense that they should be able to deal with large datasets or high-dimensional problems.
 
-For generative models, the maximum mean discrepancy:
+For generative models, I have proposed and analysed novel estimators based on the maximum mean discrepancy:
 
 * ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944) [(***Talk/Video***)](https://youtu.be/mm7bHjEzhow)
 
