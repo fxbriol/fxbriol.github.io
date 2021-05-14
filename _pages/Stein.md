@@ -20,9 +20,7 @@ Why is this useful? Well with a bit of work and the design of novel methodologie
 
 ## Contributions to this field
 
-I have developed novel methodology in a range of fields thanks to the tools from Stein's method. In particular, I have focused on developing novel tools for Monte Carlo, and novel statistical estimators in frequentist and Bayesian settings. 
-
-If you would like to get an in-depth introduction to this topic, see the following review paper:
+I have developed novel methodology in a range of fields thanks to the tools from Stein's method. In particular, I have focused on developing novel tools for Monte Carlo, and novel statistical estimators in frequentist and Bayesian settings. Before diving into these, you might like to get an in-depth introduction to this topic. One approach to this is the following review paper:
 
    * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets statistics: A review of some recent developments*. arXiv:2105.03481. [(***Preprint***)](https://arxiv.org/abs/2105.03481)
 
