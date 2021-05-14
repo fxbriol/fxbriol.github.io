@@ -22,7 +22,7 @@ author_profile: true
 
 
 <p align="center">
-  <img src="/images/protein-signalling-network.png" alt="Robust Bayesian Estimation of Protein Signalling Networks" width="75%">
+  <img src="/images/protein-signalling-network.png" alt="Robust Bayesian Estimation of Protein Signalling Networks" width="60%">
 </p>
 
 <br>
