@@ -10,7 +10,7 @@ My main research interests consist in developing novel statistical or machine le
 
 * We usually want to obtain certain quantities of interest, but these take the form of some *intractable integrals/expectations*. Examples include Bayesian posterior moments, marginal likelihoods or expected losses.
 
-* We often only know the probability density functions we are working with up to some *unknown normalisation constant*. For example, we usually do not know the normalisation constant of Bayesian posterior distributions (called the model evidence), and sometimes the likelihood itself has an unknown constant (this includes so-called unnormalised models, or doubly-intractable problems in a Bayesian setting).
+* We often know the probability density functions we are working with only up to some *unknown normalisation constant*. For example, the normalisation constant of Bayesian posterior distributions (called the model evidence) is often intractable, and sometimes the likelihood itself has an unknown constant (this is sometimes called an *unnormalised model*, or a *doubly-intractable problem* in Bayesian settings).
 
 The most common solution to these problems is to use elaborate Monte Carlo methods or variational inference, but this can often lead to significant further computational challenges. Thankfully, Stein's method offers us an alternative approach.
 
