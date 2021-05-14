@@ -26,7 +26,7 @@ author_profile: true
 * Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes)
 
 
-Applications for telecommunication models:
+Application to telecommunication models:
 
 * Bharti, A., ***Briol, F-X.***, Pedersen, T. (2020). *A general method for calibrating stochastic radio channel models with kernels*. arXiv:2012.09612. Accepted for publication in IEEE Transactions on Antennas and Propagation. [(***Preprint***)](https://arxiv.org/abs/2012.09612) 
 
