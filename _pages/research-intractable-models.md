@@ -15,7 +15,7 @@ author_profile: true
 * ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944) [(***Talk/Video***)](https://youtu.be/mm7bHjEzhow)
 
 
-For unnormalised models, [Stein discrepancies](https://fxbriol.github.io/research/Stein/) can lead to a flexible family of frequentist statistical estimators or generalised Bayesian inference.
+For unnormalised models, some collaborators and I have developed the use of [Stein discrepancies](https://fxbriol.github.io/research/Stein/) to obtain flexible families of frequentist statistical estimators or generalised Bayesian inference approaches.
 
 * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. Neural Information Processing Systems, 12964-12976. [(***Conference***)](https://papers.nips.cc/paper/9457-minimum-stein-discrepancy-estimators) [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
 
