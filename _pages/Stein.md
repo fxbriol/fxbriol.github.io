@@ -12,7 +12,11 @@ My main research interests consist in developing novel statistical or machine le
 
 * We often only know the probability density functions we are working with up to some *unknown normalisation constant*. For example, we usually do not know the normalisation constant of Bayesian posterior distributions (called the model evidence), and sometimes the likelihood itself has an unknown constant (this includes so-called unnormalised models, or doubly-intractable problems in a Bayesian setting).
 
-The most common solution to these problems is to use elaborate Monte Carlo methods or variational inference, but this can often lead to significant further computational challenges. Thankfully, Stein's method offers us an alternative approach. Using so-called *Stein operators*, it is straightforward to construct functions which integrate to a known value, and can be evaluated even without knowing normalisation constants of the densities of interest. This can also be used to construct notions of distance between probability distributions with these same properties called *Stein discrepancies*.
+The most common solution to these problems is to use elaborate Monte Carlo methods or variational inference, but this can often lead to significant further computational challenges. Thankfully, Stein's method offers us an alternative approach.
+
+Using so-called *Stein operators*, it is straightforward to construct functions which integrate to a known constant value, and which can be evaluated even without knowing normalisation constants of the densities of interest. The approach is particularly powerful because this can be done with minimal assumptions on the distribution we are integrating against. For example, suppose you are performing some Bayesian analysis and have a corresponding posterior distribution. Then, Stein operators can give you a large family of functions whose expectation under this posterior are known.
+
+This can also be used to construct notions of distance between probability distributions with these same properties called *Stein discrepancies*.
 
 ## Contributions to this field
 
