@@ -32,7 +32,7 @@ Application to telecommunication models:
 
 
 <p align="center">
-  <img src="/images/stochastic-radio-channel.png" alt="Application of Bayesian Quadrature to Global Illumination" width="100%">
+  <img src="/images/stochastic-radio-channels.png" alt="Intractable Models in Telecommunications" width="100%">
 </p>
 
 <br>
