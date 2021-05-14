@@ -13,7 +13,7 @@ The term *intractable model* is a general term encompassing all models for which
 
 ## Contributions to this field
 
-My work in this area focuses on developing novel methodology for inference with intractable models which can balance several desirable properties.
+My work in this area focuses on developing novel methodology for inference with intractable models which have several desirable properties.
 
 First, our algorithms should be robust in the sense that mild model misspecification or a few outliers should not have a disproportionate impact. This is particularly important when modelling complex phenomena because our models will ever be at best some reasonable idealisation of the underlying process. Second, the algorithm should be efficient in the sense that we obtain estimates which are as accurate as possible given the finite amount of data available. This is particularly important because collecting new data can be a costly process, and we should therefore aim to use the available data as best as possible. Finally, the algorithms should be scalable and computationally efficient in the sense that they should be able to deal with large datasets or high-dimensional problems.
 
