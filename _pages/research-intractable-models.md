@@ -9,7 +9,7 @@ author_profile: true
 
 
 <p align="center">
-  <img src="/images/BQ-sketch.png" alt="Sketch of the Bayesian Quadrature Algorithm" width="65%">
+  <img src="/images/Protein-signalling.png" alt="Robust Bayesian Estimation of Protein Signalling Networks" width="65%">
 </p>
 
 <br>
