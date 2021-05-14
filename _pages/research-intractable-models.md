@@ -15,11 +15,7 @@ There are many different types of intractability. A first example includes *intr
 
 ## Contributions to this field
 
-
-Robustness to model misspecification:
-Efficiency:
-Ease of implementation:
-
+My work in this area is focussed on developping methodology which can balance several desirable properties. First, our algorithms should be robust in the sense that mild model misspecification or a few outliers should not have a disproportionate impact. Second, the algorithm should be efficient in the sense that we obtain estimates which are as accurate as possible given the finite amount of data available. Finally, the algorithms should be scalable and computationally efficient in the sense that they should be able to deal with large datasets or high-dimensional problems.
 
 For generative models, the maximum mean discrepancy:
 
