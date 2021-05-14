@@ -12,7 +12,7 @@ My main research interests consist in developing novel statistical or machine le
 
 * We often know probability density functions only up to some *unknown normalisation constant*. For example, the normalisation constant of Bayesian posterior distributions (called the model evidence) is often intractable, and sometimes the likelihood itself has an unknown constant (this is sometimes called an *unnormalised model*, or a *doubly-intractable problem* in Bayesian settings).
 
-The most common solution to these problems is to use elaborate Monte Carlo methods or variational inference, but this can often lead to significant further computational challenges. Thankfully, Stein's method offers us an alternative approach.
+A common approach for tackling these problems is to use elaborate Monte Carlo methods or variational inference, but this can often lead to significant further computational challenges. Thankfully, Stein's method offers us an alternative approach.
 
 Using so-called *Stein operators*, it is straightforward to construct functions which integrate to a known constant value, and which can be evaluated even without knowing normalisation constants of the densities of interest. The approach is particularly powerful because this can be done with minimal assumptions on the distribution we are integrating against. For example, suppose you are performing some Bayesian analysis and have a corresponding posterior distribution. Then, Stein operators can give you a large family of functions whose expectation under this posterior are known.
 
