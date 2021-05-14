@@ -6,10 +6,20 @@ author_profile: true
 
 ## About
 
-The term *intractable model* is a general term encompassing all models for which the corresponding likelihood function is not available. However, there are many different types of intractability. A first example includes *intractable generative models* or *simulator-based models*, which are models for which nothing is known about the likelihood function, but it is possible to simulate new data given a fixed value of the parameters. A second example are  *unnormalised models*, in which case the likelihood function can be evaluated, but only up to some unknown normalisation constant.
+Give examples of intractable models and explain why they pose a problem for modern statistical machine learning
+
+The term *intractable model* is a general term encompassing all models for which the corresponding likelihood function is not available. 
+
+There are many different types of intractability. A first example includes *intractable generative models* or *simulator-based models*, which are models for which nothing is known about the likelihood function, but it is possible to simulate new data given a fixed value of the parameters. A second example are  *unnormalised models*, in which case the likelihood function can be evaluated, but only up to some unknown normalisation constant. For each class of intractable model, alternative approaches need to be developed for parameter estimation.
 
 
 ## Contributions to this field
+
+
+Robustness to model misspecification:
+Efficiency:
+Ease of implementation:
+
 
 For generative models, the maximum mean discrepancy:
 
