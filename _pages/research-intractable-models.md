@@ -8,7 +8,7 @@ author_profile: true
 
 Give examples of intractable models and explain why they pose a problem for modern statistical machine learning
 
-Researchers in Statistics and Machine Learning are having to work with ever-larger models developed by scientists or engineers. One particular challenge is that these models become so complex that standard tools are not fit for purpose anymore. For example, most standard methods rely on the availability of a likelihood function that represents our model, but when the underlying phenomena being model is highly complex, it is often not possible to specify the likelihood associated to a model of interest. 
+Researchers in Statistics and Machine Learning are having to work with ever-larger models developed by scientists or engineers. One particular challenge is that these models become so complex that standard tools are not fit for purpose anymore. For example, most standard methods rely on the availability of a likelihood function that represents our model, but when the underlying phenomena being modelled is highly complex, it is often not possible to specify the likelihood associated to our model. 
 
 The term *intractable model* is a general term encompassing all models for which the corresponding likelihood function is not available. 
 
