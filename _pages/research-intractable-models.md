@@ -8,11 +8,6 @@ author_profile: true
 
 
 
-<p align="center">
-  <img src="/images/Protein-signalling.png" alt="Robust Bayesian Estimation of Protein Signalling Networks" width="65%">
-</p>
-
-<br>
 
 ## Contributions to this field
 
@@ -24,6 +19,13 @@ author_profile: true
 
 
 * Mastubara, T., Knoblauch, J., ***Briol, F-X.***, Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes)
+
+
+<p align="center">
+  <img src="/images/Protein-signalling.png" alt="Robust Bayesian Estimation of Protein Signalling Networks" width="85%">
+</p>
+
+<br>
 
 
 Application to telecommunication models:
