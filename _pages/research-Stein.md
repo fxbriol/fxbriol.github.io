@@ -8,7 +8,7 @@ author_profile: true
 
 My main research interests consist in developing novel statistical or machine learning methodology which can deal with computational expensive or intractable models. From a computational viewpoint, two of the main challenges in this context are: 
 
-* We usually want to obtain certain quantities of interest, but these take the form of some *intractable integrals/expectations*. Examples include Bayesian posterior moments, marginal likelihoods, expected losses or distances on probality distributions.
+* We usually want to obtain certain quantities of interest, but these take the form of some *intractable integrals/expectations*. Examples include Bayesian posterior moments, marginal likelihoods, expected losses or distances on probability distributions.
 
 * We often know probability density functions only up to some *unknown normalisation constant*. For example, the normalisation constant of Bayesian posterior distributions (called the model evidence) is often intractable, and sometimes the likelihood itself has an unknown constant (this is sometimes called an *unnormalised model*, or a *doubly-intractable problem* in Bayesian settings).
 
