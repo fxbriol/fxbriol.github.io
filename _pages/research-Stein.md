@@ -16,7 +16,7 @@ A common approach for tackling these problems is to use elaborate Monte Carlo me
 
 Using so-called *Stein operators*, it is straightforward to construct functions which integrate to a known constant value, and which can be evaluated even without knowing normalisation constants of the densities of interest. The approach is particularly powerful because this can be done with minimal assumptions on the distribution we are integrating against. For example, suppose you are performing some Bayesian analysis and have a corresponding posterior distribution. Then, Stein operators can give you a large family of functions whose expectation under this posterior are known.
 
-Why is this useful? Well with a bit of work and the design of novel methodologies and algorithms, all of the intractable integrals/expectations mentionned above can usually be replaced by integrals with a known value. This can for example be used to construct notions of distance between probability distributions called *Stein discrepancies*.
+Why is this useful? Well with a bit of work and the design of novel methodologies and algorithms, all of the intractable integrals/expectations mentioned above can usually be replaced by integrals with a known value. This can for example be used to construct notions of distance between probability distributions called *Stein discrepancies*.
 
 ## Contributions to this field
 
