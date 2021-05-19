@@ -8,7 +8,7 @@ I enjoy supervising research projects and regularly take on MSc and PhD students
 
 ## PhD Students
 
-**Before Applying:** Please contact me via email before submitting a formal application. When getting in touch, make sure to highlight your research interests and how these align with my own. To do this, you might find it helpful to read some of my research papers in detail.
+**Before Applying:** Please contact me via email before submitting a formal application. When getting in touch, make sure to highlight your research interests and how these align with my own. To do this, you might find it helpful to check out my [publications](https://fxbriol.github.io/publications/) page, which contains a list of my papers as well as a list of project pages describing some of my current research interests.
 
 **Application Process:** I can supervise PhD students at UCL through a number of routes (each providing funding for UK and international students), including:
 * The [*UCL Statistical Science*](https://www.ucl.ac.uk/statistics/prospective-postgraduates/phd) department PhD programme. This is a standard PhD programme, and is most appropriate if you are interested in a PhD on statistical or machine learning theory or methodology. To obtain funding as an international student, the main option is the [Graduate Research Scholarships](https://www.ucl.ac.uk/scholarships/graduate-research-scholarships) and [Overseas Research Scholarship](https://www.ucl.ac.uk/scholarships/overseas-research-scholarships). It is common to apply for both of these simultaneously, and the deadline is usually in mid-January. For UK nationals, you can apply for the department scholarships, which are usually advertised in February/March.
