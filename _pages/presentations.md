@@ -19,7 +19,7 @@ author_profile: true
 
 ### 2021
 
-* 2nd June 2021 - Talk - UCL-Met Office Meeting on Uncertainty Quantification and Parametrisations (Online talk).
+* 2nd June 2021 - Talk - UCL/Met Office Meeting on Uncertainty Quantification and Parametrisations (Online talk).
 * 19th February 2021 - Talk - [***OxCSML Seminar***](https://github.com/oxcsml/ML_bazaar/wiki/Seminar), University of Oxford (Online talk).
 
 
