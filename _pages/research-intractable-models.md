@@ -42,8 +42,7 @@ For unnormalised models, a convenient choice of distance are the so-called [Stei
 
 As part of my work in the Data-Centric Engineering programme of The Alan Turing Institute, I have also worked in specialising some of the methods above to solve important engineering problems, in particular in the field of telecommunications:
 
-* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2020). *A general method for calibrating stochastic radio channel models with kernels*. arXiv:2012.09612. Accepted for publication in IEEE Transactions on Antennas and Propagation. [(***Preprint***)](https://arxiv.org/abs/2012.09612) 
-
+* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2021). *A general method for calibrating stochastic radio channel models with kernels*. IEEE Transactions on Antennas and Propagation. [(***Journal***)](https://ieeexplore.ieee.org/document/9445690) [(***Preprint***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC)
 
 <p align="center">
   <img src="/images/stochastic-radio-channels.png" alt="Intractable Models in Telecommunications" width="70%">
