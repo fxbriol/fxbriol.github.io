@@ -24,9 +24,9 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Published Papers
 
-* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2020). *A general method for calibrating stochastic radio channel models with kernels*. arXiv:2012.09612. Accepted for publication in IEEE Transactions on Antennas and Propagation. [(***Preprint***)](https://arxiv.org/abs/2012.09612) 
+* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2021). *A general method for calibrating stochastic radio channel models with kernels*. IEEE Transactions on Antennas and Propagation. [(***Journal***)](https://ieeexplore.ieee.org/document/9445690) [(***Preprint***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC)
 
-* Wynne, G., ***Briol, F-X.***, Girolami, M. (2021). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*, Journal of Machine Learning Research, 22 (123), 1-40. [(***Journal***)](https://jmlr.org/papers/v22/20-662.html) [(***Preprint***)](https://arxiv.org/abs/2001.10818)
+* Wynne, G., ***Briol, F-X.***, Girolami, M. (2021). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. Journal of Machine Learning Research, 22 (123), 1-40. [(***Journal***)](https://jmlr.org/papers/v22/20-662.html) [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
 * Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. IEEE Transactions on Antennas and Propagation. [(***Journal***)](https://ieeexplore.ieee.org/document/9362172) [(***Preprint***)](https://arxiv.org/abs/2005.06808)
 
