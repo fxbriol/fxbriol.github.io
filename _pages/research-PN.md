@@ -49,7 +49,7 @@ On the modelling side, I have also extended the approach to use alternatives to 
 
 Finally, an interesting by-product of my interest in Bayesian numerical methods has been the following paper, which provides some of the most general theoretical results for Gaussian process regression (including implications for Bayesian optimisation and Bayesian quadrature):	
 
-* Wynne, G., ***Briol, F-X.***, Girolami, M. (2020). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. arXiv:2001.10818. Accepted for publication in the Journal of Machine Learning Research. [(***Preprint***)](https://arxiv.org/abs/2001.10818)
+* Wynne, G., ***Briol, F-X.***, Girolami, M. (2021). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*, Journal of Machine Learning Research, 22 (123), 1-40. [(***Journal***)](https://jmlr.org/papers/v22/20-662.html) [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
 
 <p align="center">
