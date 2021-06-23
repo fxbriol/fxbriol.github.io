@@ -31,7 +31,7 @@ I have also worked on developing methods which can significantly reduce the numb
 * Niu, Z., Meier, J. & ***Briol, F-X.*** (2021). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. [(***Preprint***)](https://arxiv.org/abs/2106.11561)
 
 <p align="center">
-  <img src="/images/mvgandk_d2_scatter.png" alt="QMC Sampling from a g-and-k Model" width="60%">
+  <img src="/images/mvgandk_d2_scatter.png" alt="QMC Sampling from a g-and-k Model" width="50%">
 </p>
 
 <br>
