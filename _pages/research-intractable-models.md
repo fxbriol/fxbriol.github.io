@@ -26,6 +26,10 @@ For generative models, I have proposed and analysed novel estimators based on a 
 
 <br>
 
+I have also worked on developing methods which can significantly reduce the number of simulations required for these generative models, which can significantly impact the computational cost of the procedure:
+
+* Niu, Z., Meier, J. & ***Briol, F-X.*** (2021). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. [(***Preprint***)](https://arxiv.org/abs/2106.11561)
+
 For unnormalised models, a convenient choice of distance are the so-called [Stein discrepancies](https://fxbriol.github.io/research/Stein/), which I have used to obtain flexible families of frequentist statistical estimators or generalised Bayesian inference approaches.
 
 * Barp, A., ***Briol, F-X.***, Duncan, A. B., Girolami, M., Mackey, L. (2019). *Minimum Stein discrepancy estimators*. Neural Information Processing Systems, 12964-12976. [(***Conference***)](https://papers.nips.cc/paper/9457-minimum-stein-discrepancy-estimators) [(***Preprint***)](https://arxiv.org/abs/1906.08283) [(***Talk/Video***)](https://slideslive.com/38917866/minimun-stein-discrepancy-estimators)
