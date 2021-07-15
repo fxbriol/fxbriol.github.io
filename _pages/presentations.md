@@ -8,7 +8,6 @@ author_profile: true
 
 ## Upcoming
 
-* 9th July 2021 - Talk - [***Warwick SIAM-IMA Applied Mathematics Conference 2021***](https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/conference2021/), University of Warwick (Online talk).
 * 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
 * 21-22nd October 2021 - Talk - [***Annual Meeting of the Royal Statistical Conference of Belgium***](http://rssb2020.uliege.be/index.php), Universite de Liege (Liege, Belgium).
 * 28-31st October 2021 - Talk - [***DALI 2021 - Data, Learning and Inference***](http://dalimeeting.org/) (Palma, Spain).
@@ -20,6 +19,8 @@ author_profile: true
 
 ### 2021
 
+
+* 9th July 2021 - Talk - [***Warwick SIAM-IMA Applied Mathematics Conference 2021***](https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/conference2021/), University of Warwick (Online talk).
 * 2nd June 2021 - Talk - ***UCL/Met Office Meeting on Uncertainty Quantification and Parametrisations*** (Online talk).
 * 19th February 2021 - Talk - [***OxCSML Seminar***](https://github.com/oxcsml/ML_bazaar/wiki/Seminar), University of Oxford (Online talk).
 
