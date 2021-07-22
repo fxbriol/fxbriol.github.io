@@ -21,6 +21,7 @@ For more details, see my [Publications](https://fxbriol.github.io/publications/)
 
 
 ## News
+* Our paper "Robust generalised Bayesian inference for intractable likelihoods" has a received a *Best Student/Postdoc Contributed Paper Award* at ISBA 2021.
 
 * I am organising a special session on Stein's method in computational statistics at the 13th International Conference on Monte Carlo Methods and Applications ([MCM2021](https://www.uni-mannheim.de/mcm-2021/)).
 
