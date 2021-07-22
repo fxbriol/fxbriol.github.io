@@ -23,7 +23,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 ## Published Papers
 
 
-* Si, S., Oates, C. J., Duncan, A. B., Carin, L. & ***Briol. F-X.*** (2021). *Scalable control variates for Monte Carlo methods via stochastic optimization*. Accepted for publication in the proceedings of the Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2020. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
+* Si, S., Oates, C. J., Duncan, A. B., Carin, L. & ***Briol. F-X.*** (2021). *Scalable control variates for Monte Carlo methods via stochastic optimization*. Accepted for publication in the proceedings of the 14th Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2020. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
 * Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2021). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. arXiv:2010.08488. Accepted for publication in the Journal of Machine Learning Research. [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be) [(***Code***)](https://github.com/takuomatsubara/BNN-RidgeletPrior)
 
