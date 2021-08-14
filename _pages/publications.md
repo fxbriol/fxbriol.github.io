@@ -32,7 +32,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Wynne, G., ***Briol, F-X.***, Girolami, M. (2021). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. Journal of Machine Learning Research, 22 (123), 1-40. [(***Journal***)](https://jmlr.org/papers/v22/20-662.html) [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
-* Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. IEEE Transactions on Antennas and Propagation. [(***Journal***)](https://ieeexplore.ieee.org/document/9362172) [(***Preprint***)](https://arxiv.org/abs/2005.06808)
+* Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. IEEE Transactions on Antennas and Propagation, vol. 69, no. 8, pp. 4871-4882, Aug. 2021. [(***Journal***)](https://ieeexplore.ieee.org/document/9362172) [(***Preprint***)](https://arxiv.org/abs/2005.06808)
 
 * Zhu, H., Liu, X., Kang, R., Shen, Z., Flaxman, S., ***Briol, F-X.*** (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. [(***Conference***)](https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html) [(***Preprint***)](https://arxiv.org/abs/2006.05371) [(***Code***)](https://github.com/ImperialCollegeLondon/BART-Int)
 
