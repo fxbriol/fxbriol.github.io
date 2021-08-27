@@ -14,6 +14,8 @@ There are of course many different types of side-information you could attempt t
 
 My main contribution to answering this problem has been a series of papers which propose to use transfer learning for computing integrals. Transfer learning is a general paradigm in machine learning where algorithms are designed to transfer information across related tasks, and hence improve accuracy. There is a wide range of applications of transfer learning including for regression and classification, but there is surprisingly little in the context of numerical integration.
 
+(see the related [*Bayesian numerical methods*](https://fxbriol.github.io/research/PN/) page for more details)
+
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. [(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html) [(***Preprint***)](https://arxiv.org/abs/1801.04153)
 
