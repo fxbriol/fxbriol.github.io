@@ -21,7 +21,7 @@ For more details, see my [Publications](https://fxbriol.github.io/publications/)
 
 
 ## News
-* Our paper "Robust generalised Bayesian inference for intractable likelihoods" has a received a *Best Student/Postdoc Contributed Paper Award* at ISBA 2021.
+* Takuo Mastubara has received a *Best Student/Postdoc Contributed Paper Award* at ISBA 2021 for our paper called *"Robust generalised Bayesian inference for intractable likelihoods"*.
 
 * I am now affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
 
