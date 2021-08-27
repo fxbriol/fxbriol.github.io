@@ -23,10 +23,7 @@ For more details, see my [Publications](https://fxbriol.github.io/publications/)
 ## News
 * Our paper "Robust generalised Bayesian inference for intractable likelihoods" has a received a *Best Student/Postdoc Contributed Paper Award* at ISBA 2021.
 
-* I am organising a special session on Stein's method in computational statistics at the 13th International Conference on Monte Carlo Methods and Applications ([MCM2021](https://www.uni-mannheim.de/mcm-2021/)).
-
 * I am now affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
 
 * My PhD thesis on "Statistical Computation with Kernels" received an Honorable Mention for the [Savage Award](https://bayesian.org/project/savage-award/) in the section "Theory and Methodology". This is awarded each year by the International Society on Bayesian Analysis (ISBA) for "a dissertation that makes important original contributions to the foundations, theoretical developments, and/or general methodology of Bayesian analysis".
 
-* I have been awarded an [Amazon Research Award](https://www.amazon.science/blog/recipients-of-the-2019-amazon-research-awards-announced) by Amazon Science for a project on *"Transfer Learning for Numerical Integration in Expensive Machine Learning Systems"*. 
