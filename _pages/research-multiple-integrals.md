@@ -4,13 +4,15 @@ permalink: /research/multiple-integrals/
 author_profile: true
 ---
 
-## About
+## The problem
 
-Estimating integrals through simulation is one of the key challenges in computational statistics and machine learning. Indeed, many quantities of interest including posterior moments, model evidences, tail probabilities and marginal likelihoods take the form of intractable integrals, and we hence need algorithms to obtain accurate estimates. One of the key challenges is the cost (either computational or financial) of obtaining integrand evaluations. When working with complex models, this cost can be very large, which limits the number of integrand evaluations and can lead to poor accuracy of the resulting algorithms. In order to obtain highly accurate estimates of these integrals, it is therefore necessary to make use of as much side mathematical structure as possible.
+Estimating integrals or expectations through simulation is one of the key challenges in computational statistics and machine learning. Indeed, many quantities of interest including posterior moments, model evidences, tail probabilities and marginal likelihoods take the form of intractable integrals, and we hence need algorithms to obtain accurate estimates. One of the key challenges is the cost (either computational or financial) of obtaining integrand evaluations. When working with complex models, this cost can be very large, which limits the number of integrand evaluations and can lead to poor accuracy of the resulting algorithms. In order to obtain highly accurate estimates of these integrals, it is therefore necessary to make use of any mathematical structure or side-information available.
+
+There are of course many different types of side-information could you attempt to encode in your algorithms, but one key element which is often neglected is that you rarely have to compute a single isolated integral. Indeed, many practical problems will require you to compute several integrals which are somewhat related either simultaneously or sequentially. For example, in Bayesian statistics you usually have to compute some posterior expectation of interest, but you will also often want to calculate similar integrals when you collect more data or change your prior. Similarly, when working with mathematical models of physical or biological phenomenon, you will often have access to models of varying accuracy and may want to calculate integrals for each of these. 
 
 ## Contributions to this field
 
-My own work has focused on *Bayesian quadrature*, a family of Bayesian inference schemes for tackling the computation of intractable integrals. Although the first Bayesian quadrature algorithm appeared in the 1980s (and certain aspects even in the 1960s), initial developments were slowed down because computers were not yet able to handle such models. However, the field has recently received renewed interest due to the many advantages provided by Bayesian numerical methods and the rapid improvements in our computing abilities. My own contributions have been on the methodology side, where I have shown how to improve the algorithms for improved computational accuracy, and the theoretical side, where I have provided very general convergence guarantees under a wide range of scenarios including when the Bayesian model is misspecified. 
+
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. [(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html) [(***Preprint***)](https://arxiv.org/abs/1801.04153)
 
