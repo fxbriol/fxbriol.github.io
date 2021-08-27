@@ -15,13 +15,6 @@ Unfortunately, due to the increasing complexity and computational cost of modern
 The most well-know algorithm from this field is *Bayesian optimisation*, which has been used in academia and industry to tune large scale models. However, there is an increasingly active research field exploring other uses of Bayesian inference for integration, linear algebra or differential equations.
 
 
-
-<p align="center">
-  <img src="/images/BQ-sketch.png" alt="Sketch of the Bayesian Quadrature Algorithm" width="65%">
-</p>
-
-<br>
-
 ## Contributions to this field
 
 My own work has focused on *Bayesian quadrature*, a family of Bayesian inference schemes for tackling the computation of intractable integrals. Although the first Bayesian quadrature algorithm appeared in the 1980s (and certain aspects even in the 1960s), initial developments were slowed down because computers were not yet able to handle such models. However, the field has recently received renewed interest due to the many advantages provided by Bayesian numerical methods and the rapid improvements in our computing abilities. My own contributions have been on the methodology side, where I have shown how to improve the algorithms for improved computational accuracy, and the theoretical side, where I have provided very general convergence guarantees under a wide range of scenarios including when the Bayesian model is misspecified. 
