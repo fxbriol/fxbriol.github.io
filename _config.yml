@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://fxbriol.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fxbriol/fxbriol.github.io"
-teaser                   : fxbriol_profile.jpeg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : fxbriol_website_photo.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "François-Xavier Briol"
-  avatar           : "fxbriol_profile.jpeg"
+  avatar           : "fxbriol_website_photo.jpg"
   bio              : "Lecturer in Statistical Science"
   location         : "Dept. of Statistical Science"
   employer         : "University College London"
