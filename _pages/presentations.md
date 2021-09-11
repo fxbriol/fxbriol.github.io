@@ -9,9 +9,7 @@ author_profile: true
 ## Upcoming
 
 * 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
-* 21-22nd October 2021 - Talk - [***Annual Meeting of the Royal Statistical Conference of Belgium***](http://rssb2020.uliege.be/index.php), Universite de Liege (Liege, Belgium).
-* 28-31st October 2021 - Talk - [***DALI 2021 - Data, Learning and Inference***](http://dalimeeting.org/) (Palma, Spain).
-
+* 11th February 2021 - Talk - ***Seminar at the Statistical Laboratory, University of Cambridge*** (Cambridge, UK).
 
 
 ## Past
