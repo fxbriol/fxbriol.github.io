@@ -9,7 +9,7 @@ author_profile: true
 ## Upcoming
 
 * 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
-* 11th February 2021 - Talk - ***Seminar at the Statistical Laboratory, University of Cambridge*** (Cambridge, UK).
+* 11th February 2022 - Talk - ***Seminar at the Statistical Laboratory***, University of Cambridge (Cambridge, UK).
 
 
 ## Past
