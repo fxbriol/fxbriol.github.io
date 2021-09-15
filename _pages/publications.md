@@ -70,7 +70,7 @@ This page contains all my publications; for more details, see my [Google Scholar
     
 * Barp, A., Barp, E. G., ***Briol, F-X.*** & Ueltschi, D. (2015). *A numerical study of the 3D random interchange and random loop models*. Journal of Physics A: Mathematical and Theoretical, 48(34). [(***Journal***)](http://iopscience.iop.org/article/10.1088/1751-8113/48/34/345002/meta) [(***Preprint***)](https://arxiv.org/abs/1505.00983) 
 
-## Discussions and Opinion Pieces
+## Technical Discussions and Opinion Pieces
 
 * Zhu, H., Liu, X., Caron, A., Manolopoulou, I. Flaxman, S., ***Briol, F-X.*** (2020). *Contributed Discussion of "Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects"*.  Bayesian Analysis, 15(3),  965-1056. [(***Journal (pp55-58)***)](https://projecteuclid.org/euclid.ba/1580461461#abstract) [(***Preprint***)](https://fxbriol.github.io/pdfs/BART_contributed_discussion.pdf)
 
@@ -81,6 +81,11 @@ This page contains all my publications; for more details, see my [Google Scholar
 * ***Briol, F-X.*** & Girolami, M. (2018) *Bayesian numerical methods as a case study for statistical data science*, Statistical Data Science (Chapter 6): 99-110. [(***Book***)](https://www.worldscientific.com/doi/abs/10.1142/9781786345400_0006) 
 
 * ***Briol, F-X.***, Cockayne, J. & Teymur, O. (2016). *Contributed discussion on article by Chkrebtii, Campbell, Calderhead, and Girolami*. Bayesian Analysis, 11(4), 1285-1293. [(***Journal***)](https://projecteuclid.org/euclid.ba/1480474950) [(***Preprint***)](https://arxiv.org/abs/1610.06752)
+
+## Science Communication
+
+* ***Briol, F-X.***, Bharti, A. (2021). *Using machine learning to improve the reliability of wireless communication systems*.  [(***Turing Institute Blog Post***)](https://www.turing.ac.uk/blog/using-machine-learning-improve-reliability-wireless-communication-systems)
+
 
 ## Dissertations
 
