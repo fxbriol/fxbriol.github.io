@@ -8,7 +8,6 @@ author_profile: true
 
 ## Upcoming
 
-* 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
 * 13th January 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Amsterdam, NL).
 * 11th February 2022 - Talk - ***University of Cambridge, Statistical Laboratory*** (Cambridge, UK).
 * 10th March 2022 - Talk - ***Boston University, Department of Mathematics & Statistics*** (Boston, US).
@@ -20,6 +19,7 @@ author_profile: true
 ### 2021
 
 
+* 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
 * 9th July 2021 - Talk - [***Warwick SIAM-IMA Applied Mathematics Conference 2021***](https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/conference2021/), University of Warwick (Online talk).
 * 2nd June 2021 - Talk - ***UCL/Met Office Meeting on Uncertainty Quantification and Parametrisations*** (Online talk).
 * 19th February 2021 - Talk - [***OxCSML Seminar***](https://github.com/oxcsml/ML_bazaar/wiki/Seminar), University of Oxford (Online talk).
