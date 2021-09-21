@@ -11,7 +11,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Sun, Z., Barp, A. & ***Briol, F-X*** (2021). *Vector-valued control variates*. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
+* Sun, Z., Barp, A. & ***Briol, F-X*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
 
 * Niu, Z., Meier, J. & ***Briol, F-X.*** (2021). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
 
