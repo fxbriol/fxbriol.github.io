@@ -12,7 +12,7 @@ author_profile: true
 * 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Cambridge, UK).
 * 13th January 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Amsterdam, NL).
 * 11th February 2022 - Talk - ***University of Cambridge, Statistical Laboratory*** (Cambridge, UK).
-* 10th March 2022 - Talk - ***Boston University, Department of Mathematics & Statistics*** (Boston, US).
+* 17th March 2022 - Talk - ***Boston University, Department of Mathematics & Statistics*** (Boston, US).
 
 
 ## Past
