@@ -32,6 +32,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 * Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2021). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. Journal of Machine Learning Research, 22 (157), 1-57. [(***Journal***)](https://jmlr.org/papers/v22/20-1300.html) [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be) [(***Code***)](https://github.com/takuomatsubara/BNN-RidgeletPrior)
 
 * Bharti, A., ***Briol, F-X.***, Pedersen, T. (2021). *A general method for calibrating stochastic radio channel models with kernels*. IEEE Transactions on Antennas and Propagation. [(***Journal***)](https://ieeexplore.ieee.org/document/9445690) [(***Preprint***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC)
+	* A preliminary version of this paper was accepted to the [2021 NeurIPS workshop on Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2021/).
 
 * Wynne, G., ***Briol, F-X.***, Girolami, M. (2021). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. Journal of Machine Learning Research, 22 (123), 1-40. [(***Journal***)](https://jmlr.org/papers/v22/20-662.html) [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
