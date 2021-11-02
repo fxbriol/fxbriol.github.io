@@ -20,7 +20,7 @@ author_profile: true
 
 ### 2021
 
-
+* 25th October 2021 - Talk - ***Dagstuhl Seminar on Probabilistic Numerical Computation***, Dagstuhl schloss (Dagstuhl, Germany).
 * 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
 * 9th July 2021 - Talk - [***Warwick SIAM-IMA Applied Mathematics Conference 2021***](https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/conference2021/), University of Warwick (Online talk).
 * 2nd June 2021 - Talk - ***UCL/Met Office Meeting on Uncertainty Quantification and Parametrisations*** (Online talk).
