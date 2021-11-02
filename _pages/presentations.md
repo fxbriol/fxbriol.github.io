@@ -9,6 +9,7 @@ author_profile: true
 ## Upcoming
 
 * 11th November 2021 - Talk - ***Cardiff University***, Probability, Statistics, Operational Research and Machine Learning Seminar Series, School of Mathematics (Cardiff, UK).
+* 8th December 2021 - Poster - ***Royal Statistical Society***, workshop on Stein's method in computational statistics (London, UK).
 * 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Cambridge, UK).
 * 13th January 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Amsterdam, NL).
 * 11th February 2022 - Talk - ***University of Cambridge, Statistical Laboratory*** (Cambridge, UK).
