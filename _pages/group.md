@@ -25,8 +25,6 @@ I am currently supervising the following great team of PhD students:
 
 I also have honorary PhD students i.e. PhD students with which I work with regularly and mentor, but that are not based at UCL:
 
-* [**George Wynne**](https://georgewynne.github.io/), PhD student in Mathematics at Imperial College London, Department of Mathematics (since September 2018). Co-supervised with Dr. Andrew Duncan (Imperial) and Prof. Mark Girolami (Cambridge). *Project*: Theory for Gaussian processes.
-
 * [**Takuo Matsubara**](https://sites.google.com/view/takuomatsubara/home), PhD student in Statistics at Newcastle University and The Alan Turing Institute (since September 2019). Main supervisor: Prof. Chris J. Oates (Newcastle). *Projects*: Bayesian neural networks and Stein discrepancies.
 
 
