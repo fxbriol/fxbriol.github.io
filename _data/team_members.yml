@@ -1,0 +1,23 @@
+- name: Zhuo Sun
+  photo: omer_deniz_akyildiz.png
+  info: Zhuo Sun is a PhD student in Statistical Science at UCL. His research focuses on various flavours of transfer learning including multi-task learning and meta-learning, including in the context of Monte Carlo methods. Zhuo started his PhD in Autumn 2019 and his second supervisor is Prof. Jinghao Xue. Prior to joining UCL, Zhuo was an  MSc student at Oxford.
+  email: zhuo.sun.19@ucl.ac.uk
+  website: https://jz-fun.github.io
+
+- name: Kaiyu Li
+  photo: alessandro_barp.jpg
+  info: Kaiyu is a PhD student in Statistical Science at UCL. Her research focuses on Gaussian processes and tsunami modelling. Kaiyu started her PhD in Autumn 2019. Her first supervisor is Prof. Serge Guillas, and I am her second supervisor. Prior to joining UCL, Kaiyu was an MSc student at Imperial College London.
+  email: kaiyu.li.19@ucl.ac.uk
+
+- name: Oscar Key
+  photo: alessandro_barp.jpg
+  info: Oscar is a PhD student on the Foundational AI CDT at UCL. His research focuses on robust probabilistic modelling and hypothesis testing. Oscar started his PhD in Autumn 2020 and his second supervisor is Prof. Marc Deisenroth. Prior to joining UCL, Oscar was a research assistant at Oxford.
+  email: oscar.key.20@ucl.ac.uk
+  website: https://oscarkey.github.io
+
+  - name: Masha Naslidnyk
+  photo: alessandro_barp.jpg
+  info: Masha is a PhD student on the Foundational AI CDT at UCL. Her research focuses on Gaussian processes and kernel methods. Masha started her PhD in Autumn 2021 and her second supervisor is Dr. Carlo Ciliberto. Prior to joining UCL, Masha was a machine learning scientist at Amazon.
+  email: mariia.naslidnyk.21@ucl.ac.uk
+
+  
