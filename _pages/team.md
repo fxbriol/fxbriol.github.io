@@ -1,12 +1,15 @@
 ---
-title: "Group Members"
-layout: gridlay
-excerpt: "Group"
-sitemap: false
-permalink: /team
+title: "Team"
+permalink: /team/
+author_profile: true
 ---
 
-## Group Members
+
+
+## Current Students
+
+I am currently supervising the following great team of PhD students:
+
 
 <div id="team" class="col-sm-12">
 
