@@ -75,16 +75,6 @@ I am currently supervising the following great team of PhD students:
 {% endfor %}
 </div>
 
-* [**Oscar Key**](https://oscarkey.github.io), PhD student within the CDT in Foundational AI at UCL, Department of Computer Science (started September 2020). *Main supervisor*. Second supervisor: Prof. Marc Deisenroth. *Project*: Robustness of Gaussian processes
-
-* [**Zhuo Sun**](https://jz-fun.github.io), PhD student in Statistics at UCL, Department of Statistical Science (started September 2019). *Main supervisor*. Second supervisor: Dr. Jinghao Xue. *Project*: Control Variates for Monte Carlo Methods.
-
-* **Kaiyu Li**, PhD student in Statistics at UCL, Department of Statistical Science (Started September 2019). *Second supervisor*. First supervisor: Prof. Serge Guillas. *Project*: Bayesian quadrature and multi-level Monte Carlo. 
-
-
-
-<center><img src="/images/research_group.png" alt="research group" width="65%"> </center> 
-
 <br />
 
 
