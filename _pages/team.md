@@ -1,7 +1,5 @@
 ---
 title: "Team"
-layout: gridlay
-sitemap: false
 permalink: /team/
 author_profile: true
 ---
