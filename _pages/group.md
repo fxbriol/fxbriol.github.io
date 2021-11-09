@@ -10,6 +10,71 @@ author_profile: true
 
 I am currently supervising the following great team of PhD students:
 
+
+<div id="team" class="col-sm-12">
+
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive rounded" width="20%" style="float: left; margin-right: 30px" />
+  <h3>{{ member.name }}</h3>
+  {% if member.website  %}
+  <i>{{ member.info }}<br>email: <{{ member.email }}><br>website: <a href="{{ member.website }}">{{ member.website }}</a></i>
+  <i></i>
+  {% else %}
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  {% endif %}
+  
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
 * [**Oscar Key**](https://oscarkey.github.io), PhD student within the CDT in Foundational AI at UCL, Department of Computer Science (started September 2020). *Main supervisor*. Second supervisor: Prof. Marc Deisenroth. *Project*: Robustness of Gaussian processes
 
 * [**Zhuo Sun**](https://jz-fun.github.io), PhD student in Statistics at UCL, Department of Statistical Science (started September 2019). *Main supervisor*. Second supervisor: Dr. Jinghao Xue. *Project*: Control Variates for Monte Carlo Methods.
