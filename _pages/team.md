@@ -5,8 +5,6 @@ author_profile: true
 ---
 
 
-## Group Members
-
 <div id="team" class="col-sm-12">
 
 {% assign number_printed = 0 %}
@@ -20,7 +18,7 @@ author_profile: true
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive rounded" width="20%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h3>{{ member.name }}</h3>
   {% if member.website  %}
   <i>{{ member.info }}<br>email: <{{ member.email }}><br>website: <a href="{{ member.website }}">{{ member.website }}</a></i>
   <i></i>
