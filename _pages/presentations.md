@@ -8,7 +8,7 @@ author_profile: true
 
 ## Upcoming
 
-* 11th November 2021 - Talk - ***Cardiff University***, Probability, Statistics, Operational Research and Machine Learning Seminar Series, School of Mathematics (Cardiff, UK).
+
 * 8th December 2021 - Poster - ***Royal Statistical Society***, workshop on Stein's method in computational statistics (London, UK).
 * 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Cambridge, UK).
 * 13th January 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Amsterdam, NL).
@@ -21,6 +21,7 @@ author_profile: true
 
 ### 2021
 
+* 11th November 2021 - Talk - ***Cardiff University***, Probability, Statistics, Operational Research and Machine Learning Seminar Series, School of Mathematics (Cardiff, UK).
 * 25th October 2021 - Talk - ***Dagstuhl Seminar on Probabilistic Numerical Computation***, Dagstuhl schloss (Dagstuhl, Germany).
 * 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
 * 9th July 2021 - Talk - [***Warwick SIAM-IMA Applied Mathematics Conference 2021***](https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/conference2021/), University of Warwick (Online talk).
