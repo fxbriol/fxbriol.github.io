@@ -11,7 +11,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X*** (2021). Composite goodness-of-fit tests with kernels. arXiv.211.10275. [(***Prepint***)](https://arxiv.org/abs/2111.10275)
+* Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X*** (2021). Composite goodness-of-fit tests with kernels. arXiv.211.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home) and a journal-length version will appear on arXiv shortly.
 
