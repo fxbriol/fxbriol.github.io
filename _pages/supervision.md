@@ -4,9 +4,11 @@ permalink: /supervision/
 author_profile: true
 ---
 
-I enjoy supervising research projects and regularly take on MSc and PhD students. I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. If you are interested in my research area, feel free to contact me by email to discuss opportunities at UCL or The Alan Turing Institute. 
+I enjoy supervising research projects and regularly take on MSc and PhD students. Before contacting me about opportunities, please read the page below carefully.
 
 ## PhD Students
+
+I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. 
 
 **Before Applying:** Please contact me via email before submitting a formal application. When getting in touch, make sure to highlight your research interests and how these align with my own. To do this, you might find it helpful to check out my [publications](https://fxbriol.github.io/publications/) page, which contains a list of my papers as well as a list of project pages describing some of my current research interests.
 
