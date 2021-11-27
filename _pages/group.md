@@ -1,5 +1,5 @@
 ---
-title: "Research Group"
+title: "Group"
 permalink: /group/
 author_profile: true
 ---
