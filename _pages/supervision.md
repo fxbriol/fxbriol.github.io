@@ -1,5 +1,5 @@
 ---
-title: "Prospective Students"
+title: "Prospective Students and Postdoctoral Researchers"
 permalink: /supervision/
 author_profile: true
 ---
