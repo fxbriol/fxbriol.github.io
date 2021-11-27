@@ -4,6 +4,8 @@ permalink: /supervision/funding/
 author_profile: true
 ---
 
+There are a number of different routes you can take for applying to do a PhD with me at UCL. These are summarised on this page, but feel free to contact me if you have any further questions. 
+
 **Main Funding Routes:**  
 
 
