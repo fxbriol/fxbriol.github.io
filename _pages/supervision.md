@@ -20,4 +20,4 @@ I do not currently hold any funding for postdoctoral researchers, but would be h
 
 ## MSc Students
 
-At UCL, I supervise MSc students through the MSc Statistics, MSc Data Science and MSc Computational Statistics and Data Science programmes. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. Unfortunately I am not able to supervise any other MSc projects at this time (whether at UCL or not).
+At UCL, I supervise MSc students through the MSc Statistics and MSc Data Science programmes. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. Unfortunately I am not able to supervise any other MSc projects at this time (whether at UCL or not).
