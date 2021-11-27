@@ -4,12 +4,10 @@ permalink: /group/
 author_profile: true
 ---
 
+I have the privilege of working with a great team students; see below for the current students in my group and some of the students I have previously supervised who are now doing research elsewhere.
 
 
 ## Current Students
-
-I am currently supervising the following great team of PhD students:
-
 
 <div id="team" class="col-sm-12">
 
