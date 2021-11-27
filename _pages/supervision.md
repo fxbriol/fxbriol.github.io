@@ -12,7 +12,7 @@ I enjoy supervising research projects and regularly take on MSc and PhD students
 
 ***Openings for September 2022 (and onwards)*** I will be looking for a PhD student interested in joining from September 2022 onwards. Although I am open to applications for projects related to any of my areas of interest, I would be particularly keen to find a student interested in *generalised Bayesian inference* which will be co-supervised with [Jeremias Knoblauch](https://scholar.google.co.uk/citations?user=4TPsxlsAAAAJ&hl=en&oi=ao) (who will soon be joining UCL on a permanent basis). See the following papers to get a broad idea of this research area. [(Paper 1)](https://arxiv.org/abs/2104.07359) [(Paper 2)](https://arxiv.org/abs/1904.02063).
 
-**Application Process:** I can supervise PhD students at UCL through a number of routes. One important point is that applications for PhD positions at UCL are separate from applications for scholarships so you will usually have to submit two types of applications. Here are a few routes possible.
+**Application Process:** I can supervise PhD students at UCL through a number of routes. One important point is that applications for PhD positions at UCL are separate from applications for scholarships so you will usually have to submit two types of applications. Here are a few of the main [funding](https://fxbriol.github.io/supervision/funding/) routes.
 
 ## Postdoctoral Researchers
 
