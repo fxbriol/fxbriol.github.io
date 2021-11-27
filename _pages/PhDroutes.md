@@ -1,3 +1,10 @@
+---
+title: "Funding for PhD applicants"
+permalink: /supervision/funding/
+author_profile: true
+---
+
+**Main Funding Routes:**  
 
 
 * The [*UCL Statistical Science*](https://www.ucl.ac.uk/statistics/prospective-postgraduates/phd) department PhD programme. This is a standard PhD programme, and is most appropriate if you are interested in a PhD on statistical or machine learning theory or methodology. To obtain funding as an international student, the main option is the [Graduate Research Scholarships](https://www.ucl.ac.uk/scholarships/graduate-research-scholarships) and [Overseas Research Scholarship](https://www.ucl.ac.uk/scholarships/overseas-research-scholarships). It is common to apply for both of these simultaneously, and the deadline is usually in mid-January. For UK nationals, you can apply for the department scholarships, which are usually advertised in February/March.
