@@ -11,11 +11,13 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X*** (2021). Composite goodness-of-fit tests with kernels. arXiv.211.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275)
+* Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). ProbNum: Probabilistic numerics in Python. arXiv:2112.02100. [(***Preprint***)](https://arxiv.org/abs/2112.021005) [(***Software***)](http://www.probnum.org)
+
+* Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). Composite goodness-of-fit tests with kernels. arXiv.211.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home) and a journal-length version will appear on arXiv shortly.
 
-* Sun, Z., Barp, A. & ***Briol, F-X*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
+* Sun, Z., Barp, A. & ***Briol, F-X.*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
 	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
 
 * Niu, Z., Meier, J. & ***Briol, F-X.*** (2021). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
