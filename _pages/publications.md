@@ -11,7 +11,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). ProbNum: Probabilistic numerics in Python. arXiv:2112.02100. [(***Preprint***)](https://arxiv.org/abs/2112.021005)
+* Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). ProbNum: Probabilistic numerics in Python. arXiv:2112.02100. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
 	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
 
 * Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). Composite goodness-of-fit tests with kernels. arXiv.211.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275)
