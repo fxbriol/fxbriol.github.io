@@ -8,19 +8,18 @@ author_profile: true
 
 ## Upcoming
 
-
-* 8th December 2021 - Poster - ***Royal Statistical Society***, workshop on Stein's method in computational statistics (London, UK).
 * 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Cambridge, UK).
 * 13th January 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Amsterdam, NL).
 * 11th February 2022 - Talk - ***University of Cambridge, Statistical Laboratory*** (Cambridge, UK).
 * 17th March 2022 - Talk - ***Boston University, Department of Mathematics & Statistics*** (Boston, US).
-
+* 27th April 2022 - Talk - ***G-Research*** (London, UK).
 
 ## Past
 
 
 ### 2021
 
+* 8th December 2021 - Poster - ***Royal Statistical Society***, workshop on Stein's method in computational statistics (London, UK).
 * 11th November 2021 - Talk - ***Cardiff University***, Probability, Statistics, Operational Research and Machine Learning Seminar Series, School of Mathematics (Cardiff, UK).
 * 25th October 2021 - Talk - ***Dagstuhl Seminar on Probabilistic Numerical Computation***, Dagstuhl schloss (Dagstuhl, Germany).
 * 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
