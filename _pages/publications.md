@@ -104,5 +104,6 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 ## Dissertations
 
 * ***Briol, F-X.*** (2019). *Statistical computation with kernels*. PhD thesis, Department of Statistics, University of Warwick. [(***PDF***)](https://fxbriol.github.io/pdfs/PhDthesis_fxbriol.pdf)
+	* I was awarded an Honorable Mention for the [Savage Award](https://bayesian.org/project/savage-award/) in the section "Theory and Methodology" for this thesis. This is awarded by the International Society on Bayesian Analysis (ISBA) for "a dissertation that makes important original contributions to the foundations, theoretical developments, and/or general methodology of Bayesian analysis".
 
 * ***Briol, F-X.*** (2014). *Inference for Hawkes Processes*. Masters thesis, Department of Statistics, University of Warwick.
