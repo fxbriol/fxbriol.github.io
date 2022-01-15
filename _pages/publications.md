@@ -20,6 +20,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Sun, Z., Barp, A. & ***Briol, F-X.*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
 	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
+	* Zhuo Sun was awarded a Student Paper Award from the section on Bayesian Statistical Science of the American Statistical Association in 2022 for this work.
 
 * Niu, Z., Meier, J. & ***Briol, F-X.*** (2021). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
 
