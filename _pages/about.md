@@ -22,8 +22,6 @@ For more details, see my [Publications](https://fxbriol.github.io/publications/)
 
 ## News
 * Zhuo Sun and Takuo Matsubara each received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association for our papers on *"Vector-valued control variates"* and *"Robust generalised Bayesian inference for intractable likelihoods"*.
- 
-* Takuo Mastubara has received a *Best Student/Postdoc Contributed Paper Award* at ISBA 2021 for our paper called *"Robust generalised Bayesian inference for intractable likelihoods"*.
 
 * I am now affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
 
