@@ -19,14 +19,16 @@ This page contains all my publications; for more details, see my [Google Scholar
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home) and a journal-length version will appear on arXiv shortly.
 
 * Sun, Z., Barp, A. & ***Briol, F-X.*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
+	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
 	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
-	* Zhuo Sun was awarded a Student Paper Award from the section on Bayesian Statistical Science of the American Statistical Association in 2022 for this work.
+	
 
 * Niu, Z., Meier, J. & ***Briol, F-X.*** (2021). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
 
 * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets Statistics: A review of some recent developments*. arXiv:2105.03481. [(***Preprint***)](https://arxiv.org/abs/2105.03481)
 
 * Mastubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2021). *Robust generalised Bayesian inference for intractable likelihoods*. arXiv:2104.07359. [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes) [(***Video***)](https://drive.google.com/file/d/1gs016iDfvDbO07GBglI5xtOB8bFmjbAH/view)
+	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
 	* This paper received a *Best Student/Postdoc Contributed Paper Award* at ISBA 2021.
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
