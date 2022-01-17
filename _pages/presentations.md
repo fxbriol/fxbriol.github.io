@@ -16,7 +16,7 @@ author_profile: true
 ## Past
 
 ### 2022
-* 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Online Talk). ([Recording](https://www.secondmind.ai/labs/seminar-francois-xavier-briol-university-college-london/))
+* 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Online Talk). ([Video](https://www.secondmind.ai/labs/seminar-francois-xavier-briol-university-college-london/))
 
 ### 2021
 
