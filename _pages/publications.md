@@ -38,6 +38,10 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 ## Published Papers
 
+* Dellaporta, C., Knoblauch, J., Damoulas, T. ***Briol. F-X.*** (2022). *Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap*. Accepted for publication at the International Conference on Artificial Intelligence and Statistics (AISTATS). 
+	* This paper was accepted as an *oral presentation*, meaning it was in the top 2% of submitted papers (only 44 orals out of 1685 submissions).
+	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
+Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L. & ***Briol. F-X.*** (2021). *Scalable control variates for Monte Carlo methods via stochastic optimization*. Accepted for publication in the proceedings of the 14th Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2020. arXiv:2006.07487. [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
