@@ -38,7 +38,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
-* Dellaporta, C., Knoblauch, J., Damoulas, T. ***Briol. F-X.*** (2022). *Robust Bayesian inference for simulator-based models via the MMD posterior bootstrap*. Accepted for publication at the International Conference on Artificial Intelligence and Statistics (AISTATS). 
+* Dellaporta, C., Knoblauch, J., Damoulas, T. ***Briol. F-X.*** (2022). *Robust Bayesian inference for simulator-based models via the MMD posterior bootstrap*. Accepted for publication at the International Conference on Artificial Intelligence and Statistics (AISTATS). [(***Preprint***)](https://arxiv.org/abs/2202.04744) 
 	* This paper was accepted as an *oral presentation*, meaning it was in the top 3% of submitted papers (only 44 orals out of 1685 submissions).
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
