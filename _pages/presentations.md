@@ -8,7 +8,6 @@ author_profile: true
 
 ## Upcoming
 
-* 11th February 2022 - Talk - ***University of Cambridge, Statistical Laboratory*** (Cambridge, UK).
 * 17th March 2022 - Talk - ***Boston University, Department of Mathematics & Statistics*** (Boston, US).
 * 27th April 2022 - Talk - ***G-Research*** (London, UK).
 
@@ -16,6 +15,8 @@ author_profile: true
 
 ### 2022
 
+
+* 11th February 2022 - Talk - ***University of Cambridge, Statistical Laboratory*** (Cambridge, UK).
 * 1st February 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Amsterdam, NL).
 * 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Online Talk). ([Video](https://www.secondmind.ai/labs/seminar-francois-xavier-briol-university-college-london/))
 
