@@ -67,12 +67,6 @@ I have the privilege of working with a great team students; see below for the cu
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-{% endfor %}
-</div>
-
 <br />
 
 
