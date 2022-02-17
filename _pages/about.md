@@ -21,6 +21,9 @@ For more details, see my [Publications](https://fxbriol.github.io/publications/)
 
 
 ## News
+
+* Our paper on "Robust Bayesian inference for simulator-based models via the MMD posterior bootstrap" has been accepted as an *oral presentation* at [AISTATS 2022](http://aistats.org/aistats2022/).
+
 * Zhuo Sun and Takuo Matsubara each received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association for our papers on *"Vector-valued control variates"* and *"Robust generalised Bayesian inference for intractable likelihoods"*.
 
 * I am now affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
