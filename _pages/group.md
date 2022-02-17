@@ -80,7 +80,6 @@ I also have honorary PhD students i.e. PhD students with which I work with regul
 
 * [**Takuo Matsubara**](https://sites.google.com/view/takuomatsubara/home), PhD student in Statistics at Newcastle University and The Alan Turing Institute (since September 2019). Main supervisor: Prof. Chris J. Oates (Newcastle). *Projects*: Bayesian neural networks and Stein discrepancies.
 
-
 ## Past Students doing Research
 
 I have previously supervised a number of students currently doing research:
