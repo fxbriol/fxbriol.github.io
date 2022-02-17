@@ -14,13 +14,7 @@ I have the privilege of working with a great team students; see below for the cu
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
+ <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive rounded" width="20%" style="float: left; margin-right: 30px" />
   <h3>{{ member.name }}</h3>
   {% if member.website  %}
@@ -69,7 +63,8 @@ I have the privilege of working with a great team students; see below for the cu
 
 <br />
 
-
+    
+    
 I also have honorary PhD students i.e. PhD students with which I work with regularly and mentor, but that are not based at UCL:
 
 * [**Takuo Matsubara**](https://sites.google.com/view/takuomatsubara/home), PhD student in Statistics at Newcastle University and The Alan Turing Institute (since September 2019). Main supervisor: Prof. Chris J. Oates (Newcastle). *Projects*: Bayesian neural networks and Stein discrepancies.
