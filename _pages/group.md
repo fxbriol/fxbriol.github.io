@@ -4,7 +4,7 @@ permalink: /group/
 author_profile: true
 ---
 
-I have the privilege of working with a great team students:
+I have the privilege of working with the following great team of PhD students:
 
 <div id="team" class="col-sm-12">
 
