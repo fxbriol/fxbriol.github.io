@@ -8,7 +8,7 @@ author_profile: true
 
 ## Upcoming
 
-* 2nd May 2022 - Talk - ***Finnish Center for Artificial Intelligence**, Machine learning Coffee Seminar (Helsinki, FI).
+* 2nd May 2022 - Talk - ***Finnish Center for Artificial Intelligence***, Machine learning Coffee Seminar (Helsinki, FI).
 * 27th April 2022 - Talk - ***G-Research*** (London, UK).
 
 ## Past
