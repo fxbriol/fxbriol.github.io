@@ -8,14 +8,15 @@ author_profile: true
 
 ## Upcoming
 
-* 2nd May 2022 - Talk - ***Finnish Center for Artificial Intelligence***, Machine learning Coffee Seminar (Helsinki, FI).
-* 27th April 2022 - Talk - ***G-Research*** (London, UK).
+TBC
 
 ## Past
 
 ### 2022
 
 
+* 9th May 2022 - Talk - ***Finnish Center for Artificial Intelligence***, Machine learning Coffee Seminar (Online talk).
+* 27th April 2022 - Talk - ***G-Research*** (London, UK).
 * 17th March 2022 - Talk - ***Boston University, Department of Mathematics & Statistics*** (Online talk).
 * 11th February 2022 - Talk - ***University of Cambridge, Statistical Laboratory*** (Cambridge, UK).
 * 1st February 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Online talk).
