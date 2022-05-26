@@ -8,7 +8,7 @@ author_profile: true
 
 ## Upcoming
 
-TBC
+* 15th September 2022 - Talk - ***Gaussian Process Summer School***, University of Sheffield (Sheffield, UK).
 
 ## Past
 
