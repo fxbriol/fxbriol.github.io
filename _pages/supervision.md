@@ -14,9 +14,8 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 **Application Process:** I can supervise PhD students at UCL through a number of routes. One important point is that applications for PhD positions are sometimes separate from applications for scholarships. In those cases, you will usually have to submit two types of applications, one for admission to UCL and the other for funding. Here are a few of the main [funding routes](https://fxbriol.github.io/supervision/funding/) to consider. 
 
-[***Update: I am not able to support any more PhD applications with start date in Autumn 2022. If you are keen to work with me and would like to start in Autumn 2023, please get back in touch with me from October 2022 onwards.***] 
+[***Update: I am not able to support any more PhD applications with start date in Autumn 2022 or Autumn 2023. If you are keen to work with me and would like to start in Autumn 2024, please get back in touch with me from October 2023 onwards.***] 
 
-<!--***Openings for September 2022 (and onwards)*** I will be looking for a PhD student interested in joining from September 2022 onwards. Although I am open to applications for projects related to any of my areas of interest, I would be particularly keen to find a student interested in *generalised Bayesian inference* which will be co-supervised with [Jeremias Knoblauch](https://scholar.google.co.uk/citations?user=4TPsxlsAAAAJ&hl=en&oi=ao) (who will soon be joining UCL on a permanent basis). See the following papers to get a broad idea of this research area. [(Paper 1)](https://arxiv.org/abs/2104.07359) [(Paper 2)](https://arxiv.org/abs/1904.02063). Alternatively, see this [recording of a talk]( https://www.youtube.com/watch?v=BOEDl4gVNX4) by Jeremias.-->
 
 ## Postdoctoral Researchers
 
