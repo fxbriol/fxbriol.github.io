@@ -11,6 +11,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2022). Generalisaed Bayesian inference for discrete intractable likelihood. arXiv:2206.08420. [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
+
 * Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). ProbNum: Probabilistic numerics in Python. arXiv:2112.02100. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
 	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
 
