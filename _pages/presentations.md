@@ -8,7 +8,7 @@ author_profile: true
 
 ## Upcoming
 
-* 15th September 2022 - Talk - ***Gaussian Process Summer School***, University of Sheffield (Sheffield, UK).
+* 15th-17th March 2023 - Talk - ***BayesComp 2023***, special session on "Junior advances in scalable Bayesian methods" (Levi, Finland).
 
 ## Past
 
