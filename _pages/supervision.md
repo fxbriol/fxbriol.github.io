@@ -14,7 +14,7 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 **Application Process:** I can supervise PhD students at UCL through a number of routes. One important point is that applications for PhD positions are sometimes separate from applications for scholarships. In those cases, you will usually have to submit two types of applications, one for admission to UCL and the other for funding. Here are a few of the main [funding routes](https://fxbriol.github.io/supervision/funding/) to consider. 
 
-[***Update: I am not able to support any more PhD applications with start date in Autumn 2022 or Autumn 2023. If you are keen to work with me and would like to start in Autumn 2024, please get back in touch with me from October 2023 onwards.***] 
+[***Update: I am not able to support any more PhD applications with start date in Autumn 2023. If you are keen to work with me and would like to start in Autumn 2024, please get back in touch with me from October 2023 onwards. If you want to start in Autumn 2023, you might consider getting in touch with my colleague [Dr Jeremias Knoblauch](https://jeremiasknoblauch.github.io) instead.***] 
 
 
 ## Postdoctoral Researchers
