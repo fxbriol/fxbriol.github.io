@@ -11,6 +11,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2022). *Multilevel Bayesian quadrature*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2210.08329)
+
 * Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
 
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2022). *Generalised Bayesian inference for discrete intractable likelihood*. arXiv:2206.08420. [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
