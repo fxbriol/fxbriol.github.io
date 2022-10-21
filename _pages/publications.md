@@ -13,16 +13,13 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2022). *Multilevel Bayesian quadrature*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2210.08329)
 
-* Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
 
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2022). *Generalised Bayesian inference for discrete intractable likelihood*. arXiv:2206.08420. [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
 
 * Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
 	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
 
-* Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). *Composite goodness-of-fit tests with kernels*. arXiv.2111.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275)
-	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
-Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home) and a journal-length version will appear on arXiv shortly.
+
 
 * Sun, Z., Barp, A. & ***Briol, F-X.*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
 	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
@@ -34,6 +31,10 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 
 ## Published Papers
+
+* Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
+	* A preliminary version of the paper was accepted to the [NeurIPS 2022 workshop on score-based methods]([https://sites.google.com/view/robustbayes-neurips21/home](https://score-based-methods-workshop.github.io) and a journal-length version will appear on arXiv shortly.
+
 
 * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets Computational Statistics: A review of some recent developments*. To appear in Statistical Science. arXiv:2105.03481. [(***Preprint***)](https://arxiv.org/abs/2105.03481)
 
@@ -48,6 +49,10 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 	* This paper was discussed on the blog of [Prof. Christian Robert](https://xianblog.wordpress.com/2022/06/03/nonparametric-abc-seminar/)
+
+* Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). *Composite goodness-of-fit tests with kernels*. arXiv.2111.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275)
+	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
+Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home) and a journal-length version will appear on arXiv shortly.
 
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L. & ***Briol. F-X.*** (2021). *Scalable control variates for Monte Carlo methods via stochastic optimization*. Accepted for publication in the proceedings of the 14th Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2020. arXiv:2006.07487. [(***Conference***)](https://link.springer.com/chapter/10.1007/978-3-030-98319-2_10) [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
