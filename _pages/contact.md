@@ -28,4 +28,4 @@ United Kingdom.
 
 ### Phone
 
-I do not have an active work-related phone number. If you need to contact me, please try via email. Alternatively, if you really need a phone number for me (e.g. because you need to provide my contact details to someone), you can use the UCL Statistical Science phone number: (+44 20) 7679 1872.
+I do not have an active work-related phone number; please contact me via email instead. If you really need a phone number for me, you can use the UCL Statistical Science phone number: (+44 20) 7679 1872.
