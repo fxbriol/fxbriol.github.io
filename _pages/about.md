@@ -22,6 +22,8 @@ For more details, see my [Publications](https://fxbriol.github.io/publications/)
 
 ## News
 
+* I will be taking part in the Newton Institute programme on [The mathematical and statistical foundation of future data-driven engineering](https://www.newton.ac.uk/event/dde/) at the University of Cambridge from January-June 2023. 
+
 * Our paper on ["Robust Bayesian inference for simulator-based models via the MMD posterior bootstrap"](https://arxiv.org/abs/2202.04744) received the [*Best Paper Award*](https://aistats.org/aistats2022/awards.html) at AISTATS 2022!
 
 * Zhuo Sun and Takuo Matsubara each received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association for our papers on *"Vector-valued control variates"* and *"Robust generalised Bayesian inference for intractable likelihoods"*.
