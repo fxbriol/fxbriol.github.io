@@ -12,7 +12,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 ## Preprints
 
 * Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
-	* A preliminary version of the paper was accepted to the [NeurIPS 2022 workshop on score-based methods]([https://sites.google.com/view/robustbayes-neurips21/home](https://score-based-methods-workshop.github.io) and a journal-length version will appear on arXiv shortly.
+	* A preliminary version of the paper was accepted to the [NeurIPS 2022 workshop on score-based methods](https://score-based-methods-workshop.github.io) and a journal-length version will appear on arXiv shortly.
 
 * Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2022). *Multilevel Bayesian quadrature*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2210.08329)
 
