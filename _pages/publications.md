@@ -19,8 +19,6 @@ This page contains all my publications; for more details, see my [Google Scholar
 * Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
 	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
 
-
-
 * Sun, Z., Barp, A. & ***Briol, F-X.*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
 	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
 	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
@@ -35,7 +33,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 * Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2022 workshop on score-based methods]([https://sites.google.com/view/robustbayes-neurips21/home](https://score-based-methods-workshop.github.io) and a journal-length version will appear on arXiv shortly.
 
-* Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets Computational Statistics: A review of some recent developments*. To appear in Statistical Science. arXiv:2105.03481. [(***Journal***)](https://projecteuclid.org/journals/statistical-science/advance-publication/Steins-Method-Meets-Computational-Statistics--A-Review-of-Some/10.1214/22-STS863.short) [(***Preprint***)](https://arxiv.org/abs/2105.03481)
+* Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2021). *Stein's method meets Computational Statistics: A review of some recent developments*. To appear in Statistical Science. arXiv:2105.03481. [(***Journal***)](https://projecteuclid.org/journals/statistical-science/advance-publication/Steins-Method-Meets-Computational-Statistics--A-Review-of-Some/10.1214/22-STS863.short) [(***Preprint 1***)](https://fxbriol.github.io/pdfs/STS863.pdf) [(***Preprint 2***)](https://arxiv.org/abs/2105.03481)
 
 * Mastubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2022). *Robust generalised Bayesian inference for intractable likelihoods*. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 997– 1022. [(***Journal***)](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12500) [(***Preprint***)](https://arxiv.org/abs/2104.07359) [(***Code***)](https://github.com/takuomatsubara/KSD-Bayes) [(***Video***)](https://drive.google.com/file/d/1gs016iDfvDbO07GBglI5xtOB8bFmjbAH/view)
 	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
