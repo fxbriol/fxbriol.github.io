@@ -49,17 +49,17 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 	* This paper was discussed on the blog of [Prof. Christian Robert](https://xianblog.wordpress.com/2022/06/03/nonparametric-abc-seminar/)
+	
+* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2022). *A general method for calibrating stochastic radio channel models with kernels*. IEEE Transactions on Antennas and Propagation, vol. 70, no. 6, pp. 3986-4001, June 2022. [(***Journal***)](https://ieeexplore.ieee.org/document/9445690) [(***Preprint***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC)
+	* A preliminary version of this paper was accepted to the [NeurIPS 2021 workshop on Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2021/).
 
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L. & ***Briol. F-X.*** (2021). *Scalable control variates for Monte Carlo methods via stochastic optimization*. Accepted for publication in the proceedings of the 14th Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2020. arXiv:2006.07487. [(***Conference***)](https://link.springer.com/chapter/10.1007/978-3-030-98319-2_10) [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
 * Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2021). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. Journal of Machine Learning Research, 22 (157), 1-57. [(***Journal***)](https://jmlr.org/papers/v22/20-1300.html) [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be) [(***Code***)](https://github.com/takuomatsubara/BNN-RidgeletPrior)
 
-* Bharti, A., ***Briol, F-X.***, Pedersen, T. (2021). *A general method for calibrating stochastic radio channel models with kernels*. IEEE Transactions on Antennas and Propagation. [(***Journal***)](https://ieeexplore.ieee.org/document/9445690) [(***Preprint***)](https://arxiv.org/abs/2012.09612) [(***Code***)](https://github.com/bharti-ayush/Kernel-based-ABC)
-	* A preliminary version of this paper was accepted to the [NeurIPS 2021 workshop on Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2021/).
-
 * Wynne, G., ***Briol, F-X.***, Girolami, M. (2021). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. Journal of Machine Learning Research, 22 (123), 1-40. [(***Journal***)](https://jmlr.org/papers/v22/20-662.html) [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
-* Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2020). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. IEEE Transactions on Antennas and Propagation, vol. 69, no. 8, pp. 4871-4882, Aug. 2021. [(***Journal***)](https://ieeexplore.ieee.org/document/9362172) [(***Preprint***)](https://arxiv.org/abs/2005.06808)
+* Bharti, A., Adeogun, R., Cai, X., Fan, W., ***Briol, F-X.***, Clavier, L., Pedersen, T. (2021). *Joint modeling of received power, mean delay and delay spread for wideband radio channels*. IEEE Transactions on Antennas and Propagation, vol. 69, no. 8, pp. 4871-4882, Aug. 2021. [(***Journal***)](https://ieeexplore.ieee.org/document/9362172) [(***Preprint***)](https://arxiv.org/abs/2005.06808)
 
 * Zhu, H., Liu, X., Kang, R., Shen, Z., Flaxman, S., ***Briol, F-X.*** (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. [(***Conference***)](https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html) [(***Preprint***)](https://arxiv.org/abs/2006.05371) [(***Code***)](https://github.com/ImperialCollegeLondon/BART-Int)
 
