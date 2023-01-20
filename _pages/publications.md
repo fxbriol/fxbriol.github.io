@@ -16,8 +16,6 @@ This page contains all my publications; for more details, see my [Google Scholar
 * Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2022 workshop on score-based methods](https://score-based-methods-workshop.github.io) and a journal-length version will appear on arXiv shortly.
 
-* Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2022). *Multilevel Bayesian quadrature*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2210.08329)
-
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2022). *Generalised Bayesian inference for discrete intractable likelihood*. arXiv:2206.08420. [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
 
 * Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
@@ -37,6 +35,9 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 
 ## Published Papers
+
+
+* Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2023). *Multilevel Bayesian quadrature*. arXiv:2209.07396. Accepted for publication at AISTATS 2023. [(***Preprint***)](https://arxiv.org/abs/2210.08329) [(***Code***)](https://github.com/CeciliaKaiyu/MLBQ)
 
 * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2023). *Stein's method meets Computational Statistics: A review of some recent developments*. Statistical Science, Vol. 38, No. 1, 120-139. [(***Journal***)](https://projecteuclid.org/journals/statistical-science/advance-publication/Steins-Method-Meets-Computational-Statistics--A-Review-of-Some/10.1214/22-STS863.short) [(***Preprint 1***)](https://fxbriol.github.io/pdfs/STS863.pdf) [(***Preprint 2***)](https://arxiv.org/abs/2105.03481)
 
