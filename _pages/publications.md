@@ -13,7 +13,9 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 
 ## Preprints
 
-* Kirby, A., ***Briol, F-X.***, Dunstan, T., Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. arXiv:2301.01699. [(***Preprint***)](https://arxiv.org/abs/2301.01699)
+* Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. arXiv:2301.11674. [(***Preprint***)](https://arxiv.org/abs/2301.11674)
+
+* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. arXiv:2301.01699. [(***Preprint***)](https://arxiv.org/abs/2301.01699)
 
 * Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2022 workshop on score-based methods](https://score-based-methods-workshop.github.io) and a journal-length version will appear on arXiv shortly.
