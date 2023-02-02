@@ -12,6 +12,7 @@ author_profile: true
 * 27th February 2023 - Talk - ***Universitat Pompeu Fabra***, Statistics seminar series (Barcelona, Spain).
 * 15th-17th March 2023 - Talk - ***BayesComp 2023***, special session on "Junior advances in scalable Bayesian methods" (Levi, Finland).
 * 9th-12th May 2023 - Talk - ***ICMS workshop on mathematical foundations of data-driven engineering***, International Centre for Mathematical Sciences, University of Edinburgh (Edinburgh, UK).
+* 17th-19th July 2023 - Talk - ***Workshop on Fusing Simulation with Data Science***, University of Warwick (Coventry, UK)
 * 4th-7th September 2023 - Talk - ***Royal Statistical Society Conference***, Session on "Making Better use of your MCMC Samples" (Harrogate, UK). 
 
 ## Past
