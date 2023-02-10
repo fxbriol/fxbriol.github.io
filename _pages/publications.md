@@ -34,7 +34,6 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Niu, Z., Meier, J. & ***Briol, F-X.*** (2021). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. Under minor revisions at Electronic Journal of Statistics. [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
 
-* ***Briol, F-X.***, Barp, A., Duncan, A. B. & Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944) [(***Talk/Video***)](https://youtu.be/mm7bHjEzhow)
 
 
 ## Published Papers
@@ -79,7 +78,6 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* This paper was awarded a Student Paper Award from the section on Bayesian Statistical Science of the American Statistical Association in 2016.
 	* This paper was discussed on several blogs, including by [Prof. Andrew Gelman](http://andrewgelman.com/2015/12/07/28279/) and [Prof. Christian Robert](https://xianblog.wordpress.com/2015/12/17/je-suis-revenu-de-montreal-nips-2015/).
 
-
 * Oates, C. J., Cockayne, J., ***Briol, F-X.*** & Girolami, M. (2019). *Convergence rates for a class of estimators based on Stein's identity*. Bernoulli, Vol. 25, No. 2, 1141-1159. [(***Journal***)](https://projecteuclid.org/euclid.bj/1551862846) [(***Preprint***)](https://fxbriol.github.io/pdfs/Bernoulli_1551862846.pdf)
 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. [(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html)
@@ -102,6 +100,10 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* This paper was discussed in the blog of [Ingmar Schuster](https://ingmarschuster.wordpress.com/2015/10/26/frank-wolfe-bayesian-quadrature/).
     
 * Barp, A., Barp, E. G., ***Briol, F-X.*** & Ueltschi, D. (2015). *A numerical study of the 3D random interchange and random loop models*. Journal of Physics A: Mathematical and Theoretical, 48(34). [(***Journal***)](http://iopscience.iop.org/article/10.1088/1751-8113/48/34/345002/meta) [(***Preprint***)](https://arxiv.org/abs/1505.00983) 
+
+## Technical Reports
+
+* ***Briol, F-X.***, Barp, A., Duncan, A. B. & Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944) [(***Talk/Video***)](https://youtu.be/mm7bHjEzhow)
 
 ## Workshop Papers
 
