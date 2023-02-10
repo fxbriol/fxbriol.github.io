@@ -17,8 +17,7 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 
 * Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. arXiv:2301.01699. [(***Preprint***)](https://arxiv.org/abs/2301.01699)
 
-* Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
-	* A preliminary version of the paper was accepted to the [NeurIPS 2022 workshop on score-based methods](https://score-based-methods-workshop.github.io) and a journal-length version will appear on arXiv shortly.
+
 
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2022). *Generalised Bayesian inference for discrete intractable likelihood*. arXiv:2206.08420. [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
 
@@ -103,6 +102,11 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* This paper was discussed in the blog of [Ingmar Schuster](https://ingmarschuster.wordpress.com/2015/10/26/frank-wolfe-bayesian-quadrature/).
     
 * Barp, A., Barp, E. G., ***Briol, F-X.*** & Ueltschi, D. (2015). *A numerical study of the 3D random interchange and random loop models*. Journal of Physics A: Mathematical and Theoretical, 48(34). [(***Journal***)](http://iopscience.iop.org/article/10.1088/1751-8113/48/34/345002/meta) [(***Preprint***)](https://arxiv.org/abs/1505.00983) 
+
+## Workshop Papers
+
+* Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. [NeurIPS 2022 workshop on score-based methods](https://score-based-methods-workshop.github.io). arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
+
 
 ## Technical Discussions and Opinion Pieces
 
