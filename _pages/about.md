@@ -25,7 +25,7 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 * My PhD student [Zhuo Sun](https://jz-fun.github.io) was awarded the Costas Goutis award from the Department of Statistical Science at UCL.
 
-* I will be taking part in the Newton Institute programme on [The mathematical and statistical foundation of future data-driven engineering](https://www.newton.ac.uk/event/dde/) at the University of Cambridge from January-June 2023. 
+* I am taking part in the Newton Institute programme on [The mathematical and statistical foundation of future data-driven engineering](https://www.newton.ac.uk/event/dde/) at the University of Cambridge from January-June 2023. 
 
 * My PhD student [Masha Naslidnyk](https://mashanaslidnyk.github.io) received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association for her work on robust inference for Gaussian processes.
 
