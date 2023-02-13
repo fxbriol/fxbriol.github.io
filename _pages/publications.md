@@ -13,11 +13,11 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 
 ## Preprints
 
-* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. arXiv:2302.04759. [(***Preprint***)](https://arxiv.org/abs/2302.04759)
+* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. arXiv:2302.04759. [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd)
 
-* Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. arXiv:2301.11674. [(***Preprint***)](https://arxiv.org/abs/2301.11674)
+* Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. arXiv:2301.11674. [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
-* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. arXiv:2301.01699. [(***Preprint***)](https://arxiv.org/abs/2301.01699)
+* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. arXiv:2301.01699. [(***Preprint***)](https://arxiv.org/abs/2301.01699) [(***Code***)](https://github.com/AndrewKirby2/ctstar_statistical_model)
 
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2022). *Generalised Bayesian inference for discrete intractable likelihood*. arXiv:2206.08420. [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
 
@@ -40,6 +40,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 
 * Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2023). *Multilevel Bayesian quadrature*. arXiv:2209.07396. Accepted for publication at AISTATS 2023. [(***Preprint***)](https://arxiv.org/abs/2210.08329) [(***Code***)](https://github.com/CeciliaKaiyu/MLBQ)
+ 	* This paper was accepted for an *oral presentation* (top 6% of accepted papers) at AISTATS.
 
 * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2023). *Stein's method meets Computational Statistics: A review of some recent developments*. Statistical Science, Vol. 38, No. 1, 120-139. [(***Journal***)](https://projecteuclid.org/journals/statistical-science/advance-publication/Steins-Method-Meets-Computational-Statistics--A-Review-of-Some/10.1214/22-STS863.short) [(***Preprint 1***)](https://fxbriol.github.io/pdfs/STS863.pdf) [(***Preprint 2***)](https://arxiv.org/abs/2105.03481)
 
