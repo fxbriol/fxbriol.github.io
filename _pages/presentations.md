@@ -11,11 +11,11 @@ author_profile: true
 
 * 27th February 2023 - Talk - ***Universitat Pompeu Fabra***, Statistics seminar series (Barcelona, Spain).
 * 2nd March 2023 - Talk - ***University of Exeter***, seminar series for the department of Mathematics and Statistics (Exeter, UK).
-* 9th March 2023 - Talk - ***Isaac Newton Institute***, Programe on "Data-driven Engineering", University of Cambridge (Cambridge, UK).
-* 15th-17th March 2023 - Talk - ***BayesComp 2023***, special session on "Junior advances in scalable Bayesian methods" (Levi, Finland).
-* 9th-12th May 2023 - Talk - ***ICMS workshop on mathematical foundations of data-driven engineering***, International Centre for Mathematical Sciences, University of Edinburgh (Edinburgh, UK).
+* 9th March 2023 - Talk - [***Isaac Newton Institute***](https://www.newton.ac.uk/seminar/38530/), Programe on "Data-driven Engineering", University of Cambridge (Cambridge, UK).
+* 15th-17th March 2023 - Talk - [***BayesComp 2023***](https://bayescomp2023.com), special session on "Junior advances in scalable Bayesian methods" (Levi, Finland).
+* 9th-12th May 2023 - Talk - [***ICMS workshop on mathematical foundations of data-driven engineering***](https://www.newton.ac.uk/event/ddew04/), International Centre for Mathematical Sciences, University of Edinburgh (Edinburgh, UK).
 * 17th-19th July 2023 - Talk - ***Workshop on Fusing Simulation with Data Science***, University of Warwick (Coventry, UK)
-* 4th-7th September 2023 - Talk - ***Royal Statistical Society Conference***, Session on "Making Better use of your MCMC Samples" (Harrogate, UK). 
+* 4th-7th September 2023 - Talk - [***Royal Statistical Society Conference***](https://rss.org.uk/training-events/conference-2023/invited-session-topics/), Session on "Making Better use of your MCMC Samples" (Harrogate, UK). 
 
 ## Past
 
