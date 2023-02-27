@@ -9,7 +9,6 @@ author_profile: true
 ## Upcoming
 
 
-* 27th February 2023 - Talk - ***Universitat Pompeu Fabra***, Statistics seminar series (Barcelona, Spain).
 * 2nd March 2023 - Talk - ***University of Exeter***, seminar series for the department of Mathematics and Statistics (Exeter, UK).
 * 9th March 2023 - Talk - [***Isaac Newton Institute***](https://www.newton.ac.uk/seminar/38530/), Programe on "Data-driven Engineering", University of Cambridge (Cambridge, UK).
 * 15th-17th March 2023 - Talk - [***BayesComp 2023***](https://bayescomp2023.com), special session on "Junior advances in scalable Bayesian methods" (Levi, Finland).
@@ -20,8 +19,12 @@ author_profile: true
 
 ## Past
 
-### 2022
 
+### 2023
+
+* 27th February 2023 - Talk - ***Universitat Pompeu Fabra***, Statistics seminar series (Barcelona, Spain).
+
+### 2022
 
 * 9th May 2022 - Talk - ***Finnish Center for Artificial Intelligence***, Machine learning Coffee Seminar (Online talk).
 * 27th April 2022 - Talk - ***G-Research*** (London, UK).
