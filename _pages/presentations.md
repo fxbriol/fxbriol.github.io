@@ -9,8 +9,6 @@ author_profile: true
 ## Upcoming
 
 
-* 2nd March 2023 - Talk - ***University of Exeter***, seminar series for the department of Mathematics and Statistics (Exeter, UK).
-* 9th March 2023 - Talk - [***Isaac Newton Institute***](https://www.newton.ac.uk/seminar/38530/), Programe on "Data-driven Engineering", University of Cambridge (Cambridge, UK).
 * 15th-17th March 2023 - Talk - [***BayesComp 2023***](https://bayescomp2023.com), special session on "Junior advances in scalable Bayesian methods" (Levi, Finland).
 * 9th-12th May 2023 - Talk - [***ICMS workshop on mathematical foundations of data-driven engineering***](https://www.newton.ac.uk/event/ddew04/), International Centre for Mathematical Sciences, University of Edinburgh (Edinburgh, UK).
 * 12th May 2023 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
@@ -22,6 +20,8 @@ author_profile: true
 
 ### 2023
 
+* 9th March 2023 - Talk - [***Isaac Newton Institute***](https://www.newton.ac.uk/seminar/38530/), Programe on "Data-driven Engineering", University of Cambridge (Cambridge, UK).
+* 2nd March 2023 - Talk - ***University of Exeter***, seminar series for the department of Mathematics and Statistics (Exeter, UK).
 * 27th February 2023 - Talk - ***Universitat Pompeu Fabra***, Statistics seminar series (Barcelona, Spain).
 
 ### 2022
