@@ -4,8 +4,6 @@ permalink: /presentations/
 author_profile: true
 ---
 
-
-
 ### 2023
 
 * 4th-7th September 2023 - Talk - [***Royal Statistical Society Conference***](https://rss.org.uk/training-events/conference-2023/invited-session-topics/), Session on "Making Better use of your MCMC Samples" (Harrogate, UK). 
