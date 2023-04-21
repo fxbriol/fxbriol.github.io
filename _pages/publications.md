@@ -34,12 +34,13 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
 	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
 
-* Niu, Z., Meier, J. & ***Briol, F-X.*** (2021). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. Under minor revisions at Electronic Journal of Statistics. [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
+
 
 
 
 ## Published Papers
 
+* Niu, Z., Meier, J. & ***Briol, F-X.*** (2023+). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. To appear at the Electronic Journal of Statistics. [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
 
 * Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2023). *Multilevel Bayesian quadrature*. arXiv:2209.07396. Accepted for publication at AISTATS 2023. [(***Preprint***)](https://arxiv.org/abs/2210.08329) [(***Code***)](https://github.com/CeciliaKaiyu/MLBQ)
 	* This paper was accepted for an oral presentation (top 6% of accepted papers) at AISTATS.
