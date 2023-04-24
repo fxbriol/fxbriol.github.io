@@ -8,6 +8,7 @@ author_profile: true
 
 * 4th-7th September 2023 - Talk - [***Royal Statistical Society Conference***](https://rss.org.uk/training-events/conference-2023/invited-session-topics/), Session on "Making Better use of your MCMC Samples" (Harrogate, UK). 
 * 17th-19th July 2023 - Talk - [***Workshop on 'Fusing Simulation with Data Science'***](https://warwick.ac.uk/fac/sci/statistics/news/fsds/), University of Warwick (Coventry, UK).
+* 30th May 2023 - Talk - [***MobilitAI***](https://www.mobilit.ai) (Toulouse, France).
 * 12th May 2023 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 * 9th-12th May 2023 - Talk - [***ICMS workshop on mathematical foundations of data-driven engineering***](https://www.newton.ac.uk/event/ddew04/), International Centre for Mathematical Sciences, University of Edinburgh (Edinburgh, UK).
 * 15th-17th March 2023 - Talk - [***BayesComp 2023***](https://bayescomp2023.com), special session on "Junior advances in scalable Bayesian methods" (Levi, Finland).
