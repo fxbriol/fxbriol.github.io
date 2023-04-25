@@ -15,11 +15,7 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 
 * Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. arXiv:2303.04756. [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
 
-* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. arXiv:2302.04759. [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd)
-
-* Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. arXiv:2301.11674. [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
-
-* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. arXiv:2301.01699. [(***Preprint***)](https://arxiv.org/abs/2301.01699) [(***Code***)](https://github.com/AndrewKirby2/ctstar_statistical_model)
+* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. arXiv:2301.01699. Under minor revisions at "Wind Energy". [(***Preprint***)](https://arxiv.org/abs/2301.01699) [(***Code***)](https://github.com/AndrewKirby2/ctstar_statistical_model)
 
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2022). *Generalised Bayesian inference for discrete intractable likelihood*. arXiv:2206.08420. [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
 
@@ -30,15 +26,16 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home) and a journal-length version will appear on arXiv shortly.
 
-* Sun, Z., Barp, A. & ***Briol, F-X.*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944) [(***Code***)](https://github.com/jz-fun/Vector-valued-Control-Variates-Code)
-	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
-	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
-
-
-
-
 
 ## Published Papers
+
+* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. arXiv:2302.04759. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd)
+* 
+* Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. arXiv:2301.11674. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
+
+* Sun, Z., Barp, A. & ***Briol, F-X.*** (2023). *Vector-valued control variates*. arXiv:2109.08944. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2109.08944) [(***Code***)](https://github.com/jz-fun/Vector-valued-Control-Variates-Code)
+	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
+	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
 
 * Niu, Z., Meier, J. & ***Briol, F-X.*** (2023+). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. arXiv:2106.11561. To appear at the Electronic Journal of Statistics. [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
 
