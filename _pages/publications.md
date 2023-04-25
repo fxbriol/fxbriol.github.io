@@ -30,7 +30,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 ## Published Papers
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. arXiv:2302.04759. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd)
-* 
+ 
 * Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. arXiv:2301.11674. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
 * Sun, Z., Barp, A. & ***Briol, F-X.*** (2023). *Vector-valued control variates*. arXiv:2109.08944. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2109.08944) [(***Code***)](https://github.com/jz-fun/Vector-valued-Control-Variates-Code)
