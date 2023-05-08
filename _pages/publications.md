@@ -27,7 +27,8 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 ## Published Papers
 
-* Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. arXiv:2303.04756. Accepted for publication (with oral presentation) at UAI. [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
+* Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. arXiv:2303.04756. Accepted for publication at UAI. [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
+	* This paper was accepted for oral presentation at UAI.
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. arXiv:2302.04759. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd)
  
