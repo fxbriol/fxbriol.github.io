@@ -38,10 +38,10 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
 	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
 
-* Niu, Z., Meier, J. & ***Briol, F-X.*** (2023). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. Electronic Journal of Statistics, 17 (1), 1411-1456. [(***Journal***)](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-1/Discrepancy-based-inference-for-intractable-generative-models-using-Quasi-Monte/10.1214/23-EJS2131.full) [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
-
 * Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2023). *Multilevel Bayesian quadrature*. arXiv:2209.07396. Accepted for publication at AISTATS 2023. [(***Preprint***)](https://arxiv.org/abs/2210.08329) [(***Code***)](https://github.com/CeciliaKaiyu/MLBQ)
 	* This paper was accepted for an oral presentation (top 6% of accepted papers) at AISTATS.
+
+* Niu, Z., Meier, J. & ***Briol, F-X.*** (2023). *Discrepancy-based inference for intractable generative models using quasi-Monte Carlo*. Electronic Journal of Statistics, 17 (1), 1411-1456. [(***Journal***)](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-1/Discrepancy-based-inference-for-intractable-generative-models-using-Quasi-Monte/10.1214/23-EJS2131.full) [(***Preprint***)](https://arxiv.org/abs/2106.11561) [(***Code***)](https://github.com/johannnamr/Discrepancy-based-inference-using-QMC) 
 
 * Anastasiou, A., Barp, A., ***Briol, F-X.***, Ebner, B., Gaunt, R. E., Ghaderinezhad, F., Gorham, J., Gretton, A., Ley, C., Liu, Q., Mackey, L., Oates, C. J., Reinert, G. & Swan, Y. (2023). *Stein's method meets Computational Statistics: A review of some recent developments*. Statistical Science, Vol. 38, No. 1, 120-139. [(***Journal***)](https://projecteuclid.org/journals/statistical-science/advance-publication/Steins-Method-Meets-Computational-Statistics--A-Review-of-Some/10.1214/22-STS863.short) [(***Preprint 1***)](https://fxbriol.github.io/pdfs/STS863.pdf) [(***Preprint 2***)](https://arxiv.org/abs/2105.03481)
 
