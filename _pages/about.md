@@ -21,7 +21,7 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
-* My research group has recently done very well, with three papers accepted at ICML 2023, and two papers accepted at UAI 2023. These span topics including [robust changepoint detection](https://arxiv.org/abs/2302.04759), [likelihood-free inference](https://arxiv.org/abs/2301.11674), variance reduction for Monte Carlo methods ([paper 1](https://arxiv.org/abs/2109.08944), [paper 2](https://arxiv.org/abs/2303.04756)), and [probabilistic numerics](https://arxiv.org/abs/2305.13248).
+* My research group has recently had three papers accepted at ICML 2023, and two papers accepted at UAI 2023. These span topics including [robust changepoint detection](https://arxiv.org/abs/2302.04759), [likelihood-free inference](https://arxiv.org/abs/2301.11674), variance reduction for Monte Carlo methods ([paper 1](https://arxiv.org/abs/2109.08944), [paper 2](https://arxiv.org/abs/2303.04756)), and [probabilistic numerics](https://arxiv.org/abs/2305.13248).
 
 * Our paper on ["Multilevel Bayesian quadrature"](https://arxiv.org/abs/2210.08329) was awarded an *oral presentation* (top 6% of accepted papers) at AISTATS 2023!
 
