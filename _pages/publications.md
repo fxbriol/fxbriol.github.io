@@ -33,6 +33,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 * Ott, K., Tiemann, M., Hennig, P., & ***Briol, F-X.*** (2023). *Bayesian numerical integration with neural networks*. arXiv:2305.13248. Accepted for publication at UAI. [(***Preprint***)](https://arxiv.org/abs/2305.13248)
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. arXiv:2302.04759. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd)
+  	* A preliminary version of this paper appeared at the ICML 2023 workshop on Structured Probabilistic Inference & Generative Modeling.
  
 * Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. arXiv:2301.11674. Accepted for publication at the International Conference on Machine Learning. [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
