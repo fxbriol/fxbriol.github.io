@@ -21,14 +21,12 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
-* My research group has recently had three papers accepted at ICML 2023, and two papers accepted at UAI 2023. These span topics including [robust changepoint detection](https://arxiv.org/abs/2302.04759), [likelihood-free inference](https://arxiv.org/abs/2301.11674), variance reduction for Monte Carlo methods ([paper 1](https://arxiv.org/abs/2109.08944), [paper 2](https://arxiv.org/abs/2303.04756)), and [probabilistic numerics](https://arxiv.org/abs/2305.13248).
+* I have been [officially promoted](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/promotions-2022-23) to Associate Professor at UCL, effective 1st October 2023!
 
-* Our paper on ["Multilevel Bayesian quadrature"](https://arxiv.org/abs/2210.08329) was awarded an *oral presentation* (top 6% of accepted papers) at AISTATS 2023!
+* My research group has recently had three papers accepted at ICML 2023, and two papers accepted at UAI 2023 (including an oral!). These span topics including [robust changepoint detection](https://arxiv.org/abs/2302.04759), [likelihood-free inference](https://arxiv.org/abs/2301.11674), variance reduction for Monte Carlo methods ([paper 1](https://arxiv.org/abs/2109.08944), [paper 2](https://arxiv.org/abs/2303.04756)), and [probabilistic numerics](https://arxiv.org/abs/2305.13248).
 
 * My PhD student [Zhuo Sun](https://jz-fun.github.io) was awarded the Costas Goutis award from the Department of Statistical Science at UCL.
 
 * I am taking part in the Newton Institute programme on [The mathematical and statistical foundation of future data-driven engineering](https://www.newton.ac.uk/event/dde/) at the University of Cambridge from January-June 2023. 
-
-* My PhD student [Masha Naslidnyk](https://mashanaslidnyk.github.io) received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association for her work on robust inference for Gaussian processes.
 
 
