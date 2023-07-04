@@ -25,7 +25,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 ## Published Papers
 
-* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. arXiv:2301.01699. Accepted for publication at "Wind Energy". [(***Preprint***)](https://arxiv.org/abs/2301.01699) [(***Code***)](https://github.com/AndrewKirby2/ctstar_statistical_model)
+* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. Wind Energy, 1- 17. [(***Journal***)](https://onlinelibrary.wiley.com/doi/10.1002/we.2851) [(***Preprint***)](https://arxiv.org/abs/2301.01699) [(***Code***)](https://github.com/AndrewKirby2/ctstar_statistical_model)
  
 * Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. arXiv:2303.04756. Accepted for publication at UAI. [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
 	* This paper was accepted for oral presentation at UAI.
