@@ -128,6 +128,8 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 ## Science Communication
 
+* Kirby, A., ***Briol, F-X.*** (2023). *Using machine learning to design more efficient offshore wind farms*. [(***Turing Institute Blog Post***)](https://www.turing.ac.uk/blog/using-machine-learning-design-more-efficient-offshore-wind-farms)
+
 * ***Briol, F-X.***, Bharti, A. (2021). *Using machine learning to improve the reliability of wireless communication systems*.  [(***Turing Institute Blog Post***)](https://www.turing.ac.uk/blog/using-machine-learning-improve-reliability-wireless-communication-systems)
 
 
