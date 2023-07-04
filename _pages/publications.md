@@ -24,14 +24,14 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 
 ## Published Papers
-
-* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. Wind Energy, 1- 17. [(***Journal***)](https://onlinelibrary.wiley.com/doi/10.1002/we.2851) [(***Preprint***)](https://arxiv.org/abs/2301.01699) [(***Code***)](https://github.com/AndrewKirby2/ctstar_statistical_model)
  
 * Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. arXiv:2303.04756. Accepted for publication at UAI. [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
 	* This paper was accepted for oral presentation at UAI.
 
 * Ott, K., Tiemann, M., Hennig, P., & ***Briol, F-X.*** (2023). *Bayesian numerical integration with neural networks*. arXiv:2305.13248. Accepted for publication at UAI. [(***Preprint***)](https://arxiv.org/abs/2305.13248)
 
+* Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. Wind Energy, 1- 17. [(***Journal***)](https://onlinelibrary.wiley.com/doi/10.1002/we.2851) [(***Preprint***)](https://arxiv.org/abs/2301.01699) [(***Code***)](https://github.com/AndrewKirby2/ctstar_statistical_model)
+  
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:642-663. [(***Conference***)](https://proceedings.mlr.press/v202/altamirano23a.html) [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd)
 
 * Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312. [(***Conference***)](https://proceedings.mlr.press/v202/bharti23a.html) [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
