@@ -18,7 +18,7 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 * Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
 	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
 
-* Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). *Composite goodness-of-fit tests with kernels*. arXiv.2111.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275)
+* Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). *Composite goodness-of-fit tests with kernels*. arXiv.2111.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
