@@ -30,7 +30,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 * Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:2047-2057. [(***Conference***)](https://proceedings.mlr.press/v216/sun23a.html) [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
 	* This paper was accepted for oral presentation at UAI.
 
-* Ott, K., Tiemann, M., Hennig, P., & ***Briol, F-X.*** (2023). *Bayesian numerical integration with neural networks*. arXiv:2305.13248. Accepted for publication at UAI. [(***Preprint***)](https://arxiv.org/abs/2305.13248)
+* Ott, K., Tiemann, M., Hennig, P., & ***Briol, F-X.*** (2023). *Bayesian numerical integration with neural networks*. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence. [(***Conference***)](https://proceedings.mlr.press/v216/ott23a.html) [(***Preprint***)](https://arxiv.org/abs/2305.13248)
 
 * Kirby, A., ***Briol, F-X.***, Dunstan, T. & Nishino, T. (2023). *Data-driven modelling of turbine wake interactions and flow resistance in large wind farms*. Wind Energy, 26, 9, 875-1011. [(***Journal***)](https://onlinelibrary.wiley.com/doi/10.1002/we.2851) [(***Preprint***)](https://arxiv.org/abs/2301.01699) [(***Code***)](https://github.com/AndrewKirby2/ctstar_statistical_model)
   
