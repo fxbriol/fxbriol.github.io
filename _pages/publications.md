@@ -27,7 +27,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2023). *Generalised Bayesian inference for discrete intractable likelihood*. arXiv:2206.08420. Accepted (subject to minor revisions) at the Journal of the American Statistical Association. [(***Journal***)](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257891) [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
  
-* Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. arXiv:2303.04756. Accepted for publication at UAI. [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
+* Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:2047-2057. [(***Conference***)](https://proceedings.mlr.press/v216/sun23a.html) [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
 	* This paper was accepted for oral presentation at UAI.
 
 * Ott, K., Tiemann, M., Hennig, P., & ***Briol, F-X.*** (2023). *Bayesian numerical integration with neural networks*. arXiv:2305.13248. Accepted for publication at UAI. [(***Preprint***)](https://arxiv.org/abs/2305.13248)
