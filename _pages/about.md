@@ -21,14 +21,13 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
+* I am looking to recruit a PhD student for the academic year 2024-25. Please have a look at [this page](https://fxbriol.github.io/supervision/) for further details, then feel free to get in touch directly via email.
+
 * I recently appeared in the ["Machine and Molecules"](https://youtu.be/fv4JvSo44QA?feature=shared) podcast where I discuss my broad interest in robustness to model misspecification, how I got started with research, and the ongoing work of my research group at UCL.
 
 * I received an EPSRC small grant in the mathematical sciences for research on ["Robust Foundations for Bayesian Inference"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) (EP/Y011805/1).
 
 * I have been [officially promoted](https://www.ucl.ac.uk/human-resources/policies-advice/academic-careers-framework-and-promotions-processes/promotions-2022-23) to Associate Professor at UCL, effective 1st October 2023!
 
-* My research group has recently had three papers accepted at ICML 2023, and two papers accepted at UAI 2023 (including an oral!). These span topics including [robust changepoint detection](https://arxiv.org/abs/2302.04759), [likelihood-free inference](https://arxiv.org/abs/2301.11674), variance reduction for Monte Carlo methods through [multi-task learning](https://arxiv.org/abs/2109.08944) and [meta-learning](https://arxiv.org/abs/2303.04756), and [probabilistic numerics](https://arxiv.org/abs/2305.13248).
-
-* My PhD student [Zhuo Sun](https://jz-fun.github.io) was awarded the Costas Goutis award from the Department of Statistical Science at UCL.
 
 
