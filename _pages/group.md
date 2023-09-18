@@ -72,8 +72,8 @@ I have the privilege of working with the following great team of PhD students:
 {% endfor %}
 </div>
 
-<br/>
 
 ## Alumni
 
 * Dr Zhuo Sun completed his PhD thesis on "Transfer Learning in Monte Carlo and Beyond" (2019-2023). I was his first supervisor and his second supervisor was Prof. Jinghao Xue. More details on what he is up to know are available on his website: https://jz-fun.github.io
+<br/>
