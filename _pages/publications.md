@@ -13,11 +13,6 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 
 ## Preprints
 
-
-
-* Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100. Accepted (subject to minor revisions) at the Journal of Machine Learning Research. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
-	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
-
 * Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). *Composite goodness-of-fit tests with kernels*. arXiv.2111.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
@@ -25,6 +20,9 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 ## Published Papers
 
+* Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2023). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100. Accepted (subject to minor revisions) at the Journal of Machine Learning Research. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
+	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
+   
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2023). *Generalised Bayesian inference for discrete intractable likelihood*. arXiv:2206.08420. Accepted (subject to minor revisions) at the Journal of the American Statistical Association. [(***Journal***)](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257891) [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
  
 * Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:2047-2057. [(***Conference***)](https://proceedings.mlr.press/v216/sun23a.html) [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
