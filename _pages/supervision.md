@@ -19,6 +19,10 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 **Application process:** I can supervise PhD students at UCL through a number of routes. One important point is that applications for PhD positions are often separate from applications for scholarships. In those cases, you will usually have to submit two types of applications, one for admission to UCL and the other for funding. Here are a few of the main [funding routes](https://fxbriol.github.io/supervision/funding/) to consider. If you get in touch with me about an application, I am happy to help you navigate this.
 
+**Project ideas:** Below are some possible project ideas, which would be suitable for co-supervision with some of my colleagues. However, I am happy to supervise on any of the topics related to my current research and you do not need to contact me about these specific projects if you find something else interesting.
+* [Defining and Measuring Robustness in Bayesian Machine Learning - with Dr Jeremias Knoblauch](https://ucl-epsrc-dtp.github.io/2024-25-project-catalogue/projects/2228cd1424.html)
+* [Model Selection for Large Scientific Simulators - with Dr Purvasha Chakrabarti](https://ucl-epsrc-dtp.github.io/2024-25-project-catalogue/projects/2228cd1432.html)
+
 ## Postdoctoral Researchers
 
 I do not currently hold any funding for postdoctoral researchers, but would be happy to hear from anyone interested in joining my group and/or supporting strong candidates for external funding applications.
