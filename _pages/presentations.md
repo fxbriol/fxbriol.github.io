@@ -7,7 +7,7 @@ author_profile: true
 ### 2023
 
 
-* 14th-17th October 2023 - Talk - [***BAYSM Conference***](https://events.stat.uconn.edu/BAYSM2023/) (virtual).
+* 14th-17th November 2023 - Talk - [***BAYSM Conference***](https://events.stat.uconn.edu/BAYSM2023/) (virtual).
 * 6th September 2023 - Talk - [***Royal Statistical Society Conference***](https://rss.org.uk/training-events/conference-2023/invited-session-topics/), Session on "Making Better use of your MCMC Samples" (Harrogate, UK). 
 * 17th-19th July 2023 - Talk - [***Workshop on 'Fusing Simulation with Data Science'***](https://warwick.ac.uk/fac/sci/statistics/news/fsds/), University of Warwick (Coventry, UK).
 * 30th May 2023 - Talk - [***MobilitAI***](https://www.mobilit.ai) (Toulouse, France).
