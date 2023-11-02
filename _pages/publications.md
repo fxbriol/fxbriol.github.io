@@ -13,6 +13,7 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 
 ## Preprints
 
+* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and conjugate Gaussian process regression*. arXiv:2311.00463. [(***Preprint***)](https://arxiv.org/abs/2311.00463)
 * Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). *Composite goodness-of-fit tests with kernels*. arXiv.2111.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
@@ -64,7 +65,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Si, S., Oates, C. J., Duncan, A. B., Carin, L. & ***Briol. F-X.*** (2021). *Scalable control variates for Monte Carlo methods via stochastic optimization*. Accepted for publication in the proceedings of the 14th Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2020. arXiv:2006.07487. [(***Conference***)](https://link.springer.com/chapter/10.1007/978-3-030-98319-2_10) [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
 
-* Mastubara, T., Oates, C. J., ***Briol, F-X.*** (2021). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. Journal of Machine Learning Research, 22 (157), 1-57. [(***Journal***)](https://jmlr.org/papers/v22/20-1300.html) [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be) [(***Code***)](https://github.com/takuomatsubara/BNN-RidgeletPrior)
+* Matsubara, T., Oates, C. J., ***Briol, F-X.*** (2021). *The ridgelet prior: A covariance function approach to prior specification for Bayesian neural networks*. Journal of Machine Learning Research, 22 (157), 1-57. [(***Journal***)](https://jmlr.org/papers/v22/20-1300.html) [(***Preprint***)](https://arxiv.org/abs/2010.08488) [(***Video***)](https://www.youtube.com/watch?v=D7fkaMlzYNg&feature=youtu.be) [(***Code***)](https://github.com/takuomatsubara/BNN-RidgeletPrior)
 
 * Wynne, G., ***Briol, F-X.***, Girolami, M. (2021). *Convergence guarantees for Gaussian process means with misspecified likelihoods and smoothness*. Journal of Machine Learning Research, 22 (123), 1-40. [(***Journal***)](https://jmlr.org/papers/v22/20-662.html) [(***Preprint***)](https://arxiv.org/abs/2001.10818)
 
