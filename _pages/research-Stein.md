@@ -33,9 +33,12 @@ If you already know about Stein's method, you might instead be interested in my 
   
   * Si, S., Oates, C. J., Duncan, A. B., Carin, L. & ***Briol. F-X.*** (2021). *Scalable control variates for Monte Carlo methods via stochastic optimization*. Accepted for publication in the proceedings of the 14th Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2020. arXiv:2006.07487. [(***Conference***)](https://link.springer.com/chapter/10.1007/978-3-030-98319-2_10) [(***Preprint***)](https://arxiv.org/abs/2006.07487) [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
   
-  * Sun, Z., Barp, A. & ***Briol, F-X.*** (2021). *Vector-valued control variates*. arXiv:2109.08944. [(***Preprint***)](https://arxiv.org/abs/2109.08944)
+ * Sun, Z., Barp, A. & ***Briol, F-X.*** (2023). *Vector-valued control variates*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32819-32846. [(***Conference***)](https://proceedings.mlr.press/v202/sun23a.html) [(***Preprint***)](https://arxiv.org/abs/2109.08944) [(***Code***)](https://github.com/jz-fun/Vector-valued-Control-Variates-Code)
 	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
 	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
+ 
+  * Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:2047-2057. [(***Conference***)](https://proceedings.mlr.press/v216/sun23a.html) [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
+	* This paper was accepted for oral presentation at UAI.
 
 
 <p align="center">
