@@ -7,7 +7,7 @@ author_profile: true
 This page contains all my publications; for more details, see my [Google Scholar](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en) profile. For a non-technical overview of some of my work, see the webpage for the [Fundamentals of Statistical Machine Learning](https://www.turing.ac.uk/research/research-projects/fundamentals-statistical-machine-learning) project at the Turing Institute. 
 
 Alternatively, if you would like a brief introduction to some of the fields I work in and have contributed to, you may prefer to have a look at the following project pages:
-* [Bayesian numerical methods](https://fxbriol.github.io/research/PN/).
+* [Bayesian probabilistic numerical methods](https://fxbriol.github.io/research/PN/).
 * [Inference for intractable models](https://fxbriol.github.io/research/intractable-models/).
 * [Stein's method as a computational tool](https://fxbriol.github.io/research/Stein/).
 * [Transfer learning for Monte Carlo ](https://fxbriol.github.io/research/multiple-integrals/).
