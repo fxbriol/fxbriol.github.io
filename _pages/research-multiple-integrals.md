@@ -10,6 +10,12 @@ Estimating integrals or expectations through simulation is one of the key challe
 
 There are of course many different types of side-information you could attempt to encode in algorithms, but one key element which is often neglected is that we rarely have to compute a single isolated integral. Indeed, many practical problems will require you to compute several related integrals either simultaneously or sequentially. For example, in Bayesian statistics you usually have to compute some posterior expectation of interest, but you will also often want to calculate similar posterior expectations if you collect more data or want to try out different priors. Similarly, when working with mathematical models of physical or biological phenomenon, you will often have access to models of varying accuracy and may want to calculate integrals for each of these. In cases where the various integration problems are similar enough, it may be worth designing algorithms which can share integrand evaluations across tasks in order to improve accuracy.
 
+<p align="center">
+  <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="80%">
+</p>
+
+<br>
+
 ## Contributions to this field
 
 My main contribution to answering this problem has been a series of papers which propose to use transfer learning for computing integrals. Transfer learning is a general paradigm in machine learning where algorithms are designed to transfer information across related tasks, and hence improve accuracy. There is a wide range of applications of transfer learning including for regression and classification, but there is surprisingly little in the context of numerical integration.
@@ -30,11 +36,7 @@ My main contribution to answering this problem has been a series of papers which
 * Sun, Z., Oates, C. J. & ***Briol, F-X.*** (2023). *Meta-learning control variates: variance reduction with limited data*. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:2047-2057. [(***Conference***)](https://proceedings.mlr.press/v216/sun23a.html) [(***Preprint***)](https://arxiv.org/abs/2303.04756) [(***Code***)](https://github.com/jz-fun/Meta_Control_Variates)
 	* This paper was accepted for oral presentation at UAI.
 
-<p align="center">
-  <img src="/images/BQ-illumination.png" alt="Application of Bayesian Quadrature to Global Illumination" width="100%">
-</p>
 
-<br>
 
 
 
