@@ -1,5 +1,5 @@
 ---
-title: "Transfer Learning for Numerical Integration"
+title: "Transfer Learning for Monte Carlo"
 permalink: /research/multiple-integrals/
 author_profile: true
 ---
