@@ -10,6 +10,7 @@ Alternatively, if you would like a brief introduction to some of the fields I wo
 * [Bayesian numerical methods](https://fxbriol.github.io/research/PN/).
 * [Inference for intractable models](https://fxbriol.github.io/research/intractable-models/).
 * [Stein's method as a computational tool](https://fxbriol.github.io/research/Stein/).
+* [Transfer Learning for Monte Carlo ](https://fxbriol.github.io/research/multiple-integrals/).
 
 ## Preprints
 
