@@ -1,18 +1,14 @@
 ---
-title: "Bayesian Numerical Methods"
+title: "Bayesian Probabilistic Numerical Methods"
 permalink: /research/PN/
 author_profile: true
 ---
 
-## About
+## The problem
 
-Whether for computing an integral, solving an optimisation problem, or solving differential equations, numerical methods are one of the core tools of statistics and machine learning. Most of the numerical methods available come from the field of numerical analysis, where one of the common assumption is that a high level of accuracy can be obtain by for example obtaining more function values or using a finer mesh or step-size. In this setting, strong theoretical guarantees can usually be provided in the form of worst-case errors.
+Whether for computing an integral, solving an optimisation problem, or solving differential equations, numerical methods are one of the core tools of statistics and machine learning. Most of the numerical methods available come from the field of numerical analysis, where one of the common assumption is that a high level of accuracy can be obtain by for example obtaining more function values or using a finer mesh or step-size. In this setting, strong theoretical guarantees can usually be provided in the form of worst-case errors.Unfortunately, due to the increasing complexity and computational cost of modern statistical machine learning models, there are many application areas where obtaining more function values is simply not feasible. The worst-case theoretical guarantees are therefore not particularly useful since they are designed with an alternative setting in mind, and as a result can be overly pessimistic.
 
-Unfortunately, due to the increasing complexity and computational cost of modern statistical machine learning models, there are many application areas where obtaining more function values is simply not feasible. The worst-case theoretical guarantees are therefore not particularly useful since they are designed with an alternative setting in mind, and as a result can be overly pessimistic.
-
-*Bayesian numerical methods* (sometimes also called [*probabilistic numerics*](http://www.probabilistic-numerics.org)) provide an alternative way forward through the lense of Bayesian inference. The idea is to consider the solution of the numerical problem as a quantity of interest, then use Bayesian inference to obtain an estimate of this quantity. This allows for the use of prior information to be incorporated in the numerical method (very often using Gaussian processes), and for a detailed description of our uncertainty through the resulting posterior distribution. In fact, these algorithms are particularly useful for statistical applications since they allow for both the inference and the numerics to speak the same language, and as such uncertainty can be propagated throughout the entire procedure.
-
-The most well-know algorithm from this field is *Bayesian optimisation*, which has been used in academia and industry to tune large scale models. However, there is an increasingly active research field exploring other uses of Bayesian inference for integration, linear algebra or differential equations.
+*Bayesian probabilistic numerical methods* (sometimes also called [*probabilistic numerics*](http://www.probabilistic-numerics.org) or Bayesian numerical methods for short) provide an alternative way forward through the lense of Bayesian inference. The idea is to consider the solution of the numerical problem as a quantity of interest, then use Bayesian inference to obtain an estimate of this quantity. This allows for the use of prior information to be incorporated in the numerical method (very often using Gaussian processes), and for a detailed description of our uncertainty through the resulting posterior distribution. In fact, these algorithms are particularly useful for statistical applications since they allow for both the inference and the numerics to speak the same language, and as such uncertainty can be propagated throughout the entire procedure. The most well-know algorithm from this field is *Bayesian optimisation*, which has been used in academia and industry to tune large scale models. However, there is an increasingly active research field exploring other uses of Bayesian inference for integration, linear algebra or differential equations.
 
 
 
@@ -37,7 +33,7 @@ I have also contributed a number of novel algorithms to improve the scalability 
 
 * ***Briol, F-X.***, Oates, C. J., Cockayne, J., Chen, W. Y. & Girolami, M. (2017). *On the sampling problem for kernel quadrature*. Proceedings of the 34th International Conference on Machine Learning, PMLR 70:586-595. [(***Conference***)](http://proceedings.mlr.press/v70/briol17a.html) [(***Preprint***)](https://arxiv.org/abs/1706.03369) 
 
-On the modelling side, I have also extended the approach to use alternatives to standard Gaussian process regression, including through the use of tree-based models, Dirichlet processes and multi-output Gaussian processes:
+On the modelling side, I have also extended the approach to use alternatives to standard Gaussian process regression, including through the use of tree-based models, Dirichlet processes, multi-output Gaussian processes and Bayesian neural networks:
 
 * Oates, C. J., Niederer, S., Lee, A., ***Briol, F-X.*** & Girolami, M. (2017). *Probabilistic models for integration error in the assessment of functional cardiac models*. Advances in Neural Information Processing Systems (NeurIPS), 109-117. 
 [(***Conference***)](https://papers.nips.cc/paper/6616-probabilistic-models-for-integration-error-in-the-assessment-of-functional-cardiac-models) [(***Preprint***)](https://arxiv.org/abs/1606.06841) 
@@ -45,6 +41,16 @@ On the modelling side, I have also extended the approach to use alternatives to 
 * Xi, X., ***Briol, F-X.*** & Girolami, M. (2018). *Bayesian quadrature for multiple related integrals*. International Conference on Machine Learning, PMLR 80:5369-5378. [(***Conference***)](http://proceedings.mlr.press/v80/xi18a.html) [(***Preprint***)](https://arxiv.org/abs/1801.04153)
 
 * Zhu, H., Liu, X., Kang, R., Shen, Z., Flaxman, S., ***Briol, F-X.*** (2020). *Bayesian probabilistic numerical integration with tree-based models*. Neural Information Processing Systems, 5837-5849. [(***Conference***)](https://proceedings.neurips.cc/paper/2020/hash/3fe94a002317b5f9259f82690aeea4cd-Abstract.html) [(***Preprint***)](https://arxiv.org/abs/2006.05371) [(***Code***)](https://github.com/ImperialCollegeLondon/BART-Int)
+
+* Ott, K., Tiemann, M., Hennig, P., & ***Briol, F-X.*** (2023). *Bayesian numerical integration with neural networks*. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:1606-1617. [(***Conference***)](https://proceedings.mlr.press/v216/ott23a.html) [(***Preprint***)](https://arxiv.org/abs/2305.13248)
+
+On the applied side, I have shown how Bayesian quadrature can bring crucial computational gains for some challenging computational problems in statistics and machine learning, including multi-fidelity modelling and simulation-based inference:
+
+
+* Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2023). *Multilevel Bayesian quadrature*. Proceedings of The 26th International Conference on Artificial Intelligence and Statistics, PMLR 206:1845-1868. [(***Conference***)](https://proceedings.mlr.press/v206/li23a.html) [(***Preprint***)](https://arxiv.org/abs/2210.08329) [(***Code***)](https://github.com/CeciliaKaiyu/MLBQ)
+	* This paper was accepted for an oral presentation (top 6% of accepted papers) at AISTATS.
+
+* Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312. [(***Conference***)](https://proceedings.mlr.press/v202/bharti23a.html) [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
 
 Finally, an interesting by-product of my interest in Bayesian numerical methods has been the following paper, which provides some of the most general theoretical results for Gaussian process regression (including implications for Bayesian optimisation and Bayesian quadrature):	
