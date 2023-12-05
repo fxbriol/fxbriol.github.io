@@ -4,8 +4,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-At UCL, I teach mostly at the MSc level including:
-
+At UCL, I teach mostly at the 3rd year BSc or MSc level including:
+* Module lead for STAT0043 *Inference at Scale* (Spring 2024).
 * Module lead for STAT0032 *Introduction to Statistical Data Science* (Autumn 2019, 2020, 2021 & 2022). 
 * Classes for STAT0027 *Foundations Fortnight*, aimed at MSc students in the Statistical Science department (Autumn 2019, 2020, 2021 & 2022)
 * Tutorials for STAT0005 *Probability & Inference* (Autumn 2019 & 2021).
