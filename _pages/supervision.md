@@ -25,7 +25,9 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 ## Postdoctoral Researchers
 
-I do not currently hold any funding for postdoctoral researchers, but would be happy to hear from anyone interested in joining my group and/or supporting strong candidates for external funding applications.
+I will soon be advertising two positions for postdoctoral researchers:
+* **Position 1:** Research on an EPSRC-funded project on 'Transfer learning for Monte Carlo methods'. This will be a position for up to 3 years, and I will be looking for someone with expertise in any of the following: Monte Carlo methods, Gaussian processes, kernel methods, information-based complexity.
+* **Position 2:** Research on a UKRI-funded project to design a 'Digital twins handbook'. This will be a position for 2 years and the project is together with colleagues in Engineering and Biology at UCL. The project lead is [Prof. Andrea Townsend-Nicholson](https://www.ucl.ac.uk/biosciences/people/townsend-nicholson-andrea), and the other co-Is are [Dr. Claire Ellul](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-claire-ellul), [Dr. Tim Hillel](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-tim-hillel, and [Prof. Dimitrios Rovas](https://www.ucl.ac.uk/bartlett/environmental-design/dr-dimitrios-rovas).
 
 ## MSc Students
 
