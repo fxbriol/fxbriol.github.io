@@ -4,7 +4,7 @@ permalink: /research/intractable-models/
 author_profile: true
 ---
 
-## About
+## The problem
 
 Researchers in Statistics and Machine Learning are having to work with ever-larger models developed by scientists or engineers. One particular challenge is that these models become so complex that standard tools for parameter estimation are not fit for purpose anymore. For example, most standard methods such as maximum likelihood estimation or Bayesian inference rely on the availability of a likelihood function that represents our model. But when the underlying phenomena being modelled is highly complex, it is often not possible to specify the likelihood associated to our model. 
 
