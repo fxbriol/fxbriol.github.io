@@ -57,7 +57,7 @@ If you already know about Stein's method, you might instead be interested in my 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
 <p align="center">
-  <img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="100%">
+  <img src="/images/KSD-Bayes.png" alt="Robust inference with KSD-Bayes" width="75%">
 </p>
 
 <br>
