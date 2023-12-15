@@ -72,6 +72,7 @@ I have the privilege of working with the following great team of researchers:
 {% endfor %}
 </div>
 
+</div>
 
 ## Alumni
 
