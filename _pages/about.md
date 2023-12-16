@@ -23,14 +23,14 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
+* I was recently awarded an EPSRC New Investigator Award on ["Transfer Learning for Monte Carlo Methods"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y022300/1) (EP/Y022300/1), and an EPSRC small grant in the mathematical sciences for research on ["Robust Foundations for Bayesian Inference"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) (EP/Y011805/1).
+  
 * I was recently awarded a [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) by the International Society on Bayesian Analysis. This award "aims at recognizing outstanding junior Bayesian researchers based on their overall contribution to the field and to the community".
 
 * I have now joined the [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/publications/journals/siam-asa-journal-on-uncertainty-quantification-juq) as an Associate Editor, and [AISTATS](http://aistats.org/aistats2024/index.html) as an Area Chair.
 
 * I am looking to recruit a PhD student for the academic year 2024-25. Please have a look at [this page](https://fxbriol.github.io/supervision/) for further details, then feel free to get in touch directly via email.
 
-* I recently appeared in the ["Machine and Molecules"](https://youtu.be/fv4JvSo44QA?feature=shared) podcast where I discuss my broad interest in robustness to model misspecification, how I got started with research, and the ongoing work of my research group at UCL.
 
-* I was recently awarded an EPSRC New Investigator Award on ["Transfer Learning for Monte Carlo Methods"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y022300/1) (EP/Y022300/1), and an EPSRC small grant in the mathematical sciences for research on ["Robust Foundations for Bayesian Inference"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) (EP/Y011805/1).
 
 
