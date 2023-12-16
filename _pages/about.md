@@ -31,6 +31,6 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 * I recently appeared in the ["Machine and Molecules"](https://youtu.be/fv4JvSo44QA?feature=shared) podcast where I discuss my broad interest in robustness to model misspecification, how I got started with research, and the ongoing work of my research group at UCL.
 
-* I was recently awarded an EPSRC New Investigator Award on "Transfer Learning for Monte Carlo Methods" (EP/Y022300/1), and an EPSRC small grant in the mathematical sciences for research on ["Robust Foundations for Bayesian Inference"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) (EP/Y011805/1).
+* I was recently awarded an EPSRC New Investigator Award on ["Transfer Learning for Monte Carlo Methods"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y022300/1) (EP/Y022300/1), and an EPSRC small grant in the mathematical sciences for research on ["Robust Foundations for Bayesian Inference"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) (EP/Y011805/1).
 
 
