@@ -8,7 +8,7 @@ author_profile: true
 
 * 1st-6th September 2024 - Talk - [***Workshop on "Frontiers of Bayesian Inference and Data Science"***](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa Matemática Oaxaca (Oaxaca, Mexico).
 * 9th-11th April 2024 - Talk - ***Masterclass on Stein's Method as a Computational Tool***, Lancaster University (Lancaster, UK). Delivering two-day masterclass for the STOR-i centre for doctoral training.
-* 25th-28th March 2024 - Talk - ***Workshop on Functional Inference and Machine Intelligence (FIMI)***, University of Bristol (Bristol, UK). 
+* 25th-28th March 2024 - Talk - [***Workshop on Functional Inference and Machine Intelligence (FIMI)***](https://ismseminar.github.io/fimi2024/), University of Bristol (Bristol, UK). 
 
 ### 2023
 
