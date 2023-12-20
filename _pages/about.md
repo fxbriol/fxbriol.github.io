@@ -10,9 +10,7 @@ redirect_from:
 
 ## About
 
-I am an Associate Professor in the Department of Statistical Science at [University College London](https://www.ucl.ac.uk/statistics/). I am also a Group Leader at [The Alan Turing Institute](https://www.turing.ac.uk/), the UK's national institute for Data Science and AI, where I am affiliated to the [Data-Centric Engineering programme](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering#introduction). There, I lead research on the [Fundamentals of Statistical Machine Learning](https://www.turing.ac.uk/research/research-projects/fundamentals-statistical-machine-learning).
-
-My research focuses on building statistical and machine learning methods which enable the use of large-scale models in the physical, environmental and engineering sciences. I am keen to develop methods to merge large-scale models with data, focusing on both robustness to model misspecification and making use of the structure of these complex models to vastly reduce the scale of the associated computational challenges. 
+I am an Associate Professor in the Department of Statistical Science at [University College London](https://www.ucl.ac.uk/statistics/). My research focuses on building statistical and machine learning methods which enable the use of large-scale models in the physical, environmental and engineering sciences. I am keen to develop methods to merge large-scale models with data, focusing on both robustness to model misspecification and making use of the structure of these complex models to vastly reduce the scale of the associated computational challenges. 
 
 My work has been recognised through a Blackwell-Rosenbluth Award, a Best Paper Award at AISTATS, oral presentations at ICML, AISTATS and UAI, a 'discussion paper' in the journal Statistical Science, and an honorary mention for the Savage Award. My students have also received a number of student paper awards from the American Statistical Association and the International Society for Bayesian Analysis. Finally, my work has been funded through several EPSRC grants and an Amazon Research Award.
 
