@@ -7,7 +7,7 @@ author_profile: true
 ### 2024
 
 * 1st-6th September 2024 - Talk - [***Workshop on "Frontiers of Bayesian Inference and Data Science"***](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa Matemática Oaxaca (Oaxaca, Mexico).
-* 1st-7th July 2024 - Talk - ***ISBA World Meeting*** (Venice, Italy).
+* 1st-7th July 2024 - Talk - [***ISBA World Meeting***](https://www.unive.it/web/en/2208/home) (Venice, Italy).
 * 9th-11th April 2024 - Talk - ***Masterclass on Stein's Method as a Computational Tool***, Lancaster University (Lancaster, UK). Delivering two-day masterclass for the STOR-i centre for doctoral training.
 * 25th-27th March 2024 - Talk - [***Workshop on Functional Inference and Machine Intelligence (FIMI)***](https://ismseminar.github.io/fimi2024/), University of Bristol (Bristol, UK). 
 
