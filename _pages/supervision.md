@@ -10,6 +10,8 @@ The favourite part of my job is to supervise research projects and I supervise o
 
 I am looking to recruit one PhD student starting in Autumn 2024. 
 
+***[Update: The deadline for international studentships has now passed and I am therefore not able to support any more applications from international students. However, if you qualify for UK studentships (e.g. British citizen, or have lived in the UK for long enough) then feel free to still get in touch.]***
+
 **What I am looking for:** 
 I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. Beyond this, what I value most is students who are driven and passionate about their work.
 
