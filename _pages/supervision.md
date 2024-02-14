@@ -8,7 +8,7 @@ The favourite part of my job is to supervise research projects and I supervise o
 
 ## PhD Students
 
-I am looking to recruit one PhD student starting in Autumn 2024. 
+I am looking to recruit a PhD student starting in Autumn 2024. 
 
 ***[Update: The deadline for international studentships has now passed and I am therefore not able to support any more applications from international students. However, if you qualify for UK studentships (e.g. British citizen, or have lived in the UK for long enough) then feel free to still get in touch.]***
 
@@ -21,12 +21,7 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 **Application process:** I can supervise PhD students at UCL through a number of routes. One important point is that applications for PhD positions are often separate from applications for scholarships. In those cases, you will usually have to submit two types of applications, one for admission to UCL and the other for funding. Here are a few of the main [funding routes](https://fxbriol.github.io/supervision/funding/) to consider. If you get in touch with me about an application, I am happy to help you navigate this.
 
-**Project ideas:** Below are some possible project ideas, which would be suitable for co-supervision with some of my colleagues. However, I am happy to supervise on any of the topics related to my current research and you do not need to contact me about these specific projects if you find something else interesting.
-* [Defining and Measuring Robustness in Bayesian Machine Learning - with Dr Jeremias Knoblauch](https://ucl-epsrc-dtp.github.io/2024-25-project-catalogue/projects/2228cd1424.html)
-* [Model Selection for Large Scientific Simulators - with Dr Purvasha Chakrabarti](https://ucl-epsrc-dtp.github.io/2024-25-project-catalogue/projects/2228cd1432.html)
-
 ## Postdoctoral Researchers
-
 I will soon be advertising two positions for postdoctoral researchers:
 * **Position 1:** Research on an EPSRC-funded project on 'Transfer learning for Monte Carlo methods'. This will be a position for up to 3 years to work with me, and I will be looking for someone with expertise in any of the following: Monte Carlo methods, Gaussian processes, kernel methods, information-based complexity.
 * **Position 2:** Research on a UKRI-funded project to design a 'Digital twins handbook'. This will be a position for 2 years and the project is together with colleagues in Engineering and Biology at UCL. The project lead is [Prof. Andrea Townsend-Nicholson](https://www.ucl.ac.uk/biosciences/people/townsend-nicholson-andrea), and the other co-Is are [Dr. Claire Ellul](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-claire-ellul), [Dr. Tim Hillel](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-tim-hillel), and [Prof. Dimitrios Rovas](https://www.ucl.ac.uk/bartlett/environmental-design/dr-dimitrios-rovas).
