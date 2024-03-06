@@ -28,4 +28,6 @@ I will soon be advertising two positions for postdoctoral researchers:
 
 ***[Update: I will not have capacity to take on any BSc/MSc students before Autumn 2025.]***
 
-I typically supervise BSc students from the BSc Statistics, and MSc students through the MSc Statistics and MSc Data Science programmes, all at UCL. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. Unfortunately I am not able to supervise any other BSc or MSc projects at this time (whether at UCL or not). I am also not able to welcome research interns at BSc/MSc level from other universities.
+I typically supervise BSc students from the BSc Statistics, and MSc students through the MSc Statistics and MSc Data Science programmes, all at UCL. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. 
+
+Unfortunately I am not able to supervise any other BSc or MSc projects at this time (whether in other departments at UCL or not). I am also not able to welcome research interns at BSc/MSc level from other universities. I will therefore not answer any email enquiries about this.
