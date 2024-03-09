@@ -27,8 +27,5 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 * I have now joined the [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/publications/journals/siam-asa-journal-on-uncertainty-quantification-juq) as an Associate Editor, and [AISTATS](http://aistats.org/aistats2024/index.html) as an Area Chair.
 
-* I am looking to recruit a PhD student for the academic year 2024-25. Please have a look at [this page](https://fxbriol.github.io/supervision/) for further details, then feel free to get in touch directly via email.
-
-
 
 
