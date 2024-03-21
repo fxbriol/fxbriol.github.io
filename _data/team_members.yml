@@ -39,8 +39,16 @@
   
 - name: Matias Altamirano Montero
   photo: matias.jpg
-  info: Matias is a PhD Student in Statistical Science at UCL, and his research focuses on robust Bayesian inference. He started his PhD in Autumn 2022. Matias is jointly supervised by myself and Dr. Jeremias Knoblauch.
+  info: Matias is a PhD Student in Statistical Science at UCL, and his research focuses on conjugacy in generalised Bayesian inference. He started his PhD in Autumn 2022. Matias is jointly supervised by myself and Dr. Jeremias Knoblauch.
   email: matias.altamirano.22@ucl.ac.uk
   website: https://maltamiranomontero.github.io
   number_educ: 0
   education1: Prior to starting his PhD, Matias was an MSc student at Universidad de Chile.
+
+- name: Iman Simo Dzumgang
+  photo: Iman.jpg
+  info: Iman is a PhD Student in Statistical Science at UCL, and her research focuses on robust Bayesian inference. She started he PhD in Autumn 2023. Iman is jointly supervised by myself and Dr. Jeremias Knoblauch.
+  email: i.dzumgang@ucl.ac.uk
+  website: https://www.linkedin.com/in/iman-simo-dzumgang-96365a254/
+  number_educ: 0
+  education1: Prior to starting her PhD, Iman was a BSc student at the University of Cambridge.
