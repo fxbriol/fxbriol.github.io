@@ -6,7 +6,7 @@ author_profile: true
 
 ## Alumni
 
-  * [Zhuo Sun](https://jz-fun.github.io). PhD on "Transfer Learning in Monte Carlo and Beyond" (2019-2023). 
+  * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer Learning in Monte Carlo and Beyond" (2019-2023). 
 
 ## Current Members
 
