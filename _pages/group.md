@@ -6,7 +6,8 @@ author_profile: true
 
 ## Alumni
 
-  * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer Learning in Monte Carlo and Beyond" (2019-2023). 
+  * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023).
+  * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD on "Multilevel Gaussian processes and tsunami modelling" (2019,2024).
 
 ## Current Members
 
