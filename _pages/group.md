@@ -6,8 +6,7 @@ author_profile: true
 
 ## Alumni
 
-  * Dr Zhuo Sun. PhD on "Transfer Learning in Monte Carlo and Beyond" (2019-2023). I was his first supervisor and his second supervisor was Prof. Jinghao Xue. More details available on his website: https://jz-fun.github.io
-<br/>
+  * [Zhuo Sun](https://jz-fun.github.io). PhD on "Transfer Learning in Monte Carlo and Beyond" (2019-2023). 
 
 ## Current Members
 
