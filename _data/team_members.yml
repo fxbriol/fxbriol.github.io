@@ -1,11 +1,3 @@
-- name: Kaiyu Li
-  photo: kaiyu_li_close.jpeg
-  info: Kaiyu is a PhD student in Statistical Science at UCL, and her research focuses on Gaussian processes and tsunami modelling. She started her PhD in Autumn 2019; her first supervisor is Prof. Serge Guillas, and I am her second supervisor. 
-  email: kaiyu.li.19@ucl.ac.uk
-  website: https://ceciliakaiyu.github.io
-  number_educ: 0
-  education1: Prior to joining UCL, Kaiyu was an MSc student at Imperial College London.
-
 - name: Oscar Key
   photo: Oscar_Key_cropped.jpg
   info: Oscar is a PhD student on the Foundational AI CDT at UCL. He has varied research interests ranging from kernel-based hypothesis testing to software and algorithm design for large language models. He started his PhD in Autumn 2020 and his second supervisor is Prof. Marc Deisenroth. 
