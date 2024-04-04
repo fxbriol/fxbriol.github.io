@@ -10,7 +10,7 @@ author_profile: true
 * 18th-23rd August 2024 - Talk - [***MCQMC 2024***](https://uwaterloo.ca/monte-carlo-methods-scientific-computing-conference/), University of Waterloo. Session on 'Learning to solve related integrals' (Waterloo, Canada).
 * 1st-7th July 2024 - Talk - [***ISBA World Meeting***](https://www.unive.it/web/en/2208/home) (Venice, Italy).
 * 31st May 2024 - Talk - ***University of Warwick***, Warwick Machine Learning Group seminar (Coventry, UK). 
-* 9th-11th April 2024 - Talk - ***Masterclass on Stein's Method as a Computational Tool***, Lancaster University (Lancaster, UK). Delivering two-day masterclass for the STOR-i centre for doctoral training.
+* 9th-11th April 2024 - Talk - ***Masterclass on Stein's Method as a Computational Tool***, Lancaster University (Lancaster, UK). Delivering three-day masterclass for the STOR-i centre for doctoral training.
 * 25th-27th March 2024 - Talk - [***Workshop on Functional Inference and Machine Intelligence (FIMI)***](https://ismseminar.github.io/fimi2024/), University of Bristol (Bristol, UK). 
 
 ### 2023
