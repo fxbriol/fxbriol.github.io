@@ -4,6 +4,8 @@ permalink: /group/
 author_profile: true
 ---
 
+I am a co-lead of the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) research group within UCL Statistical Science. 
+
 ## Alumni
 
   * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023).
