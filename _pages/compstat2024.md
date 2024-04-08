@@ -25,6 +25,6 @@ The "Computational Statistics Theme Day" is a whole-day internal event for the m
 *14:30-15:00*	- Talk by Ioanna Manolopoulou \
 *15:00-15:30*	- Talk by F-X Briol \
 *15:30-16:00*	- Break \
-*16:00-17:00*	- Talk by Jeremias Knoblauch
-*16:30-17:00*	- Talk by Javier Rubio
+*16:00-17:00*	- Talk by Jeremias Knoblauch \
+*16:30-17:00*	- Talk by Javier Rubio \
 *17:00-onwards* - Pub trip at [TCR](https://bartcr.com). (Table reserved under F-X Briol).
