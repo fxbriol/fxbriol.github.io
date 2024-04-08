@@ -2,9 +2,7 @@
 permalink: /
 title: ""
 excerpt: "Computational Statistics Theme Day"
-author_profile: true
 redirect_from: 
-  - /ComputationalStatisticsThemeDay/
 ---
 
 # Computational Statistics Theme Day
