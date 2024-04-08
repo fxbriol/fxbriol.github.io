@@ -5,11 +5,11 @@ excerpt: "Computational Statistics Theme Day"
 redirect_from: 
 ---
 
-# Computational Statistics Theme Day
+# Computational Statistics Theme Day 2024
 
 The "Computational Statistics Theme Day" is a whole-day internal event for the members of the Computational Statistics theme at UCL Statistical Science. The aim of the event is to get everyone together to discuss exciting research directions in the department.
 
-**When/where:** The event will take place on **Tuesday 23rd April* in *room 102 at 1-19 Torrington Place**.
+**When/where:** The event will take place on **Tuesday 23rd April 2024** in **room 102 at 1-19 Torrington Place**.
 
 ### Schedule
 
