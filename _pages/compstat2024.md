@@ -13,7 +13,7 @@ The "Computational Statistics Theme Day" is a whole-day internal event for the m
 
 **Schedule:**
 
-*09:00-09:30* - Welcome
+*09:00-09:30* - Welcome \\
 *09:30-10:30* -	Talk by Petros Dellaportas
 *10:00-10:30* -	Talk by Sam Livingstone
 *10:30-11:00*	- Break
