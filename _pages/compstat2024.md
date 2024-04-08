@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /compstat2024
 title: ""
 excerpt: "Computational Statistics Theme Day"
 redirect_from: 
