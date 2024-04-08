@@ -9,7 +9,7 @@ redirect_from:
 
 The "Computational Statistics Theme Day" is a whole-day internal event for the members of the Computational Statistics theme at UCL Statistical Science. The aim of the event is to get everyone together to discuss exciting research directions in the department.
 
-**When/where:** The event will take place on *Tuesday 23rd April in room 102 at 1-19 Torrington Place*.
+**When/where:** The event will take place on **Tuesday 23rd April in room 102 at 1-19 Torrington Place**.
 
 ### Schedule
 
@@ -28,3 +28,5 @@ The "Computational Statistics Theme Day" is a whole-day internal event for the m
 *16:00-17:00*	- Talk by Jeremias Knoblauch \
 *16:30-17:00*	- Talk by Javier Rubio \
 *17:00-onwards* - Pub trip at [TCR](https://bartcr.com). (Table reserved under F-X Briol).
+
+### Titles and abstracts
