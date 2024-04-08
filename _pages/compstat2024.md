@@ -21,7 +21,7 @@ The "Computational Statistics Theme Day" is a whole-day internal event for the m
 
 *11:00-11:30* - Talk by Giampiero Marra \
 *11:30-12:30*	- Talk by Alex Beskos \
-*12:00-12:30* - Talk by Karla Ordaz \
+*12:00-12:30* - Talk by Karla Ordaz 
 
 *12:30-13:30* - Lunch break \
 *13:30-14:30*	- Poster session 
