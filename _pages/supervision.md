@@ -19,10 +19,9 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 **Application process:** I can supervise PhD students at UCL through a number of routes. One important point is that applications for PhD positions are often separate from applications for scholarships. In those cases, you will usually have to submit two types of applications, one for admission to UCL and the other for funding. Here are a few of the main [funding routes](https://fxbriol.github.io/supervision/funding/) to consider. If you get in touch with me about an application, I am happy to help you navigate this.
 
-## Postdoctoral Researchers
-I will soon be advertising two positions for postdoctoral researchers:
-* **Position 1:** Research on an EPSRC-funded project on 'Transfer learning for Monte Carlo methods'. This will be a position for up to 2 years to work with me, and I will be looking for someone with expertise in any of the following: Monte Carlo methods, Gaussian processes, kernel methods, information-based complexity.
-* **Position 2:** Research on a UKRI-funded project to design a 'Digital twins handbook'. This will be a position for 2 years and the project is together with colleagues in Engineering and Biology at UCL. The project lead is [Prof. Andrea Townsend-Nicholson](https://www.ucl.ac.uk/biosciences/people/townsend-nicholson-andrea), and the other co-Is are [Dr. Claire Ellul](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-claire-ellul), [Dr. Tim Hillel](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-tim-hillel), and [Prof. Dimitrios Rovas](https://www.ucl.ac.uk/bartlett/environmental-design/dr-dimitrios-rovas). We will be looking for someone with expertise on science communication or policy, with an interest in digital twins.
+## Post-PhD
+
+I will soon be advertising a position through a UKRI-funded project to design a 'Digital twins handbook'. This will be a position for 2 years and the project is together with colleagues in Engineering and Biology at UCL. The project lead is [Prof. Andrea Townsend-Nicholson](https://www.ucl.ac.uk/biosciences/people/townsend-nicholson-andrea), and the other co-Is are [Dr. Claire Ellul](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-claire-ellul), [Dr. Tim Hillel](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-tim-hillel), and [Prof. Dimitrios Rovas](https://www.ucl.ac.uk/bartlett/environmental-design/dr-dimitrios-rovas). We will be looking for someone with expertise on science communication or policy, with an interest in digital twins.
 
 ## BSc and MSc Students
 
