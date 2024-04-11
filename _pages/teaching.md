@@ -11,3 +11,6 @@ At UCL, I teach mostly at the 3rd year BSc or MSc level including:
 * Tutorials for STAT0005 *Probability & Inference* (Autumn 2019 & 2021).
 
 I also regularly supervise BSc and MSc students for their dissertation at UCL, mainly through STAT0034/STAT0035/STAT0036. See the [Supervision](https://fxbriol.github.io/supervision/) page for more details.
+
+Beyond this, I also regularly teach PhD-level research courses; e.g.:
+* "Masterclass on Stein's method as a computational tool" [*slides*](https://fxbriol.github.io/pdfs/fxbriol_Stein_slides.pdf). STOR-i centre for doctoral training at Lancaster University.
