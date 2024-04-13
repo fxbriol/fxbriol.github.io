@@ -14,13 +14,13 @@ The "Computational Statistics Theme Day" is a whole-day internal event for the m
 ### Schedule
 
 *09:00-09:30* - Welcome \
-*09:30-10:30* -	Talk by Petros Dellaportas \
+*09:30-10:00* - Talk by Petros Dellaportas \
 *10:00-10:30* -	Talk by Sam Livingstone 
 
 *10:30-11:00*	- Break
 
 *11:00-11:30* - Talk by Giampiero Marra \
-*11:30-12:30*	- Talk by Karla Diaz Ordaz \
+*11:30-12:00*	- Talk by Karla Diaz Ordaz \
 *12:00-12:30* -  Talk by Alex Beskos 
 
 *12:30-13:30* - Lunch break \
@@ -31,8 +31,8 @@ The "Computational Statistics Theme Day" is a whole-day internal event for the m
 
 *15:30-16:00*	- Break 
 
-*16:00-17:00*	- Talk by Jeremias Knoblauch \
-*16:30-17:00*	- Talk by Javier Rubio 
+*16:00-16:30*	- Talk by Javier Rubio \
+*16:30-17:00*	- Talk by Jeremias Knoblauch 
 
 *17:00-onwards* - Pub trip at [TCR](https://bartcr.com). (Table reserved under F-X Briol).
 
