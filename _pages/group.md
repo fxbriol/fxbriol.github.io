@@ -8,7 +8,7 @@ I am a co-lead of the [Fundamentals of Statistical Machine Learning](https://fsm
 
 ## Alumni
 
-  * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023).
+  * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023). Now AI Research Scientist at Huawei.
   * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD on "Multilevel Gaussian processes and tsunami modelling" (2019-2024).
 
 ## Current Members
