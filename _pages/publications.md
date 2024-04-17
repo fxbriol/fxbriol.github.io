@@ -12,7 +12,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and conjugate Gaussian process regression*. arXiv:2311.00463. [(***Preprint***)](https://arxiv.org/abs/2311.00463)
+* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and conjugate Gaussian process regression*. arXiv:2311.00463. [(***Preprint***)](https://arxiv.org/abs/2311.00463) [(***Code***)](https://github.com/maltamiranomontero/RCGP)
 * Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). *Composite goodness-of-fit tests with kernels*. arXiv.2111.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
