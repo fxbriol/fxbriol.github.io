@@ -67,7 +67,7 @@ Abstract: Assume that we would like to estimate the expected value of a function
 *Abstract:* In this talk I'll give an overview of one stream of my research over the past decade and into the future. I will briefly cover 3 separate but connected works. The first concerns modelling binary data which have been observed with inhomogeneous (and unknown) label noise. The second relates to observing a point process through an non-uniform (and unknown) observation model. The third is in causal inference of heterogeneous treatment effects, where the treatment allocation process is unknown. All these models share a important aspect: they are only partially identifiable. Typical Bayesian solutions  address this be resolving the identifiability issue through a prior distribution. However, these prior distributions are not always transparent in their knock-on effects on posterior distributions of parameters, and may artificially shrink posterior uncertainty. More recently, modular and semi-modular priors have been proposed in the literature to alleviate these issues. I'd like to explore how heterogeneous noise models are connected to adaptive semi-modular models, and how these techniques can be used most effectively within partially identified models. 
 
 *Speaker:* **Giampiero Marra** \
-*Title:* Estimating the causal effect of a binary treatment on a survival outcome via a distributional regression spline model \
+*Title:* A Causal Transformation Model for Survival Data Affected by Unobserved Confounding \
 *Abstract:* TBC
 
 *Speaker:* **Javier Rubio Alvarez**\
