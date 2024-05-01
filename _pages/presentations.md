@@ -14,7 +14,7 @@ author_profile: true
 * 31st May 2024 - Talk - ***University of Warwick***, Warwick Machine Learning Group seminar (Coventry, UK).
 * 23rd April 2024 - Talk - ***University College London***, Computational Statistics Theme day, Department of Statistical Science (London, UK).
 * 11th April 2024 - Talk ***Lancaster University***, Department of Mathematics and Statistics. [Computational Statistics and Machine Learning Seminar](https://lu-csml.github.io/) (Lancaster, UK).
-* 9th-11th April 2024 - Talk - ***STOR-i Masterclass*** on "Stein's Method as a Computational Tool", Lancaster University (Lancaster, UK). Delivering three-day masterclass for the STOR-i centre for doctoral training.
+* 9th-11th April 2024 - Talk - [***STOR-i Masterclass*** on "Stein's Method as a Computational Tool"](https://www.lancaster.ac.uk/stor-i/about-us/events/masterclass-3-dr-francois-xavier-briol-university-college-london-2024-04-09-09-00/), Lancaster University (Lancaster, UK). Delivering three-day masterclass for the STOR-i centre for doctoral training.
 * 25th-27th March 2024 - Talk - [***Workshop on Functional Inference and Machine Intelligence (FIMI)***](https://ismseminar.github.io/fimi2024/), University of Bristol (Bristol, UK). 
 
 ### 2023
