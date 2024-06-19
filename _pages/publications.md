@@ -22,6 +22,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 * Duran-Martin, G., Altamirano, M., Shestopaloff, A. Y., Sanchez-Betancourt, L., Knoblauch, J., Jones, M., ***Briol, F-X.*** & Murphy, K. (2024). *Outlier-robust Kalman filtering through generalised Bayes*. arXiv:2405.05646. Accepted for publication at ICML 2024. [(***Preprint***)](https://arxiv.org/abs/2405.05646) [(***Code***)](https://github.com/gerdm/weighted-likelihood-filter)
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2024). *Robust and conjugate Gaussian process regression*. arXiv:2311.00463. Accepted for publication at ICML 2024. [(***Preprint***)](https://arxiv.org/abs/2311.00463) [(***Code***)](https://github.com/maltamiranomontero/RCGP)
+	* This paper was accepted as a spotlight paper (top 3.5% of papers).
   
 * Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2024). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100. Accepted (subject to minor revisions) at the Journal of Machine Learning Research. [(***Preprint***)](https://arxiv.org/abs/2112.02100)
 	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
