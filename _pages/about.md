@@ -21,6 +21,8 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
+* Our paper on [Robust and Conjugate Gaussian Process Regression](https://arxiv.org/abs/2311.00463) was accepted as a spotlight at ICML!
+
 * I was recently awarded an EPSRC New Investigator Award on ["Transfer Learning for Monte Carlo Methods"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y022300/1) (EP/Y022300/1), and an EPSRC small grant in the mathematical sciences for research on ["Robust Foundations for Bayesian Inference"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) (EP/Y011805/1).
   
 * I was recently awarded a [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) by the International Society on Bayesian Analysis. This award "aims at recognizing outstanding junior Bayesian researchers based on their overall contribution to the field and to the community".
