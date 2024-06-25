@@ -20,7 +20,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 ## Published Papers
 
-* Chen, Z., Naslydnik, M., Gretton, A. & ***Briol, F-X.*** (2024). *Conditional Bayesian quadrature*. Uncertainty in Artificial Intelligence. [(***Conference***)](https://openreview.net/pdf?id=x1YfB33Hj6) [(***Code***)](https://github.com/hudsonchen/CBQ)
+* Chen, Z., Naslydnik, M., Gretton, A. & ***Briol, F-X.*** (2024). *Conditional Bayesian quadrature*. Uncertainty in Artificial Intelligence. [(***Conference***)](https://openreview.net/pdf?id=x1YfB33Hj6) [(***Preprint***)](https://arxiv.org/abs/2406.16530) [(***Code***)](https://github.com/hudsonchen/CBQ)
 
 * Duran-Martin, G., Altamirano, M., Shestopaloff, A. Y., Sanchez-Betancourt, L., Knoblauch, J., Jones, M., ***Briol, F-X.*** & Murphy, K. (2024). *Outlier-robust Kalman filtering through generalised Bayes*. arXiv:2405.05646. Accepted for publication at ICML 2024. [(***Preprint***)](https://arxiv.org/abs/2405.05646) [(***Code***)](https://github.com/gerdm/weighted-likelihood-filter)
 
