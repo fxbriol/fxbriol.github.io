@@ -8,7 +8,7 @@ author_profile: true
 
 * 1st-6th September 2024 - Talk - [***Workshop on "Frontiers of Bayesian Inference and Data Science"***](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa Matemática Oaxaca (Oaxaca, Mexico).
 * 18th-23rd August 2024 - Talk - [***MCQMC 2024***](https://uwaterloo.ca/monte-carlo-methods-scientific-computing-conference/), University of Waterloo. Session on 'Learning to solve related integrals' (Waterloo, Canada).
-* 15-17th July 2024 - Talk - ProbNum2024 (London, UK).
+* 15-17th July 2024 - Talk - ***ProbNum2024*** (London, UK).
 * 1st-7th July 2024 - Talk - [***ISBA World Meeting***](https://www.unive.it/web/en/2208/home) (Venice, Italy).
 * 7th June 2024 - Talk - ***The Institute for Statistical Mathematics*** (Tokyo, Japan).
 * 6th June 2024 - Talk - ***RIKEN Center for Advanced Intelligence Project*** (Tokyo, Japan).
