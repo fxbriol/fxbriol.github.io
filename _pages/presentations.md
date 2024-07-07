@@ -12,7 +12,7 @@ author_profile: true
 * 15-17th July 2024 - Talk - [***ProbNum2024***](https://probnum24.github.io) (London, UK).
 * 1st-7th July 2024 - Talk - [***ISBA World Meeting***](https://www.unive.it/web/en/2208/home), Session on 'Gaussian Processes' (Venice, Italy).
 * 7th June 2024 - Talk - ***The Institute for Statistical Mathematics***, Statistical Machine Learning seminar (Tokyo, Japan).
-* 6th June 2024 - Talk - ***RIKEN Center for Advanced Intelligence Project*** (Tokyo, Japan).
+* 6th June 2024 - Talk - ***RIKEN Center for Advanced Intelligence Project***, Seminar (Tokyo, Japan).
 * 31st May 2024 - Talk - ***University of Warwick***, [Foundations of AI seminar](https://faiseminarswarwick.github.io) (Coventry, UK).
 * 23rd April 2024 - Talk - ***University College London***, Computational Statistics Theme day, Department of Statistical Science (London, UK).
 * 11th April 2024 - Talk ***Lancaster University***, Department of Mathematics and Statistics. [Computational Statistics and Machine Learning Seminar](https://lu-csml.github.io/) (Lancaster, UK).
