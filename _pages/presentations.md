@@ -6,13 +6,14 @@ author_profile: true
 
 ### 2024
 
+* 28th November 2024 - Talk - ***ESSEC Business School***, [Data Analytics seminar](https://isds-department.essec.edu/research/research-seminars/data-analytics) (Cergy, France).
 * 1st-6th September 2024 - Talk - [***Workshop on "Frontiers of Bayesian Inference and Data Science"***](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa Matemática Oaxaca (Oaxaca, Mexico).
 * 18th-23rd August 2024 - Talk - [***MCQMC 2024***](https://uwaterloo.ca/monte-carlo-methods-scientific-computing-conference/), University of Waterloo. Session on 'Learning to solve related integrals' (Waterloo, Canada).
 * 15-17th July 2024 - Talk - [***ProbNum2024***](https://probnum24.github.io) (London, UK).
-* 1st-7th July 2024 - Talk - [***ISBA World Meeting***](https://www.unive.it/web/en/2208/home) (Venice, Italy).
-* 7th June 2024 - Talk - ***The Institute for Statistical Mathematics*** (Tokyo, Japan).
+* 1st-7th July 2024 - Talk - [***ISBA World Meeting***](https://www.unive.it/web/en/2208/home), Session on 'Gaussian Processes' (Venice, Italy).
+* 7th June 2024 - Talk - ***The Institute for Statistical Mathematics***, Statistical Machine Learning seminar (Tokyo, Japan).
 * 6th June 2024 - Talk - ***RIKEN Center for Advanced Intelligence Project*** (Tokyo, Japan).
-* 31st May 2024 - Talk - ***University of Warwick***, Warwick Machine Learning Group seminar (Coventry, UK).
+* 31st May 2024 - Talk - ***University of Warwick***, [Foundations of AI seminar](https://faiseminarswarwick.github.io) (Coventry, UK).
 * 23rd April 2024 - Talk - ***University College London***, Computational Statistics Theme day, Department of Statistical Science (London, UK).
 * 11th April 2024 - Talk ***Lancaster University***, Department of Mathematics and Statistics. [Computational Statistics and Machine Learning Seminar](https://lu-csml.github.io/) (Lancaster, UK).
 * 9th-11th April 2024 - Talk - [***STOR-i Masterclass*** on "Stein's Method as a Computational Tool"](https://www.lancaster.ac.uk/stor-i/about-us/events/masterclass-3-dr-francois-xavier-briol-university-college-london-2024-04-09-09-00/), Lancaster University (Lancaster, UK). Delivering three-day masterclass for the STOR-i centre for doctoral training.
