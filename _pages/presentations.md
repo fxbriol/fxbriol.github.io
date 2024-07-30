@@ -4,10 +4,15 @@ permalink: /presentations/
 author_profile: true
 ---
 
+
+### 2025
+
+* 28th February 2025 - Talk - ***University of Bristol***, Statistics seminar series (Bristol, UK).
+
 ### 2024
 
 * 28th November 2024 - Talk - ***ESSEC Business School***, [Data Analytics seminar](https://isds-department.essec.edu/research/research-seminars/data-analytics) (Cergy, France).
-* 1st-6th September 2024 - Talk - [***Workshop on "Frontiers of Bayesian Inference and Data Science"***](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa Matemática Oaxaca (Oaxaca, Mexico).
+* 1st-6th September 2024 - Talk - [***Workshop on "Frontiers of Bayesian Inference and Data Science"***](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa Matemática Oaxaca (online).
 * 18th-23rd August 2024 - Talk - [***MCQMC 2024***](https://uwaterloo.ca/monte-carlo-methods-scientific-computing-conference/), University of Waterloo. Session on 'Learning to solve related integrals' (Waterloo, Canada).
 * 15-17th July 2024 - Talk - [***ProbNum2024***](https://probnum24.github.io) (London, UK).
 * 1st-7th July 2024 - Talk - [***ISBA World Meeting***](https://www.unive.it/web/en/2208/home), Session on 'Gaussian Processes' (Venice, Italy).
