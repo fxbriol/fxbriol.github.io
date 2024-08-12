@@ -15,7 +15,7 @@ The term *intractable model* is a general term encompassing all models for which
 
 My work in this area focuses on developing novel methodology for inference with intractable models which have several desirable properties. First, our algorithms should be robust in the sense that mild model misspecification or a few outliers should not have a disproportionate impact. This is particularly important when modelling complex phenomena because our models will ever be at best some reasonable idealisation of the underlying process. Second, the algorithm should be efficient in the sense that we obtain estimates which are as accurate as possible given the finite amount of data available. This is particularly important because collecting new data can be a costly process. Finally, the algorithms should be scalable and computationally efficient in the sense that they should be easy to implement and able to deal with large datasets or high-dimensional problems.
 
-For generative models, I have proposed and analysed novel estimators based on a family of distances called *maximum mean discrepancy* where specific instances can be chosen to balance the three desirable properties mentioned above:
+For simulator-based models, I have proposed and analysed novel estimators based on a family of distances called *maximum mean discrepancy* where specific instances can be chosen to balance the three desirable properties mentioned above:
 
 * ***Briol, F-X.***, Barp, A., Duncan, A. B., Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944) [(***Talk/Video***)](https://youtu.be/mm7bHjEzhow)
 
