@@ -38,7 +38,6 @@ My main contribution to answering this problem has been a series of papers which
 
 ## Funding
 
-Funding for this work was generously provided by Amazon through:
 * An **Amazon Research Award** for a project entitled *"Transfer Learning for Numerical Integration in Expensive Machine Learning Systems"*. See the following [Amazon announcement](https://www.amazon.science/blog/recipients-of-the-2019-amazon-research-awards-announced) and [UCL press release](https://www.ucl.ac.uk/mathematical-physical-sciences/news/2020/jul/ucl-statistical-science-lecturer-receives-2019-amazon-research-award) for more details.
 * An **EPSRC New Investigator Award** grant (EP/Y022300/1) on *"Transfer Learning for Monte Carlo Methods"*.
 
