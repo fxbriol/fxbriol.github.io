@@ -9,7 +9,7 @@ author_profile: true
 In statistics and machine learning, we typically develop probabilistic models which represent real-world phenomena. These models are at best mathematical idealisations of the real-world and are therefore limited by our understanding of the world. They will also inevitably contain approximations such as omitted variables, incorrect functional forms, or incorrect distributional assumptions. This is a particular concern in safety critical applications, such as medical diagnosis, self-driving cars, or the criminal justice system, where model misspecification can have a severe impact. As a result, it is necessary to develop *robust* methods which can perform reasonably well when models are mildly misspecified.
 
 <p align="center">
-  <img src="/images/robust-GP.png" alt="Robust Gaussian Process through Generalised Bayes" width="65%">
+  <img src="/images/robust-GP.png" alt="Robust Gaussian Process through Generalised Bayes" width="55%">
 </p>
 
 
@@ -35,7 +35,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 * Duran-Martin, G., Altamirano, M., Shestopaloff, A. Y., Sanchez-Betancourt, L., Knoblauch, J., Jones, M., ***Briol, F-X.*** & Murphy, K. (2024). *Outlier-robust Kalman filtering through generalised Bayes*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:12138-12171. [(***Conference***)](https://proceedings.mlr.press/v235/duran-martin24a.html) [(***Preprint***)](https://arxiv.org/abs/2405.05646) [(***Code***)](https://github.com/gerdm/weighted-likelihood-filter)
 
 <p align="center">
-  <img src="/images/wolf-IMQ.gif" alt="Robust Kalman Filter through Generalised Bayes" width="65%">
+  <img src="/images/wolf-IMQ.gif" alt="Robust Kalman Filter through Generalised Bayes" width="70%">
 </p>
 
 
