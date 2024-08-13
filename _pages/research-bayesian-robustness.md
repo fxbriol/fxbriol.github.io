@@ -25,11 +25,10 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:642-663. [(***Conference***)](https://proceedings.mlr.press/v202/altamirano23a.html) [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd) [(***Video***)](https://www.youtube.com/watch?v=exhkRsqq6HA)
 
-
-* Duran-Martin, G., Altamirano, M., Shestopaloff, A. Y., Sanchez-Betancourt, L., Knoblauch, J., Jones, M., ***Briol, F-X.*** & Murphy, K. (2024). *Outlier-robust Kalman filtering through generalised Bayes*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:12138-12171. [(***Conference***)](https://proceedings.mlr.press/v235/duran-martin24a.html) [(***Preprint***)](https://arxiv.org/abs/2405.05646) [(***Code***)](https://github.com/gerdm/weighted-likelihood-filter)
-
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2024). *Robust and conjugate Gaussian process regression*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:1155-1185. [(***Conference***)](https://proceedings.mlr.press/v235/altamirano24a.html) [(***Preprint***)](https://arxiv.org/abs/2311.00463) [(***Code***)](https://github.com/maltamiranomontero/RCGP)
 	* This paper was accepted as a spotlight paper (top 3.5% of submitted papers).
+
+* Duran-Martin, G., Altamirano, M., Shestopaloff, A. Y., Sanchez-Betancourt, L., Knoblauch, J., Jones, M., ***Briol, F-X.*** & Murphy, K. (2024). *Outlier-robust Kalman filtering through generalised Bayes*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:12138-12171. [(***Conference***)](https://proceedings.mlr.press/v235/duran-martin24a.html) [(***Preprint***)](https://arxiv.org/abs/2405.05646) [(***Code***)](https://github.com/gerdm/weighted-likelihood-filter)
 
 <p align="center">
   <img src="/images/wolf-IMQ.gif" alt="Robust Kalman Filter through Generalised Bayes" width="65%">
