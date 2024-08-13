@@ -33,7 +33,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
-Another line of work has been on taking existing Bayesian models and making them robust. There are many existing approaches to this, typically by modifying the likelihood, but this tends to break any computational advantages of these methods such as conjugacy. My work has therefore focused on developing Bayesian methods which are both robust and scalable:
+Another line of work has been on taking existing Bayesian models and making them robust. There are many existing approaches to this, typically by modifying the likelihood, but this tends to break any computational advantages of these methods such as conjugacy. My work has therefore focused on developing Bayesian methods which are both robust and scalable. Examples includes Gaussian process regression, Kalman filtering, and online changepoint detection:
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:642-663. [(***Conference***)](https://proceedings.mlr.press/v202/altamirano23a.html) [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd) [(***Video***)](https://www.youtube.com/watch?v=exhkRsqq6HA)
 
