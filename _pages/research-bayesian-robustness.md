@@ -17,6 +17,10 @@ Robustness is particularly important in Bayesian inference, since we would ultim
 
 ## Contributions to this field
 
+My contributions to this field have been on the development of novel Bayesian methods which are robust to mild misspecification. The main tool I have used is generalised Bayesian inference, which allows for updates from a prior distribution without necessarily being significantly impacted when the likelihood function is misspecified.
+
+One line of work has been on designing robust Bayesian methods for "intractable likelihood" models. In this case, we need updates which are both robust but also computationally feasible without direct access to evaluations of the likelihood:
+
 * Dellaporta, C., Knoblauch, J., Damoulas, T. ***Briol. F-X.*** (2022). *Robust Bayesian inference for simulator-based models via the MMD posterior bootstrap*. Proceedings of The 25th International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 151:943-970. [(***Conference***)](https://proceedings.mlr.press/v151/dellaporta22a.html) [(***Preprint***)](https://arxiv.org/abs/2202.04744) [(***Code***)](https://github.com/haritadell/npl_mmd_project.git) [(***Video***)](https://youtu.be/h4yWC-01oqQ)
 	* This paper received the [Best Paper Award](https://aistats.org/aistats2022/awards.html) at AISTATS 2022 (out of 1685 submissions and 492 accepted papers).
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
@@ -28,6 +32,8 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* This paper received a *Best Student/Postdoc Contributed Paper Award* at ISBA 2021.
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
+
+Another line of work has been on taking existing Bayesian models and making them robust. There are many existing approaches to this, typically by modifying the likelihood, but this tends to break any computational advantages of these methods such as conjugacy. My work has therefore focused on developing Bayesian methods which are both robust and scalable:
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:642-663. [(***Conference***)](https://proceedings.mlr.press/v202/altamirano23a.html) [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd) [(***Video***)](https://www.youtube.com/watch?v=exhkRsqq6HA)
 
