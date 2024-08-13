@@ -9,6 +9,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 * [Inference for intractable models](https://fxbriol.github.io/research/intractable-models/).
 * [Stein's method as a computational tool](https://fxbriol.github.io/research/Stein/).
 * [Transfer learning for Monte Carlo](https://fxbriol.github.io/research/multiple-integrals/).
+* [Robustness in Bayesian Statistics and Machine Learning](https://fxbriol.github.io/research/bayesian-robustness/)
 
 ## Preprints
 
