@@ -6,6 +6,8 @@ author_profile: true
 
 ## The problem
 
+In statistics and machine learning, we typically develop probabilistic models which represent real-world phenomena. These models are at best mathematical idealisations of the real-world and are therefore limited by our understanding of the world. They will also inevitably contain approximations such as omitted variables, incorrect functional forms, or incorrect distributional assumptions. This is a particular concern in safety critical applications, such as medical diagnosis, self-driving cars, or the criminal justice system, where model misspecification can have a severe impact. As a result, it is necessary to develop novel methods which can perform reasonably well when models are mildly misspecified.
+
 
 ## Contributions to this field
 
