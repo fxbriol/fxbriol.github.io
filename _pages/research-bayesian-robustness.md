@@ -8,6 +8,8 @@ author_profile: true
 
 In statistics and machine learning, we typically develop probabilistic models which represent real-world phenomena. These models are at best mathematical idealisations and are therefore limited by our understanding of the world. They will also inevitably contain approximations such as omitted variables, incorrect functional forms, or incorrect distributional assumptions. This is a particular concern in safety critical applications, such as medical diagnosis, self-driving cars, or the criminal justice system, where model misspecification can have a severe impact. As a result, it is necessary to develop *robust* methods which can perform reasonably well when models are mildly misspecified.
 
+Robustness is particularly important in Bayesian inference, since we would ultimately like to use Bayesian posterior distributions to represent our uncertainty about quantities of interest. But if the model is misspecified, not only will Bayesian methods return poor predictions, their posterior uncertainty will also become meaningless.
+
 <p align="center">
   <img src="/images/robust-GP.png" alt="Robust Gaussian Process through Generalised Bayes" width="55%">
 </p>
