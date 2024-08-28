@@ -7,6 +7,7 @@ author_profile: true
 
 ### 2025
 
+* 5th March 2025 - Talk - ***University of Manchester***, Seminar for Statistics, Quantification of Uncertainties, Inverse Problems and Data Science (Manchester, UK).
 * 28th February 2025 - Talk - ***University of Bristol***, Statistics seminar series (Bristol, UK).
 
 ### 2024
