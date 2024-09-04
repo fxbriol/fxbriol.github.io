@@ -8,7 +8,7 @@ The favourite part of my job is to supervise research projects and I supervise o
 
 ## PhD Students
 
-***[Update: Recruitement for 2024 start dates is now over. I will start recruiting for Autumn 2025 from September 2024 onwards. For those interested in a position for Autumn 2024, you may want to consider [this position](https://aalto.wd3.myworkdayjobs.com/aalto/job/Otaniemi-Espoo-Finland/Doctoral-Researcher-in-Statistical-Machine-Learning_R40167) at Aalto University, which includes funding for research visits with my group at UCL]***
+***[Update: Recruitement for 2024 start dates is now over. I will start recruiting for Autumn 2025 from October 2024 onwards.]***
 
 **What I am looking for:** 
 I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. Typical students in my group have achieved high grades in mathematics, statistics or computer science undergraduate and MSc programmes, and have previous research experience through a research thesis or summer research placements. I am also very happy to consider applicants with experience in industry. Beyond mathematical background and programming abilities, what I value most is students who are driven and passionate about their work.
