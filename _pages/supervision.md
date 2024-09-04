@@ -21,7 +21,7 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 ## Post-PhD
 
-I will soon be advertising a position through a UKRI-funded project to design a 'Digital twins handbook'. This will be a position for 2 years and the project is together with colleagues in Engineering and Biology at UCL. The project lead is [Prof. Andrea Townsend-Nicholson](https://www.ucl.ac.uk/biosciences/people/townsend-nicholson-andrea), and the other co-Is are [Dr. Claire Ellul](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-claire-ellul), [Dr. Tim Hillel](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-tim-hillel), and [Prof. Dimitrios Rovas](https://www.ucl.ac.uk/bartlett/environmental-design/dr-dimitrios-rovas). We will be looking for someone with expertise on science communication or policy, with an interest in digital twins.
+I do not currently have funding available for additional postdoctoral positions. If you are interested in applying for independent funding and would like to be based at UCL, do feel free to get in touch with me.
 
 ## BSc and MSc Students
 
