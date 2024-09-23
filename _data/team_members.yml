@@ -39,8 +39,16 @@
 
 - name: Iman Simo Dzumgang
   photo: Iman.jpg
-  info: Iman is a PhD Student in Statistical Science at UCL, and her research focuses on robust Bayesian inference. She started he PhD in Autumn 2023. Iman is jointly supervised by myself and Dr. Jeremias Knoblauch.
+  info: Iman is a PhD Student in Statistical Science at UCL, and her research focuses on robust Bayesian inference. She started her PhD in Autumn 2023. Iman is jointly supervised by myself and Dr. Jeremias Knoblauch.
   email: i.dzumgang@ucl.ac.uk
   website: https://www.linkedin.com/in/iman-simo-dzumgang-96365a254/
   number_educ: 0
   education1: Prior to starting her PhD, Iman was a BSc student at the University of Cambridge.
+
+- name: William Laplante
+  photo: William.jpg
+  info: William is a PhD Student on the Data-Intensive Science CDT at UCL, and his research focuses on robust Bayesian filtering. He started his PhD in Autumn 2024.
+  email: william.laplante.24@ucl.ac.uk
+  website: https://williamlaplante.github.io/
+  number_educ: 0
+  education1: Prior to starting his PhD, William studied at McGill and UBC.
