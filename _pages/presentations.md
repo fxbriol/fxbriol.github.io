@@ -13,7 +13,7 @@ author_profile: true
 
 ### 2024
 
-* 10-11th December 2024 - Talk - ***ANR Samourai RT-UQ workshop***, Institut Henri Poincare (Paris, France).
+* 10-11th December 2024 - Talk - [***ANR Samourai RT-UQ workshop***](https://uq.math.cnrs.fr/dec24), Institut Henri Poincare (Paris, France).
 * 28th November 2024 - Talk - ***ESSEC Business School***, [Data Analytics seminar](https://isds-department.essec.edu/research/research-seminars/data-analytics) (Cergy, France).
 * 21st November 2024 - Talk - ***Newcastle University***, Workshop on Next Generational Extrapolation Methods (Newcastle, UK).
 * 7th November 2024 - Talk - ***Imperial College London***, StatML Seminar Series (London, UK).
