@@ -8,7 +8,7 @@ The favourite part of my job is to supervise research projects and I supervise o
 
 ## PhD Students
 
-***[Update: For the academic year 2025/2026, I will not be recruiting a PhD student as main supervisor, but will co-supervise a student with my colleague [Dr Alessandro Barp](https://alebarp.github.io) (see the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) group webpage for details on our group). Please get in touch directly with Alessandro regarding enquiries.]***
+***[Update: For the academic year 2025/2026, I will not be recruiting a PhD student as main supervisor, but will co-supervise a student with my UCL colleague [Dr Alessandro Barp](https://alebarp.github.io). Please get in touch directly with Alessandro regarding enquiries.]***
 
 **What I am looking for:** 
 I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. Typical students in my group have achieved high grades in mathematics, statistics or computer science undergraduate and MSc programmes, and have previous research experience through a research thesis or summer research placements. I am also very happy to consider applicants with experience in industry. Beyond mathematical background and programming abilities, what I value most is students who are driven and passionate about their work.
