@@ -13,6 +13,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2024). *Cost-aware simulation-based inference*. arXiv:2410.07930. [(***Preprint***)](https://arxiv.org/abs/2410.07930)) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
 
 * Liu, X. & ***Briol, F-X.*** (2024). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
 
