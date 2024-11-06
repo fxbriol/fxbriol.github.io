@@ -18,7 +18,6 @@ author_profile: true
 * 10-11th December 2024 - Talk - [***ANR Samourai RT-UQ workshop***](https://uq.math.cnrs.fr/dec24), Institut Henri Poincare (Paris, France).
 * 28th November 2024 - Talk - ***ESSEC Business School***, [Data Analytics seminar](https://isds-department.essec.edu/research/research-seminars/data-analytics) (Cergy, France).
 * 21st November 2024 - Talk - ***Newcastle University***, Workshop on Next Generational Extrapolation Methods (Newcastle, UK).
-* 7th November 2024 - Talk - ***Imperial College London***, StatML Seminar Series (London, UK).
 * 24th October 2024 - Talk - ***University of Southampton***, [Southampton Statistical Sciences Research Institute (S3RI) seminar series](https://www.southampton.ac.uk/s3ri/news/seminars/latest.page) (Southampton, UK).
 * 1st-6th September 2024 - Talk - [***Workshop on "Frontiers of Bayesian Inference and Data Science"***](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa Matemática Oaxaca (online).
 * 18th-23rd August 2024 - Talk - [***MCQMC 2024***](https://uwaterloo.ca/monte-carlo-methods-scientific-computing-conference/), University of Waterloo. Session on 'Learning to solve related integrals' (Waterloo, Canada).
