@@ -8,7 +8,7 @@ The favourite part of my job is to supervise research projects and I supervise o
 
 ## PhD Students
 
-***[Update: For the academic year 2025/2026, I will not be recruiting a PhD student as main supervisor through standard routes. I would however be happy to co-supervise a student with my UCL colleague [Dr Alessandro Barp](https://alebarp.github.io). Please get in touch directly with Alessandro regarding enquiries. Alternatively, you may want to consider our new UCL/Imperial CDT on scientific computing/statistics/machine learning (see [CDT on Collaborative Computational Modelling at the Interface](https://ccmi-cdt.org) for more details). Students should apply directly to the CDT, and can get in touch with me regarding a PhD project after being offered a position.]***
+***[Update: For the academic year 2025/2026, I am primarily looking to co-supervise a student with my UCL colleague [Dr Alessandro Barp](https://alebarp.github.io).]***
 
 **What I am looking for:** 
 I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. Typical students in my group have achieved high grades in mathematics, statistics or computer science undergraduate and MSc programmes, and have previous research experience through a research thesis or summer research placements. I am also very happy to consider applicants with experience in industry. Beyond mathematical background and programming abilities, what I value most is students who are driven and passionate about their work.
