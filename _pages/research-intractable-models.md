@@ -29,6 +29,8 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312. [(***Conference***)](https://proceedings.mlr.press/v202/bharti23a.html) [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
+* Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2024). *Cost-aware simulation-based inference*. arXiv:2410.07930. [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
+
 
 <p align="center">
   <img src="/images/mvgandk_d2_scatter.png" alt="QMC Sampling from a g-and-k Model" width="50%">
