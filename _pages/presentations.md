@@ -9,6 +9,7 @@ author_profile: true
 
 * 26th-28th May 2025 - Talk - [***Bayesian Inference in Stochastic Processes***](https://bisp14.imati.cnr.it/home_page.php?ref_code=BISP14) worskhop (BISP14), CNR IMATI (Milan, Italy).
 * 7th April 2025 - Talk - ***Queen Mary University of London***, [Statistics and Data Science seminar](https://www.qmul.ac.uk/maths/research/seminars/statistics-and-data-science-seminar/) (London, UK).
+* 26th-28th March 2025 - Talk - ***Gregynog Statistical Conference*** (Gregynog, UK).
 * 5th March 2025 - Talk - ***University of Manchester***, [Seminar for Statistics, Quantification of Uncertainties, Inverse Problems and Data Science](https://events.manchester.ac.uk/calendar/tag:ser-se-maths-squids/) (Manchester, UK).
 * 28th February 2025 - Talk - ***University of Bristol***, Statistics seminar series (Bristol, UK).
 * 31st January 2025 - Talk - ***London School of Economics and Political Sciences***, [Statistics & Data Science seminar](https://www.lse.ac.uk/statistics/seminars/statistics-and-data-science-seminars) (London, UK).
