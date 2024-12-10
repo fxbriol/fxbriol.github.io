@@ -21,7 +21,7 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
-* Our paper on [robust and conjugate Gaussian process regression](https://arxiv.org/abs/2311.00463) was accepted as a spotlight at ICML!
+* My PhD student [Matias Altamirano](https://maltamiranomontero.github.io) (co-supervised with Jeremias Knoblauch) was awarded a prestigious [Bloomberg Data Science Fellowship](https://www.bloomberg.com/company/stories/introducing-the-seventh-cohort-of-bloomberg-data-science-ph-d-fellows-2024-2025/) to fund the last two years of his PhD.
   
 * I am now the theme lead for [Computational Statistics and Machine Learning](https://www.ucl.ac.uk/statistics/research/computational-statistics-and-machine-learning) within UCL Statistical Science, and the co-director of the [UCL ELLIS unit](https://ellis.eu).
 
