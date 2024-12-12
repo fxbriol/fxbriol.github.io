@@ -14,7 +14,7 @@ I am an Associate Professor in the Department of Statistical Science at [Univers
 
 My research in this area has been recognised through a Best Paper Award at AISTATS, a Blackwell-Rosenbluth Award, oral papers at ICML, AISTATS and UAI, a 'discussion paper' in the journal Statistical Science, and an honorary mention for the Savage Award. My students have also received a number of student paper awards from the American Statistical Association and the International Society for Bayesian Analysis. Finally, my work has been funded through several EPSRC grants and an Amazon Research Award.
 
-I am co-director of the [UCL ELLIS unit](https://ellis.eu), theme lead for [Computational Statistics and Machine Learning](https://www.ucl.ac.uk/statistics/research/computational-statistics-and-machine-learning) (CSML) within UCL Statistical Science, and co-director of research of the [UCL CDT in Data-Intensive Science](https://www.ucl.ac.uk/data-intensive-science-industry). I am also an elected board member for the [CSML section of the Royal Statistical Society](https://rss.org.uk/membership/rss-groups-and-committees/sections/statistical-computing/).
+I am co-director of the [UCL ELLIS unit](https://ellis.eu), theme lead for [Computational Statistics and Machine Learning](https://www.ucl.ac.uk/statistics/research/computational-statistics-and-machine-learning) (CSML) within UCL Statistical Science, and co-director of research of the [UCL CDT in Data-Intensive Science](https://www.ucl.ac.uk/data-intensive-science-industry). I am also an elected board member for the CSML section of the [Royal Statistical Society](https://rss.org.uk/membership/rss-groups-and-committees/sections/statistical-computing/). I am also an Associate Editor for the [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/publications/journals/siam-asa-journal-on-uncertainty-quantification-juq), and an Area Chair for [AISTATS](http://aistats.org/aistats2024/index.html).
 
 Prior to joining UCL, I did my bachelors and masters (MMORSE) at the University of Warwick, then did a PhD as part of the joint centre for doctoral training between the departments of Statistics at Warwick and Oxford. I then spent a year as a postdoctoral researcher, first in the Department of Mathematics at Imperial College London, then in the Department of Engineering at the University of Cambridge. From 2020-2023, I was also a Group Leader in Data-Centric Engineering at The Alan Turing Institute, the UK's national institute for Data Science and AI.
 
@@ -25,13 +25,5 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 * My PhD student [Matias Altamirano](https://maltamiranomontero.github.io) (co-supervised with Jeremias Knoblauch) was awarded a prestigious [Bloomberg Data Science Fellowship](https://www.bloomberg.com/company/stories/introducing-the-seventh-cohort-of-bloomberg-data-science-ph-d-fellows-2024-2025/) to fund the last two years of his PhD.
   
-* .
-
 * I was recently awarded an EPSRC New Investigator Award on ["Transfer Learning for Monte Carlo Methods"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y022300/1) (EP/Y022300/1), and an EPSRC small grant in the mathematical sciences for research on ["Robust Foundations for Bayesian Inference"](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) (EP/Y011805/1).
-  
-* I was recently awarded a [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) by the International Society on Bayesian Analysis. This award "aims at recognizing outstanding junior Bayesian researchers based on their overall contribution to the field and to the community".
-
-* I have now joined the [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/publications/journals/siam-asa-journal-on-uncertainty-quantification-juq) as an Associate Editor, and [AISTATS](http://aistats.org/aistats2024/index.html) as an Area Chair.
-
-
 
