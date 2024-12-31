@@ -23,7 +23,7 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
-* Welcome to [Harita Dellaporta](https://scholar.google.com/citations?user=avnp0ZsAAAAJ&hl=en), who is joining the group as a postdoctoral researcher.
+* Welcome to [Harita Dellaporta](https://scholar.google.com/citations?user=avnp0ZsAAAAJ&hl=en), who is joining the group as a postdoctoral researcher!
 
 * I have joined the editorial board of [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis) as an Associate Editor.
 
