@@ -1,3 +1,12 @@
+
+- name: Harita Dellaporta
+  photo: Harita_Dellaporta.png
+  info: Harita is a postdoctoral researcher at UCL. Her research interests focus on Bayesian methodology and robustness. She started her postdoc in Jan 2025 and was previously a PhD student at the University of Warwick. 
+  email: charita.dellaporta.19@ucl.ac.uk
+  website: https://scholar.google.com/citations?user=avnp0ZsAAAAJ&hl=en
+  number_educ: 0
+  education1: Prior to joining UCL, Harita was a PhD student at Warwick.
+  
 - name: Oscar Key
   photo: Oscar_Key_cropped.jpg
   info: Oscar is a PhD student on the Foundational AI CDT at UCL. He has varied research interests ranging from kernel-based hypothesis testing to software and algorithm design for large language models. He started his PhD in Autumn 2020 and his second supervisor is Prof. Marc Deisenroth. 
