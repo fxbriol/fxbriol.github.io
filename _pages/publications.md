@@ -15,8 +15,6 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Liu, Q., Kanagawa, H., Fisher, M. A., ***Briol, F-X.*** & Oates, C. J. (2025). *Fast approximate solution of Stein equations for post-processing of MCMC*. arXiv:2501.06634. [(***Preprint***)](https://arxiv.org/abs/2501.06634) [(***Code***)](https://github.com/MatthewAlexanderFisher/FastStein)
 
-* Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2024). *Cost-aware simulation-based inference*. arXiv:2410.07930. [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
-
 * Liu, X. & ***Briol, F-X.*** (2024). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
 
 * Key, O., Fernandez, T., Gretton, A. & ***Briol, F-X.*** (2021). *Composite goodness-of-fit tests with kernels*. arXiv.2111.10275. [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests)
@@ -25,6 +23,8 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 
 ## Published Papers
+
+* Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2025). *Cost-aware simulation-based inference*. arXiv:2410.07930. To appear at International Conference on Artificial Intelligence and Statistics. [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
 
 * Chen, Z., Naslydnik, M., Gretton, A. & ***Briol, F-X.*** (2024). *Conditional Bayesian quadrature*. Uncertainty in Artificial Intelligence, PMLR 244:648-684. [(***Conference***)](https://proceedings.mlr.press/v244/chen24b.html) [(***Preprint***)](https://arxiv.org/abs/2406.16530) [(***Code***)](https://github.com/hudsonchen/CBQ)
 
