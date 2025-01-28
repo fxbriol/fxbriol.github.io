@@ -22,6 +22,7 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 
 ## News
+* I am organising a two-day workshop on 'Bayesian Computation and Inference with Misspecified Models' at [BayesComp 2025](https://bayescomp2025.sg). 
 
 * Welcome to [Harita Dellaporta](https://scholar.google.com/citations?user=avnp0ZsAAAAJ&hl=en), who is joining the group as a postdoctoral researcher!
 
