@@ -13,19 +13,10 @@ University College London <br/>
 London WC1E 7HB <br/>
 United Kingdom.
 
-or
-
-The Alan Turing Institute <br/>
-British Library <br/>
-96 Euston Road <br/>
-London NW1 2DB <br/> 
-United Kingdom. 
-
 ### Email
 
 * f.briol (at) ucl.ac.uk
-* fbriol (at) turing.ac.uk
 
 ### Phone
 
-I do not have an active work-related phone number; please contact me via email instead. If you really need a phone number for me, you can use the UCL Statistical Science phone number: (+44 20) 7679 1872.
+I do not have an active work-related phone number; please contact me via email instead. If you really need a phone number for me, you can use the UCL Statistical Science phone number: (+44 20) 7679 1872, although I will definitely not be answering! 
