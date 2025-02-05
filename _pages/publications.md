@@ -13,6 +13,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP)
+
 * Liu, Q., Kanagawa, H., Fisher, M. A., ***Briol, F-X.*** & Oates, C. J. (2025). *Fast approximate solution of Stein equations for post-processing of MCMC*. arXiv:2501.06634. [(***Preprint***)](https://arxiv.org/abs/2501.06634) [(***Code***)](https://github.com/MatthewAlexanderFisher/FastStein)
 
 * Liu, X. & ***Briol, F-X.*** (2024). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
