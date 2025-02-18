@@ -23,6 +23,10 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 I do not currently have funding available for additional postdoctoral positions. If you are interested in applying for independent funding and would like to be based at UCL, do feel free to get in touch with me.
 
+## Visiting Researchers
+
+I am always very happy to hear from potential visiting researchers at PhD level and above. If you are interested in doing a research visit in my group, feel free to reach out and make sure to highlight why you think it would make sense for you to visit and how our research interests might overlap.
+
 ## BSc and MSc Students
 
 ***[Update: I will not have capacity to take on any BSc/MSc students before Autumn 2025.]***
