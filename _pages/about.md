@@ -23,7 +23,7 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
-* I will be giving a short-course on ``Robust and scalable simulation-based inference'' at [Greek Stochastics 2025](https://www.stochastics.gr/meetings/omicron/index.html).
+* I will be giving a short-course on "Robust and scalable simulation-based inference" at [Greek Stochastics 2025](https://www.stochastics.gr/meetings/omicron/index.html).
 
 * Our paper on [cost-aware simulation-based inference](https://arxiv.org/abs/2410.07930) has been accepted at AISTATS 2025, and our paper on [composite goodness-of-fit tests with kernels](https://arxiv.org/abs/2111.10275) has been accepted at JMLR!
 
