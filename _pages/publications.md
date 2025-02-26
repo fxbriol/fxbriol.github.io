@@ -52,7 +52,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312. [(***Conference***)](https://proceedings.mlr.press/v202/bharti23a.html) [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
-* Sun, Z., Barp, A. & ***Briol, F-X.*** (2023). *Vector-valued control variates*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32819-32846. [(***Conference***)](https://proceedings.mlr.press/v202/sun23a.html) [(***Preprint***)](https://arxiv.org/abs/2109.08944) [(***Code***)](https://github.com/jz-fun/Vector-valued-Control-Variates-Code)
+* Sun, Z., Barp, A. & ***Briol, F-X.*** (2023). *Vector-valued control variates*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32819-32846. [(***Conference***)](https://proceedings.mlr.press/v202/sun23a.html) [(***Preprint***)](https://arxiv.org/abs/2109.08944) [(***Code***)](https://github.com/jz-fun/Vector-valued-Control-Variates-Code) [(***Video***)](https://www.youtube.com/watch?v=7NBrUJcyL7w)
 	* This paper received a *Student Paper Award* from the section on Bayesian Statistical Science of the American Statistical Association in 2022.
 	* Zhuo Sun was awarded a Silver Medal for his poster on this paper at the 2021 Fry conference at Bristol.
 
