@@ -27,7 +27,7 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 * Our paper on [cost-aware simulation-based inference](https://arxiv.org/abs/2410.07930) has been accepted at AISTATS 2025, and our paper on [composite goodness-of-fit tests with kernels](https://arxiv.org/abs/2111.10275) has been accepted at JMLR!
 
-* I am organising a two-day workshop on 'Bayesian Computation and Inference with Misspecified Models' at [BayesComp 2025](https://bayescomp2025.sg). 
+* I am organising a two-day workshop on 'Bayesian Computation and Inference with Misspecified Models' at [BayesComp 2025](https://bayescomp2025.sg). See the [workshop website](https://postbayes.github.io/BayesMisspecificationSatellite/) for full details.
 
 * Welcome to [Harita Dellaporta](https://scholar.google.com/citations?user=avnp0ZsAAAAJ&hl=en), who is joining the group as a postdoctoral researcher!
 
