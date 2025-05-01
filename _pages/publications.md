@@ -17,9 +17,6 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * ***Briol, F-X.***, Gessner, A., Karvonen, T. & Mahsereci, M. (2025). *A dictionary of closed-form kernel mean embeddings*. arXiv:2504.18830. [(***Preprint***)](https://arxiv.org/abs/2504.18830) [(***Code***)](https://github.com/mmahsereci/kernel_embedding_dictionary) 
 
-* Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. arXiv:2502.18284. [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
-
-* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP)
 
 * Liu, Q., Kanagawa, H., Fisher, M. A., ***Briol, F-X.*** & Oates, C. J. (2025). *Fast approximate solution of Stein equations for post-processing of MCMC*. arXiv:2501.06634. [(***Preprint***)](https://arxiv.org/abs/2501.06634) [(***Code***)](https://github.com/MatthewAlexanderFisher/FastStein)
 
@@ -28,6 +25,10 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 
 ## Published Papers
+
+* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. To appear at ICML 2025. [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP)
+  
+* Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. arXiv:2502.18284. To appear at ICML 2025. [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
 
 * Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2025). *Cost-aware simulation-based inference*. arXiv:2410.07930. To appear at International Conference on Artificial Intelligence and Statistics. [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
 
