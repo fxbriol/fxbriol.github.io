@@ -30,7 +30,7 @@ This page contains all my publications; for more details, see my [Google Scholar
   
 * Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. arXiv:2502.18284. To appear at ICML 2025. [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
 
-* Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2025). *Cost-aware simulation-based inference*. arXiv:2410.07930. To appear at International Conference on Artificial Intelligence and Statistics. [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
+* Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2025). *Cost-aware simulation-based inference*. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:28-36. [(***Conference***)](https://proceedings.mlr.press/v258/bharti25a.html) [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
 
 * Key, O., Gretton, A., ***Briol, F-X.*** & Fernandez, T. (2025). *Composite goodness-of-fit tests with kernels*. Journal of Machine Learning Research, 26(51):1−60, 2025. [(***Journal***)](https://jmlr.org/papers/v26/24-0276.html) [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests) [(***Video***)](https://www.youtube.com/watch?v=LGLagrXICAQ)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
