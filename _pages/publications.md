@@ -13,18 +13,15 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-
-
-* ***Briol, F-X.***, Gessner, A., Karvonen, T. & Mahsereci, M. (2025). *A dictionary of closed-form kernel mean embeddings*. arXiv:2504.18830. [(***Preprint***)](https://arxiv.org/abs/2504.18830) [(***Code***)](https://github.com/mmahsereci/kernel_embedding_dictionary) 
-
-
 * Liu, Q., Kanagawa, H., Fisher, M. A., ***Briol, F-X.*** & Oates, C. J. (2025). *Fast approximate solution of Stein equations for post-processing of MCMC*. arXiv:2501.06634. [(***Preprint***)](https://arxiv.org/abs/2501.06634) [(***Code***)](https://github.com/MatthewAlexanderFisher/FastStein)
 
 * Liu, X. & ***Briol, F-X.*** (2024). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
 
 
-
 ## Published Papers
+
+
+* ***Briol, F-X.***, Gessner, A., Karvonen, T. & Mahsereci, M. (2025). *A dictionary of closed-form kernel mean embeddings*. arXiv:2504.18830. Accepted for publication in the Proceedings of the 1st International Conference on Probabilistic Numerics (ProbNum). [(***Preprint***)](https://arxiv.org/abs/2504.18830) [(***Code***)](https://github.com/mmahsereci/kernel_embedding_dictionary) 
 
 * Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. To appear at ICML 2025. [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP)
   
