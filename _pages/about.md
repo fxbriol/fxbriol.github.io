@@ -22,16 +22,10 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 
 ## News
+* Our group has three papers accepted at ICML 2025 on topics from the [computation of nested expectations](https://arxiv.org/abs/2502.18284), to [kernel embeddings](https://mashanaslidnyk.github.io/assets/pdf/kqe.pdf) and [robust Bayesian ML](https://arxiv.org/abs/2502.02450).
 
 * I will be giving a short-course on "Robust and scalable simulation-based inference" at [Greek Stochastics 2025](https://www.stochastics.gr/meetings/omicron/index.html).
-
-* Our paper on [cost-aware simulation-based inference](https://arxiv.org/abs/2410.07930) has been accepted at AISTATS 2025, and our paper on [composite goodness-of-fit tests with kernels](https://arxiv.org/abs/2111.10275) has been accepted at JMLR!
 
 * I am organising a two-day workshop on 'Bayesian Computation and Inference with Misspecified Models' at [BayesComp 2025](https://bayescomp2025.sg). See the [workshop website](https://postbayes.github.io/BayesMisspecificationSatellite/) for full details.
 
 * Welcome to [Harita Dellaporta](https://scholar.google.com/citations?user=avnp0ZsAAAAJ&hl=en), who is joining the group as a postdoctoral researcher!
-
-* I have joined the editorial board of [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis) as an Associate Editor.
-
-* My PhD student [Matias Altamirano](https://maltamiranomontero.github.io) (co-supervised with Jeremias Knoblauch) was awarded a prestigious [Bloomberg Data Science Fellowship](https://www.bloomberg.com/company/stories/introducing-the-seventh-cohort-of-bloomberg-data-science-ph-d-fellows-2024-2025/) to fund the last two years of his PhD.
-
