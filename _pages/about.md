@@ -22,10 +22,10 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 
 ## News
-* Our group has three papers accepted at ICML 2025 on topics from the [computation of nested expectations](https://arxiv.org/abs/2502.18284), to [kernel embeddings](https://mashanaslidnyk.github.io/assets/pdf/kqe.pdf) and [robust Bayesian ML](https://arxiv.org/abs/2502.02450).
 
 * I will be giving a short-course on "Robust and scalable simulation-based inference" at [Greek Stochastics 2025](https://www.stochastics.gr/meetings/omicron/index.html).
 
 * I am organising a two-day workshop on 'Bayesian Computation and Inference with Misspecified Models' at [BayesComp 2025](https://bayescomp2025.sg). See the [workshop website](https://postbayes.github.io/BayesMisspecificationSatellite/) for full details.
 
-* Welcome to [Harita Dellaporta](https://scholar.google.com/citations?user=avnp0ZsAAAAJ&hl=en), who is joining the group as a postdoctoral researcher!
+* I have three papers accepted at ICML 2025 on topics from the [computation of nested expectations](https://arxiv.org/abs/2502.18284), to [kernel embeddings](https://mashanaslidnyk.github.io/assets/pdf/kqe.pdf) and [robust Bayesian ML](https://arxiv.org/abs/2502.02450).
+
