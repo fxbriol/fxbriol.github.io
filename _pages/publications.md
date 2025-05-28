@@ -24,7 +24,7 @@ This page contains all my publications; for more details, see my [Google Scholar
   
 * Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. arXiv:2502.18284. To appear at ICML 2025. [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
 
-* Naslidnyk, M., Chau, S. L., ***Briol, F-X.*** & Muandet, K. (2025). *Kernel quantile embeddings and associated probability metrics*.  To appear at ICML 2025. [(***Preprint***)](https://mashanaslidnyk.github.io/assets/pdf/kqe.pdf)
+* Naslidnyk, M., Chau, S. L., ***Briol, F-X.*** & Muandet, K. (2025). *Kernel quantile embeddings and associated probability metrics*. arXiv:2505.20433. To appear at ICML 2025. [(***Preprint***)](https://arxiv.org/abs/2505.20433) [(***Code***)](https://github.com/MashaNaslidnyk/kqe)
 
 * ***Briol, F-X.***, Gessner, A., Karvonen, T. & Mahsereci, M. (2025). *A dictionary of closed-form kernel mean embeddings*. arXiv:2504.18830. To appear in the Proceedings of the 1st International Conference on Probabilistic Numerics (ProbNum). [(***Preprint***)](https://arxiv.org/abs/2504.18830) [(***Code***)](https://github.com/mmahsereci/kernel_embedding_dictionary)
   
