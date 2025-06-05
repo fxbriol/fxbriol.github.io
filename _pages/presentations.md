@@ -7,6 +7,7 @@ author_profile: true
 
 ### 2025
 
+* 1st-3rd September 2025 - Talk - [***ProbNum 2025: The First International Conference on Probabilistic Numerics***](https://probnum25.github.io) (Nice, France).
 * 26th-29th August 2025 - Talk - [***Greek Stochastics***](https://www.stochastics.gr/meetings/omicron/index.html), Short course on 'Scalable and robust simulation-based inference' (Folegandros, Greece).
 * 16th-20th June 2025 - Talk - [***BayesComp 2025***](https://bayescomp2025.sg), invited session on 'Model misspecification in simulation-based inference' (Singapore).
 * 26th-28th May 2025 - Talk - [***Bayesian Inference in Stochastic Processes***](https://bisp14.imati.cnr.it/home_page.php?ref_code=BISP14) worskhop (BISP14), CNR IMATI (Milan, Italy).
