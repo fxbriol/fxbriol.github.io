@@ -4,7 +4,7 @@ permalink: /supervision/
 author_profile: true
 ---
 
-The favourite part of my job is to supervise research projects and I supervise on BSc, MSc and PhD students as well as postdoctoral researchers and visitors. Before contacting me about opportunities, please read the page below carefully.
+My favourite part of my job is to supervise research projects and I supervise on BSc, MSc and PhD students as well as postdoctoral researchers and visitors. Before contacting me about opportunities, please read the page below carefully.
 
 ## PhD Students
 
