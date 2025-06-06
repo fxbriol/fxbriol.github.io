@@ -8,7 +8,7 @@ The favourite part of my job is to supervise research projects and I supervise o
 
 ## PhD Students
 
-***[Update: The deadline for applications for the 2025/2026 has now passed. If you have a position on the Martingale navigator programme or the CCMI CDT programme, feel free to get in touch if you would like to work with me. Otherwise, I will be considering PhD applicants for 2026/2027 from Autumn 2025 onwards.]***
+***[Update: The deadline for applications for the 2025/2026 has now passed. I will be considering PhD applicants for 2026/2027 from Autumn 2025 onwards.]***
 
 **What I am looking for:** 
 I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. Typical students in my group have achieved high grades in mathematics, statistics or computer science undergraduate and MSc programmes, and have previous research experience through a research thesis or summer research placements. I am also very happy to consider applicants with experience in industry. Beyond mathematical background and programming abilities, what I value most is students who are driven and passionate about their work.
