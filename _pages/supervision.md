@@ -25,7 +25,7 @@ I do not currently have funding available for additional postdoctoral positions.
 
 ## Visiting Researchers
 
-I am always very happy to hear from potential visiting researchers at PhD level and above. If you are interested in doing a research visit in my group, feel free to reach out and make sure to highlight why you think it would make sense for you to visit and how our research interests might overlap.
+I am always very happy to hear from potential visiting researchers at PhD level and above. If you are interested in doing a research visit in my group, feel free to reach out and make sure to highlight why you think it would make sense for you to visit and how our research interests might overlap. Similarly to PhD applications, I do not tend to respond to emails where potential visitors have not highlighted clearly why I would be a suitable host.
 
 ## BSc and MSc Students
 
