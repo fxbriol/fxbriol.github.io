@@ -8,7 +8,7 @@ I am a co-lead of the [Fundamentals of Statistical Machine Learning](https://fsm
 
 ## Alumni
 
-  * [Oscar Key](https://oscarkey.github.io) - PhD on "" (2020-2025). Now research scientist at [Prior Labs](https://priorlabs.ai).
+  * [Oscar Key](https://oscarkey.github.io) - PhD on "Scalable Deep Learning and Data Assimilation" (2020-2025). Now research scientist at [Prior Labs](https://priorlabs.ai).
   * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD on "Multilevel methods for Monte Carlo integration, with applications to tsunami modelling" (2019-2024). Now research scientist at Comac.
   * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023). Now research scientist at [Huawei](https://www.huawei.com/en/).
 
