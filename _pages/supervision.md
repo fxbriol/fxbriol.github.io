@@ -33,4 +33,4 @@ I am always very happy to hear from potential visiting researchers at PhD level 
 
 I typically supervise BSc students from the BSc Statistics, and MSc students through the MSc Statistics and MSc Data Science programmes, all at UCL. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. 
 
-Unfortunately I am not able to supervise any other BSc or MSc projects at this time (whether in other departments at UCL or not). I am also not able to welcome research interns at BSc/MSc level from other universities. I will therefore not answer any email enquiries about this.
+Unfortunately I am not able to supervise any other BSc or MSc projects at this time (whether in other departments at UCL or beyond UCL). I am also not able to welcome research interns at BSc/MSc level from other universities. I will therefore not answer any email enquiries about this.
