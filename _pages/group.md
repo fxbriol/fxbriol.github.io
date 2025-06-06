@@ -8,7 +8,7 @@ I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.gi
 
 ## Alumni
 
-  * [Oscar Key](https://oscarkey.github.io) - PhD on "Scalable Deep Learning and Data Assimilation" (2020-2025). Now research scientist at Prior Labs (Berlin, Germany).
+  * [Oscar Key](https://oscarkey.github.io) - PhD on "Scalable deep learning and data assimilation" (2020-2025). Now research scientist at Prior Labs (Berlin, Germany).
   * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD on "Multilevel methods for Monte Carlo integration, with applications to tsunami modelling" (2019-2024). Now research scientist at Comac (Shanghai, China).
   * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023). Now research scientist at Huawei (Shanghai, China).
 
