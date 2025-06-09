@@ -13,6 +13,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Hikida, Y., Bharti, A., Jeffrey, N. & ***Briol, F-X.*** (2025). *Multilevel neural simulation-based inference*. arXiv:2506.06087. [(***Preprint***)](https://arxiv.org/abs/2506.06087) [(***Code***)](https://github.com/yugahikida/multilevel-sbi)
+
 * Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2025). *Stationary MMD points for cubature*. arXiv:2505.20754. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/MMDF_cubature)
 
 * Liu, Q., Kanagawa, H., Fisher, M. A., ***Briol, F-X.*** & Oates, C. J. (2025). *Fast approximate solution of Stein equations for post-processing of MCMC*. arXiv:2501.06634. [(***Preprint***)](https://arxiv.org/abs/2501.06634) [(***Code***)](https://github.com/MatthewAlexanderFisher/FastStein)
