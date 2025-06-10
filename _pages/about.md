@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-I am an Associate Professor in the Department of Statistical Science at [University College London](https://www.ucl.ac.uk/statistics/), where I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) research group. My research focuses on developing statistical and machine learning methods for the sciences and engineering. I am interested in designing methods to merge large-scale scientific models with data, which requires the development of novel computational methods and of inference methods that remain robust to model misspecification.
+I am an Associate Professor in the Department of Statistical Science at [University College London](https://www.ucl.ac.uk/statistics/), where I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) research group. My research focuses on developing statistical and machine learning methods, as well as applications in the sciences and engineering. I am interested in designing methods to merge large-scale scientific models with data, which requires the development of novel computational methods and of inference methods that remain robust to model misspecification.
 
 My research in this area has been recognised through a Best Paper Award at AISTATS, a Blackwell-Rosenbluth Award, oral papers at ICML, AISTATS and UAI, a 'discussion paper' in the journal Statistical Science, and an honorary mention for the Savage Award. My students have also received a number of student paper awards from the American Statistical Association and the International Society for Bayesian Analysis. Finally, my work has been funded through several EPSRC grants and an Amazon Research Award.
 
