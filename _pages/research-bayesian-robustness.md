@@ -33,6 +33,8 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
+* Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2024). *Generalised Bayesian inference for discrete intractable likelihood*. Journal of the American Statistical Association (to appear). [(***Journal***)](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257891) [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
+
 Another line of work has been on taking existing Bayesian models and making them robust. There are many existing approaches to this, typically by modifying the likelihood, but this tends to break any computational advantages of these methods such as conjugacy. My work has therefore focused on developing Bayesian methods which are both robust and scalable. Examples includes Gaussian process regression, Kalman filtering, and online changepoint detection:
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:642-663. [(***Conference***)](https://proceedings.mlr.press/v202/altamirano23a.html) [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd) [(***Video***)](https://www.youtube.com/watch?v=exhkRsqq6HA)
@@ -46,6 +48,16 @@ Another line of work has been on taking existing Bayesian models and making them
   <img src="/images/wolf-IMQ.gif" alt="Robust Kalman Filter through Generalised Bayes" width="70%">
 </p>
 
+* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=YG84SWm7gn) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP)
+
+
+Beyond Bayesian methods, I have also been developing hypothesis testing methods, which are either able to detect model misspecification, or be robust to it. Although I have not specifically applied these to Bayesian inference, they very much could be used for this problem too.
+
+* Liu, X. & ***Briol, F-X.*** (2024). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
+
+* Key, O., Gretton, A., ***Briol, F-X.*** & Fernandez, T. (2025). *Composite goodness-of-fit tests with kernels*. Journal of Machine Learning Research, 26(51):1−60, 2025. [(***Journal***)](https://jmlr.org/papers/v26/24-0276.html) [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests) [(***Video***)](https://www.youtube.com/watch?v=LGLagrXICAQ)
+	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
+Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
 
 ## Funding
