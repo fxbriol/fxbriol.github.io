@@ -23,6 +23,8 @@ For more details on my work, see my [Publications](https://fxbriol.github.io/pub
 
 ## News
 
+* I have been promoted to *Professor of Statistics and Machine Learning* at UCL, effective 1st October 2025.
+
 * I will be giving a short-course on "Robust and scalable simulation-based inference" at [Greek Stochastics 2025](https://www.stochastics.gr/meetings/omicron/index.html).
 
 * I will be visiting the Isaac Newton Institute's programme on ['representing, calibrating & leveraging prediction uncertainty from statistics to machine learning'](https://www.newton.ac.uk/event/rcl/) for part of July.
