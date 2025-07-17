@@ -29,5 +29,5 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 * I will be visiting the Isaac Newton Institute's programme on ['representing, calibrating & leveraging prediction uncertainty from statistics to machine learning'](https://www.newton.ac.uk/event/rcl/) for part of July.
 
-* I have three papers accepted at ICML 2025 on topics from the [computation of nested expectations](https://arxiv.org/abs/2502.18284), to [kernel embeddings](https://mashanaslidnyk.github.io/assets/pdf/kqe.pdf) and [robust Bayesian ML](https://arxiv.org/abs/2502.02450). In addition, I am contributing to the organisation of a ['pre-ICML meeting'](https://sites.google.com/view/pre-icml-london-2025) at UCL on the 3rd of July.
+* I have three papers accepted at ICML 2025 on topics from the [computation of nested expectations](https://arxiv.org/abs/2502.18284), to [kernel embeddings](https://mashanaslidnyk.github.io/assets/pdf/kqe.pdf) and [robust Bayesian ML](https://arxiv.org/abs/2502.02450).
 
