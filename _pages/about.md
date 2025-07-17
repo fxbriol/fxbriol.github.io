@@ -18,7 +18,7 @@ At UCL, I am co-director (and scholar) of the [UCL ELLIS unit](https://ellis.eu/
 
 Prior to my current position, I did my bachelors and masters (MMORSE) at the University of Warwick, then a PhD through a joint CDT in statistics and machine learning at Warwick and Oxford. I then spent a year as a postdoctoral researcher, first in the Department of Mathematics at Imperial College London, then in the Department of Engineering at the University of Cambridge. I then joined UCL Statistical Science, where I was a lecturer (2019-2023) and then associate professor (2023-2025). From 2020-2023, I was also a Group Leader in Data-Centric Engineering at The Alan Turing Institute, the UK's national institute for Data Science and AI.
 
-For more details on my work, see my [Google Scholar](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en) profile, or my [Publications](https://fxbriol.github.io/publications/) page, which points to a number of project pages highlighting different areas where I have made contributions. If you are a student/postdoc interested in working with me, please have a look at [this page](https://fxbriol.github.io/supervision/).
+For more details on my work, see my [Google Scholar](https://scholar.google.co.uk/citations?user=yLBYtAwAAAAJ&hl=en) profile, or my [Publications](https://fxbriol.github.io/publications/) page, which points to a number of project pages highlighting different areas where I have made significant contributions. If you are a student/postdoc interested in working with me, please have a look at [this page](https://fxbriol.github.io/supervision/).
 
 
 ## News
