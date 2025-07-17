@@ -4,7 +4,7 @@ permalink: /group/
 author_profile: true
 ---
 
-I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) research group within UCL Statistical Science. 
+I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) research group within UCL Statistical Science with my colleagues [Jeremias Knoblauch](https://jeremiasknoblauch.github.io) and [Alessandro Barp](https://alebarp.github.io). 
 
 ## Alumni
 
