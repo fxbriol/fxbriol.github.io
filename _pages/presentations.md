@@ -7,7 +7,6 @@ author_profile: true
 
 ### 2025
 
-* 27th-31st October 2025 - Talk - ***Workshop on 'Rethinking the Role of Bayesianism in the Age of Modern AI'***, Mohamed bin Zayed University of Artificial Intelligence (Abu Dhabi, UAE).
 * 1st-3rd September 2025 - Talk - [***ProbNum 2025***](https://probnum25.github.io): The First International Conference on Probabilistic Numerics (Nice, France).
 * 26th-29th August 2025 - Talk - [***Greek Stochastics***](https://www.stochastics.gr/meetings/omicron/index.html), Short course on 'Scalable and robust simulation-based inference' (Folegandros, Greece).
 * 2nd July 2025 - Talk - [***Conference on AI for Data-Intensive Science and Industry***](https://www.ucl.ac.uk/data-intensive-science-industry/news/2024/dec/explore-future-ai-data-intensive-science-and-industry) (London, UK).
