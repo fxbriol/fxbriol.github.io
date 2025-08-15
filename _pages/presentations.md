@@ -7,6 +7,7 @@ author_profile: true
 
 ### 2025
 
+* 22nd October 2025 - Talk - [***Workshop on Kernels, Flows & Sampling***](https://sites.google.com/view/kernels-flows-and-sampling/home), Newcastle University (Newcastle, UK).
 * 1st-3rd September 2025 - Talk - [***ProbNum 2025***](https://probnum25.github.io): The First International Conference on Probabilistic Numerics (Nice, France).
 * 26th-29th August 2025 - Talk - [***Greek Stochastics***](https://www.stochastics.gr/meetings/omicron/index.html), Short course on 'Scalable and robust simulation-based inference' (Folegandros, Greece).
 * 2nd July 2025 - Talk - [***Conference on AI for Data-Intensive Science and Industry***](https://www.ucl.ac.uk/data-intensive-science-industry/news/2024/dec/explore-future-ai-data-intensive-science-and-industry) (London, UK).
