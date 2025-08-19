@@ -1,12 +1,3 @@
-
-- name: Harita Dellaporta
-  photo: harita_dellaporta.png
-  info: Harita is a postdoctoral researcher at UCL. Her research interests focus on Bayesian methodology and robustness. She started her postdoc in Jan 2025 and was previously a PhD student at the University of Warwick. 
-  email: h.dellaporta@ucl.ac.uk 
-  website: https://haritadell.github.io
-  number_educ: 0
-  education1: Prior to joining UCL, Harita was a PhD student at Warwick.
-  
 - name: Masha Naslidnyk
   photo: masha_naslidnyk.jpeg
   info: Masha is a PhD student on the Foundational AI CDT at UCL, and her research focuses on Gaussian processes, kernel methods and robustness. She started her PhD in Autumn 2021 and her second supervisor is Dr. Carlo Ciliberto. 
