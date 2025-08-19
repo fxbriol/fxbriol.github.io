@@ -48,7 +48,7 @@
 
 - name: William Laplante
   photo: William.jpg
-  info: William is a PhD Student on the Data-Intensive Science CDT at UCL, and his research focuses on robust Bayesian filtering. He started his PhD in Autumn 2024.
+  info: William is a PhD Student on the Data-Intensive Science CDT at UCL, and his research focuses on robust Bayesian filtering. He started his PhD in Autumn 2024 and his subsidiary supervisor is Jeremias Knoblauch.
   email: william.laplante.24@ucl.ac.uk
   website: https://williamlaplante.github.io/
   number_educ: 0
@@ -56,7 +56,7 @@
 
 - name: Arina Odnoblyudova
   photo: Arina.jpg
-  info: Arina is a PhD Student in Statistical Science at UCL, and her research focuses on sensitivity of Bayesian inference. She started her PhD in March 2025.
+  info: Arina is a PhD Student in Statistical Science at UCL, and her research focuses on sensitivity of Bayesian inference. She started her PhD in March 2025 and is her subsidiary supervisors are Harita Dellaporta and Jeremias Knoblauch.
   email: arina.odnoblyudova.24@ucl.ac.uk
   website: https://jularina.github.io/arina-odv/
   number_educ: 0
@@ -64,7 +64,7 @@
 
 - name: Zixiao Hu
   photo: Zixiao.jpg
-  info: Zixiao is a PhD Student Data-Intensive Science at UCL, and his research focuses on Bayesian sensitivity, variational inference and simulation-based inference with applications in cosmology. He started his PhD in October 2024.
+  info: Zixiao is a PhD Student Data-Intensive Science at UCL, and his research focuses on Bayesian sensitivity, variational inference and simulation-based inference with applications in cosmology. He started his PhD in October 2024. I am his subsidiary supervisor and his primary supervisor is Prof Jason McEwen (UCL Mullard Space Science Laboratory).
   email: zixiao.hu.24@ucl.ac.uk
   website: https://www.linkedin.com/in/zixiaohu/
   number_educ: 0
