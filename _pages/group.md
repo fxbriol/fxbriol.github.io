@@ -6,11 +6,6 @@ author_profile: true
 
 I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) research group within UCL Statistical Science with my colleagues [Jeremias Knoblauch](https://jeremiasknoblauch.github.io) and [Alessandro Barp](https://alebarp.github.io). Below are the members of the group that I directly supervise or manage.
 
-## Alumni
-
-  * [Oscar Key](https://oscarkey.github.io) - PhD on "Scalable deep learning and data assimilation" (2020-2025). Now research scientist at Prior Labs.
-  * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD on "Multilevel methods for Monte Carlo integration, with applications to tsunami modelling" (2019-2024). Now research scientist at Comac.
-  * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023). Now assistant professor at Shanghai University of Finance and Economics, and previously research scientist at Huawei.
 
 ## Current Members
 
@@ -81,3 +76,10 @@ I have the privilege of working with the following great team of researchers:
 </div>
 
 </div>
+
+## Alumni
+
+  * [Oscar Key](https://oscarkey.github.io) - PhD on "Scalable deep learning and data assimilation" (2020-2025). Now research scientist at Prior Labs.
+  * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD on "Multilevel methods for Monte Carlo integration, with applications to tsunami modelling" (2019-2024). Now research scientist at Comac.
+  * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023). Now assistant professor at Shanghai University of Finance and Economics, and previously research scientist at Huawei.
+
