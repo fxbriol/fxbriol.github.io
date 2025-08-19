@@ -1,0 +1,71 @@
+
+- name: Harita Dellaporta
+  photo: harita_dellaporta.png
+  info: Harita is a postdoctoral researcher at UCL. Her research interests focus on Bayesian methodology and robustness. She started her postdoc in Jan 2025 and was previously a PhD student at the University of Warwick. 
+  email: h.dellaporta@ucl.ac.uk 
+  website: https://haritadell.github.io
+  number_educ: 0
+  education1: Prior to joining UCL, Harita was a PhD student at Warwick.
+  
+- name: Masha Naslidnyk
+  photo: masha_naslidnyk.jpeg
+  info: Masha is a PhD student on the Foundational AI CDT at UCL, and her research focuses on Gaussian processes, kernel methods and robustness. She started her PhD in Autumn 2021 and her second supervisor is Dr. Carlo Ciliberto. 
+  email: masha.naslidnyk.21@ucl.ac.uk
+  website: https://mashanaslidnyk.github.io
+  number_educ: 0
+  education1: Prior to joining UCL, Masha was a machine learning scientist at Amazon.
+  
+- name: Ilina Yozova
+  photo: ilina_yozova.png
+  info: Ilina is a PhD student in Statistical Science at UCL, and her research focuses on Bayesian nonparametric methods for causal inference. She started her PhD in Autumn 2021. Her first supervisor is Prof. Ioanna Manolopoulou, and I am her second supervisor. 
+  email: ilina.yozova.18@ucl.ac.uk
+  number_educ: 0
+  education1: Prior to starting her PhD, Ilina was an undergraduate student at UCL.
+  
+- name: Zonghao (Hudson) Chen
+  photo: hudson.png
+  info: Hudson is a PhD Student on the Foundational AI CDT at UCL, and his research focuses on kernel methods, probabilistic numerics and gradient flows. He started his PhD in Autumn 2022. Hudson is jointly supervised by myself and Prof. Arthur Gretton.
+  email: zonghao.chen.22@ucl.ac.uk
+  website: https://hudsonchen.github.io
+  number_educ: 0
+  education1: Prior to starting his PhD, Hudson was an undergraduate student at Tsinghua.
+  
+- name: Matias Altamirano Montero
+  photo: matias.jpg
+  info: Matias is a PhD Student in Statistical Science at UCL, and his research focuses on conjugacy in generalised Bayesian inference. He started his PhD in Autumn 2022. Matias is jointly supervised by myself and Dr. Jeremias Knoblauch.
+  email: matias.altamirano.22@ucl.ac.uk
+  website: https://maltamiranomontero.github.io
+  number_educ: 0
+  education1: Prior to starting his PhD, Matias was an MSc student at Universidad de Chile.
+
+- name: Iman Simo Dzumgang
+  photo: Iman.jpg
+  info: Iman is a PhD Student in Statistical Science at UCL, and her research focuses on robust Bayesian inference. She started her PhD in Autumn 2023. Iman is jointly supervised by myself and Dr. Jeremias Knoblauch.
+  email: i.dzumgang@ucl.ac.uk
+  website: https://www.linkedin.com/in/iman-simo-dzumgang-96365a254/
+  number_educ: 0
+  education1: Prior to starting her PhD, Iman was a BSc student at the University of Cambridge.
+
+- name: William Laplante
+  photo: William.jpg
+  info: William is a PhD Student on the Data-Intensive Science CDT at UCL, and his research focuses on robust Bayesian filtering. He started his PhD in Autumn 2024 and his subsidiary supervisor is Jeremias Knoblauch.
+  email: william.laplante.24@ucl.ac.uk
+  website: https://williamlaplante.github.io/
+  number_educ: 0
+  education1: Prior to starting his PhD, William studied at McGill and UBC.
+
+- name: Arina Odnoblyudova
+  photo: Arina.jpg
+  info: Arina is a PhD Student in Statistical Science at UCL, and her research focuses on sensitivity of Bayesian inference. She started her PhD in March 2025 and is her subsidiary supervisors are Harita Dellaporta and Jeremias Knoblauch.
+  email: arina.odnoblyudova.24@ucl.ac.uk
+  website: https://jularina.github.io/arina-odv/
+  number_educ: 0
+  education1: Prior to starting her PhD, Arina studied at Aalto University.
+
+- name: Zixiao Hu
+  photo: Zixiao.jpg
+  info: Zixiao is a PhD Student Data-Intensive Science at UCL, and his research focuses on Bayesian computation and simulation-based inference with applications in cosmology. He started his PhD in October 2024. I am his subsidiary supervisor and his primary supervisor is Prof Jason McEwen.
+  email: zixiao.hu.24@ucl.ac.uk
+  website: https://www.linkedin.com/in/zixiaohu/
+  number_educ: 0
+  education1: Prior to starting his PhD, Zixiao studied at the University of Cambridge.  
