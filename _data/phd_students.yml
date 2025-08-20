@@ -15,7 +15,7 @@
   
 - name: Zonghao (Hudson) Chen
   photo: hudson.png
-  info: Hudson is a PhD Student on the Foundational AI CDT at UCL, and his research focuses on kernel methods, probabilistic numerics and gradient flows. He started his PhD in Autumn 2022. Hudson is jointly supervised by myself and Prof. Arthur Gretton.
+  info: Hudson is a PhD student on the Foundational AI CDT at UCL, and his research focuses on kernel methods, probabilistic numerics and gradient flows. He started his PhD in Autumn 2022. Hudson is jointly supervised by myself and Prof. Arthur Gretton.
   email: zonghao.chen.22@ucl.ac.uk
   website: https://hudsonchen.github.io
   number_educ: 0
@@ -23,7 +23,7 @@
   
 - name: Matias Altamirano Montero
   photo: matias.jpg
-  info: Matias is a PhD Student in Statistical Science at UCL, and his research focuses on conjugacy in generalised Bayesian inference. He started his PhD in Autumn 2022. Matias is jointly supervised by myself and Dr. Jeremias Knoblauch.
+  info: Matias is a PhD student in Statistical Science at UCL, and his research focuses on conjugacy in generalised Bayesian inference. He started his PhD in Autumn 2022. Matias is jointly supervised by myself and Dr. Jeremias Knoblauch.
   email: matias.altamirano.22@ucl.ac.uk
   website: https://maltamiranomontero.github.io
   number_educ: 0
@@ -31,7 +31,7 @@
 
 - name: Iman Simo Dzumgang
   photo: Iman.jpg
-  info: Iman is a PhD Student in Statistical Science at UCL, and her research focuses on robust Bayesian inference. She started her PhD in Autumn 2023. Iman is jointly supervised by myself and Dr. Jeremias Knoblauch.
+  info: Iman is a PhD student in Statistical Science at UCL, and her research focuses on robust Bayesian inference. She started her PhD in Autumn 2023. Iman is jointly supervised by myself and Dr. Jeremias Knoblauch.
   email: i.dzumgang@ucl.ac.uk
   website: https://www.linkedin.com/in/iman-simo-dzumgang-96365a254/
   number_educ: 0
@@ -39,7 +39,7 @@
 
 - name: William Laplante
   photo: William.jpg
-  info: William is a PhD Student on the Data-Intensive Science CDT at UCL, and his research focuses on robust Bayesian filtering. He started his PhD in Autumn 2024 and his subsidiary supervisor is Jeremias Knoblauch.
+  info: William is a PhD student on the Data-Intensive Science CDT at UCL, and his research focuses on robust Bayesian filtering. He started his PhD in Autumn 2024 and his subsidiary supervisor is Dr. Jeremias Knoblauch.
   email: william.laplante.24@ucl.ac.uk
   website: https://williamlaplante.github.io/
   number_educ: 0
@@ -47,7 +47,7 @@
 
 - name: Arina Odnoblyudova
   photo: Arina.jpg
-  info: Arina is a PhD Student in Statistical Science at UCL, and her research focuses on sensitivity of Bayesian inference. She started her PhD in March 2025 and is her subsidiary supervisors are Harita Dellaporta and Jeremias Knoblauch.
+  info: Arina is a PhD student in Statistical Science at UCL, and her research focuses on sensitivity of Bayesian inference. She started her PhD in March 2025 and is her subsidiary supervisors are Dr. Harita Dellaporta and Dr. Jeremias Knoblauch.
   email: arina.odnoblyudova.24@ucl.ac.uk
   website: https://jularina.github.io/arina-odv/
   number_educ: 0
@@ -55,8 +55,16 @@
 
 - name: Zixiao Hu
   photo: Zixiao.jpg
-  info: Zixiao is a PhD Student Data-Intensive Science at UCL, and his research focuses on Bayesian computation and simulation-based inference with applications in cosmology. He started his PhD in October 2024. I am his subsidiary supervisor and his primary supervisor is Prof Jason McEwen.
+  info: Zixiao is a PhD student Data-Intensive Science at UCL, and his research focuses on Bayesian computation and simulation-based inference with applications in cosmology. He started his PhD in October 2024. I am his subsidiary supervisor and his primary supervisor is Prof. Jason McEwen.
   email: zixiao.hu.24@ucl.ac.uk
   website: https://www.linkedin.com/in/zixiaohu/
   number_educ: 0
   education1: Prior to starting his PhD, Zixiao studied at the University of Cambridge.  
+
+- name: Ahab Isaac
+  photo: Ahab.jpg
+  info: Ahab is a PhD student in Statistical Science at UCL, and her research focuses on explainable AI. He started his PhD in Autumn 2025. I am his subsidiary supervisor, and Dr. Alessandro Barp is his primary supervisor.
+  email: ahab.isaac.24@ucl.ac.uk
+  website: https://www.linkedin.com/in/ahab-isaac
+  number_educ: 0
+  education1: Prior to starting his PhD, Ahab studied at Oxford and UCL. 
