@@ -25,7 +25,7 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 * I have been promoted to *Professor of Statistics and Machine Learning* at UCL, effective 1st October 2025.
 
-* I will be giving a short-course on "Robust and scalable simulation-based inference" at [Greek Stochastics 2025](https://www.stochastics.gr/meetings/omicron/index.html).
+* I recently gave a course on "Robust and scalable simulation-based inference" at [Greek Stochastics 2025](https://www.stochastics.gr/meetings/omicron/index.html). The slides are now available [here](https://fxbriol.github.io/pdfs/slides-SBI-course.pdf).
 
 * I have three papers accepted at ICML 2025 on topics from the [computation of nested expectations](https://arxiv.org/abs/2502.18284), to [kernel embeddings](https://mashanaslidnyk.github.io/assets/pdf/kqe.pdf) and [robust spatio-temporal modelling](https://arxiv.org/abs/2502.02450).
 
