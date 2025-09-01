@@ -28,7 +28,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Naslidnyk, M., Chau, S. L., ***Briol, F-X.*** & Muandet, K. (2025). *Kernel quantile embeddings and associated probability metrics*. arXiv:2505.20433. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=9LqXn0Izwk) [(***Preprint***)](https://arxiv.org/abs/2505.20433) [(***Code***)](https://github.com/MashaNaslidnyk/kqe)
 
-* ***Briol, F-X.***, Gessner, A., Karvonen, T. & Mahsereci, M. (2025). *A dictionary of closed-form kernel mean embeddings*. arXiv:2504.18830. To appear in the Proceedings of the 1st International Conference on Probabilistic Numerics (ProbNum). [(***Preprint***)](https://arxiv.org/abs/2504.18830) [(***Code***)](https://github.com/mmahsereci/kernel_embedding_dictionary)
+* ***Briol, F-X.***, Gessner, A., Karvonen, T. & Mahsereci, M. (2025). *A dictionary of closed-form kernel mean embeddings*. Proceedings of the First International Conference on Probabilistic Numerics, PMLR 271:84-94. [(***Conference***)](https://proceedings.mlr.press/v271/briol25a.html) [(***Preprint***)](https://arxiv.org/abs/2504.18830) [(***Code***)](https://github.com/mmahsereci/kernel_embedding_dictionary)
   
 * Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2025). *Cost-aware simulation-based inference*. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:28-36. [(***Conference***)](https://proceedings.mlr.press/v258/bharti25a.html) [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-CaSBI.pdf)
 
