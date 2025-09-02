@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-I am Professor of Statistics and Machine Learning (effective Oct 2025) at [UCL Statistical Science](https://www.ucl.ac.uk/statistics/), where I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) research group. 
+I am Professor of Statistics and Machine Learning at [UCL Statistical Science](https://www.ucl.ac.uk/statistics/), where I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io) research group. 
 
 My research focuses on statistical and machine learning methodology, though I am also interested in applications in the sciences and engineering. My primary focus it the design of methods to merge large-scale scientific models with data, which requires the development of novel computational methods, inference methods that remain robust to model misspecification, and tools for uncertainty quantification. 
 
