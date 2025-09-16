@@ -22,7 +22,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Published Papers
 
-* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=YG84SWm7gn) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP)
+* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=YG84SWm7gn) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP) [(***Video***)](https://www.youtube.com/watch?v=oYthwdum7m0)
   
 * Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. arXiv:2502.18284. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=OKbECHtO4S) [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
 
@@ -40,7 +40,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Duran-Martin, G., Altamirano, M., Shestopaloff, A. Y., Sanchez-Betancourt, L., Knoblauch, J., Jones, M., ***Briol, F-X.*** & Murphy, K. (2024). *Outlier-robust Kalman filtering through generalised Bayes*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:12138-12171. [(***Conference***)](https://proceedings.mlr.press/v235/duran-martin24a.html) [(***Preprint***)](https://arxiv.org/abs/2405.05646) [(***Code***)](https://github.com/gerdm/weighted-likelihood-filter) [(***Video***)](https://www.youtube.com/watch?v=W28MXpvCc_8)
 
-* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2024). *Robust and conjugate Gaussian process regression*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:1155-1185. [(***Conference***)](https://proceedings.mlr.press/v235/altamirano24a.html) [(***Preprint***)](https://arxiv.org/abs/2311.00463) [(***Code***)](https://github.com/maltamiranomontero/RCGP) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-RCGP.pdf)
+* Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2024). *Robust and conjugate Gaussian process regression*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:1155-1185. [(***Conference***)](https://proceedings.mlr.press/v235/altamirano24a.html) [(***Preprint***)](https://arxiv.org/abs/2311.00463) [(***Code***)](https://github.com/maltamiranomontero/RCGP) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-RCGP.pdf) [(***Video***)](https://www.youtube.com/watch?v=oYthwdum7m0)
 	* This paper was accepted as a spotlight paper (top 3.5% of submitted papers).
    
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2024). *Generalised Bayesian inference for discrete intractable likelihood*. Journal of the American Statistical Association (to appear). [(***Journal***)](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257891) [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
