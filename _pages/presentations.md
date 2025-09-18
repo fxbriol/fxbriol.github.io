@@ -7,6 +7,7 @@ author_profile: true
 
 ### 2025
 
+* 11th November 2025 - Talk - ***MRC Biostatistics unit, University of Cambridge*** (Cambridge, UK).
 * 28th October 2025 - Talk - ***University of Warwick***, Seminar on Statistical Learning and Inference (Coventry, UK).
 * 22nd October 2025 - Talk - [***Workshop on Kernels, Flows & Sampling***](https://sites.google.com/view/kernels-flows-and-sampling/home), Newcastle University (Newcastle, UK).
 * 1st-3rd September 2025 - Talk - [***ProbNum 2025***](https://probnum25.github.io): The First International Conference on Probabilistic Numerics (Nice, France).
