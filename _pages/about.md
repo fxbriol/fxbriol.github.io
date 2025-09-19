@@ -25,7 +25,7 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 * I have been promoted to *Professor of Statistics and Machine Learning* at UCL, effective 1st October 2025.
 
-* I have joined the organisers of the 'One World Approximate Bayesian Inference' online seminar series. See [here](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/) for future talks.
+* I have joined the organisers of the 'One World Approximate Bayesian Inference' (OWABI) online seminar series. See [here](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/) for future talks.
 
 * [New paper](https://arxiv.org/abs/2506.06087) on simulation-based inference with multiple simulators of varying fidelity accepted at NeurIPS 2025. 
 
