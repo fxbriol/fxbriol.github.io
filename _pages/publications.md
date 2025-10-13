@@ -15,11 +15,11 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2025). *Stationary MMD points for cubature*. arXiv:2505.20754. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/MMDF_cubature)
 
-* Liu, X. & ***Briol, F-X.*** (2024). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
-
 
 ## Published Papers
 
+* Liu, X. & ***Briol, F-X.*** (2025+). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. Accepted for publication at JMLR. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
+* 
 * Hikida, Y., Bharti, A., Jeffrey, N. & ***Briol, F-X.*** (2025). *Multilevel neural simulation-based inference*. arXiv:2506.06087. To appear at NeurIPS 2025. [(***Preprint***)](https://arxiv.org/abs/2506.06087) [(***Code***)](https://github.com/yugahikida/multilevel-sbi)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2025 workshop "AI for Science: The Reach and Limits of AI for Scientific Discovery"](https://ai4sciencecommunity.github.io/neurips25).
  
