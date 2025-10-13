@@ -19,7 +19,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 ## Published Papers
 
 * Liu, X. & ***Briol, F-X.*** (2025+). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. Accepted for publication at JMLR. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
-* 
+ 
 * Hikida, Y., Bharti, A., Jeffrey, N. & ***Briol, F-X.*** (2025). *Multilevel neural simulation-based inference*. arXiv:2506.06087. To appear at NeurIPS 2025. [(***Preprint***)](https://arxiv.org/abs/2506.06087) [(***Code***)](https://github.com/yugahikida/multilevel-sbi)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2025 workshop "AI for Science: The Reach and Limits of AI for Scientific Discovery"](https://ai4sciencecommunity.github.io/neurips25).
  
