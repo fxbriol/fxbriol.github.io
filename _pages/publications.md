@@ -18,16 +18,16 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Published Papers
 
-* Liu, X. & ***Briol, F-X.*** (2025+). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. Accepted for publication at JMLR. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
+* Liu, X. & ***Briol, F-X.*** (2025+). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. To appear at the Journal of Machine Learning Research. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
  
 * Hikida, Y., Bharti, A., Jeffrey, N. & ***Briol, F-X.*** (2025). *Multilevel neural simulation-based inference*. arXiv:2506.06087. To appear at NeurIPS 2025. [(***Preprint***)](https://arxiv.org/abs/2506.06087) [(***Code***)](https://github.com/yugahikida/multilevel-sbi)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2025 workshop "AI for Science: The Reach and Limits of AI for Scientific Discovery"](https://ai4sciencecommunity.github.io/neurips25).
  
-* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=YG84SWm7gn) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP) [(***Video***)](https://www.youtube.com/watch?v=oYthwdum7m0)
+* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:32562-32592. [(***Conference***)](https://proceedings.mlr.press/v267/laplante25a.html) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP) [(***Video***)](https://www.youtube.com/watch?v=oYthwdum7m0)
   
-* Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. arXiv:2502.18284. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=OKbECHtO4S) [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
+* Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:8760-8793. [(***Conference***)](https://proceedings.mlr.press/v267/chen25av.html) [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
 
-* Naslidnyk, M., Chau, S. L., ***Briol, F-X.*** & Muandet, K. (2025). *Kernel quantile embeddings and associated probability metrics*. arXiv:2505.20433. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=9LqXn0Izwk) [(***Preprint***)](https://arxiv.org/abs/2505.20433) [(***Code***)](https://github.com/MashaNaslidnyk/kqe)
+* Naslidnyk, M., Chau, S. L., ***Briol, F-X.*** & Muandet, K. (2025). *Kernel quantile embeddings and associated probability metrics*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:45770-45800. [(***Conference***)](https://proceedings.mlr.press/v267/naslidnyk25a.html) [(***Preprint***)](https://arxiv.org/abs/2505.20433) [(***Code***)](https://github.com/MashaNaslidnyk/kqe)
 
 * ***Briol, F-X.***, Gessner, A., Karvonen, T. & Mahsereci, M. (2025). *A dictionary of closed-form kernel mean embeddings*. Proceedings of the First International Conference on Probabilistic Numerics, PMLR 271:84-94. [(***Conference***)](https://proceedings.mlr.press/v271/briol25a.html) [(***Preprint***)](https://arxiv.org/abs/2504.18830) [(***Code***)](https://github.com/mmahsereci/kernel_embedding_dictionary)
   
