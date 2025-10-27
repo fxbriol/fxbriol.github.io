@@ -23,7 +23,9 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 ## News
 
-* I have been promoted to *Professor of Statistics and Machine Learning* at UCL, effective 1st October 2025.
+* Congratulations to my PhD student [Masha Naslidnyk](https://mashanaslidnyk.github.io), who has been awarded a two-year EPSRC-funded fellowship for her project on 'Probabilistic AI for spatiotemporal mapping of tumour evolution'.
+  
+* I have been promoted to *Professor of Statistics and Machine Learning* at UCL.
 
 * I have joined the organisers of the 'One World Approximate Bayesian Inference' (OWABI) online seminar series. See [here](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/) for future talks.
 
