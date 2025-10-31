@@ -13,7 +13,9 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2025). *Stationary MMD points for cubature*. arXiv:2505.20754. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/MMDF_cubature)
+* Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2025+). *Multi-output robust and conjugate Gaussian processes*. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
+
+* Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2025+). *Stationary MMD points for cubature*. arXiv:2505.20754. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/MMDF_cubature)
 
 
 ## Published Papers
