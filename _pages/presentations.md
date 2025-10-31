@@ -7,9 +7,9 @@ author_profile: true
 
 ### 2025
 
-* 11th November 2025 - Talk - ***MRC Biostatistics Unit, University of Cambridge*** (Cambridge, UK).
+* 11th November 2025 - Talk - [***MRC Biostatistics Unit, University of Cambridge***](https://www.mrc-bsu.cam.ac.uk/events/bsu-seminar-robust-and-conjugate-gaussian-processes) (Cambridge, UK).
 * 30th October 2025 - Talk - [***One World Approximate Bayesian Inference (ABI) Seminar***](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/) (online).
-* 28th October 2025 - Talk - ***University of Warwick***, Seminar on Statistical Learning and Inference (Coventry, UK).
+* 28th October 2025 - Talk - ***University of Warwick***, [Statistical Learning and Inference Seminar](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/statisticallearning/) (Coventry, UK).
 * 22nd October 2025 - Talk - [***Workshop on Kernels, Flows & Sampling***](https://sites.google.com/view/kernels-flows-and-sampling/home), Newcastle University (Newcastle, UK).
 * 1st-3rd September 2025 - Talk - [***ProbNum 2025***](https://probnum25.github.io): The First International Conference on Probabilistic Numerics (Nice, France).
 * 26th-29th August 2025 - Talk - [***Greek Stochastics***](https://www.stochastics.gr/meetings/omicron/index.html), Short course on 'Scalable and robust simulation-based inference' (Folegandros, Greece).
