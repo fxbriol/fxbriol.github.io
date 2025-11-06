@@ -21,7 +21,7 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 ## Post-PhD
 
-I do not currently have funding available for additional postdoctoral positions. If you are interested in applying for independent funding and would like to be based at UCL, do feel free to get in touch with me.
+I do not currently have funding available for additional postdoctoral positions. If you are interested in applying for independent funding and would like to be based at UCL, do feel free to get in touch with me. You may want to have a look at the list of [independent fellowships](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/research/research-fellowships) that is maintained on the UCL Statistical Science website.
 
 ## Visiting Researchers
 
