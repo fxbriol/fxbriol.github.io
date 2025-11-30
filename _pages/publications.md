@@ -129,7 +129,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 ## Technical Reports
 
-* Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2024). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100.  [(***Preprint***)](https://arxiv.org/abs/2112.02100)
+* Wenger, J., Krämer, N., Pförtner, M., Schmidt, J., Bosch, N., Effenberger, N., Zenn, J., Gessner, A., Karvonen, T., ***Briol, F-X***, Mahsereci, M. & Hennig, P. (2021). *ProbNum: Probabilistic numerics in Python*. arXiv:2112.02100.  [(***Preprint***)](https://arxiv.org/abs/2112.02100)
 	* This paper is the reference for the open-source ProbNum software, which implements a range of probabilistic numerics methods in Python. Full details are available at [http://www.probnum.org](http://www.probnum.org).
    
 * ***Briol, F-X.***, Barp, A., Duncan, A. B. & Girolami, M. (2019). *Statistical inference for generative models with maximum mean discrepancy*. arXiv:1906.05944. [(***Preprint***)](https://arxiv.org/abs/1906.05944) [(***Talk/Video***)](https://youtu.be/mm7bHjEzhow)
