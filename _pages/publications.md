@@ -13,6 +13,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Laplante, W., Altamirano, M., Knoblauch, J., Duncan, A. D., ***Briol, F-X.*** (2025+). *Conjugate generalised Bayesian inference for discrete doubly intractable problems*. arXiv:2511.23275. [(***Preprint***)](https://arxiv.org/abs/2511.23275) [(***Code***)](https://github.com/williamlaplante/DSM)
+
 * Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2025+). *Multi-output robust and conjugate Gaussian processes*. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
 
 * Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2025+). *Stationary MMD points for cubature*. arXiv:2505.20754. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/MMDF_cubature)
