@@ -8,7 +8,7 @@ My favourite part of my job is to supervise research projects and I supervise on
 
 ## PhD Students
 
-***[Update: The deadline for applications for the 2025/2026 has now passed. I will be considering PhD applicants for 2026/2027 from Autumn 2025 onwards.]***
+***[Update: I am not able to support any more PhD applications through the department of Statistical Science as I will be on personal leave for most of December and January. If you would like to work with me, please consider contacting [Dr Jeremias Knoblauch](https://jeremiasknoblauch.github.io) or [Dr Alessandro Barp](https://alebarp.github.io) and suggesting a co-supervised project. Alternatively, you may want to apply to the [CCMI CDT](https://ccmi-cdt.org) as applications for this programme do not require a named supervisor and I will be very happy to consider any successful candidate on this programme.]***
 
 **What I am looking for:** 
 I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. Typical students in my group have achieved top grades in mathematics, statistics or computer science undergraduate and postgraduate taught programmes, and have previous research experience through a research thesis or summer research placements.  I am also very happy to consider applicants with experience in industry. Note that I do not typically consider applicants without a MSc (either already completed or in progress). Beyond mathematical background and programming abilities, what I value most is students who are driven and passionate about their work.
