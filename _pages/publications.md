@@ -13,6 +13,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
+* Kang, S. S., ***Briol, F-X.***, Karvonen, T., Chen, Z. (2025+). *BayesSum: Bayesian quadrature in discrete spaces*. arXiv:2512.16105. [(***Preprint***)](https://arxiv.org/abs/2512.16105) [(***Code***)](https://github.com/seulkang0518/BayesSum).
+
 * Laplante, W., Altamirano, M., Knoblauch, J., Duncan, A. D., ***Briol, F-X.*** (2025+). *Conjugate generalised Bayesian inference for discrete doubly intractable problems*. arXiv:2511.23275. [(***Preprint***)](https://arxiv.org/abs/2511.23275) [(***Code***)](https://github.com/williamlaplante/DSM) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-LRM-Bayes.pdf)
 
 * Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2025+). *Multi-output robust and conjugate Gaussian processes*. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
