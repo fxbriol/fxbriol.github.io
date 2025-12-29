@@ -24,7 +24,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Published Papers
 
-* Liu, X. & ***Briol, F-X.*** (2025+). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. To appear at the Journal of Machine Learning Research. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
+* Liu, X. & ***Briol, F-X.*** (2025). *On the robustness of kernel goodness-of-fit tests*. Journal of Machine Learning Research, 26(262):1-72.  [(***Journal***)](http://jmlr.org/papers/v26/24-1365.html) [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
  
 * Hikida, Y., Bharti, A., Jeffrey, N. & ***Briol, F-X.*** (2025). *Multilevel neural simulation-based inference*. arXiv:2506.06087. To appear at NeurIPS 2025. [(***Preprint***)](https://arxiv.org/abs/2506.06087) [(***Code***)](https://github.com/yugahikida/multilevel-sbi) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-ML-NLE.pdf) [(***Video***)](https://www.youtube.com/watch?v=hBWd85edW3w)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2025 workshop "AI for Science: The Reach and Limits of AI for Scientific Discovery"](https://ai4sciencecommunity.github.io/neurips25).
@@ -39,7 +39,7 @@ This page contains all my publications; for more details, see my [Google Scholar
   
 * Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2025). *Cost-aware simulation-based inference*. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:28-36. [(***Conference***)](https://proceedings.mlr.press/v258/bharti25a.html) [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-CaSBI.pdf) [(***Video***)](https://www.youtube.com/watch?v=9tnp9fbpydY)
 
-* Key, O., Gretton, A., ***Briol, F-X.*** & Fernandez, T. (2025). *Composite goodness-of-fit tests with kernels*. Journal of Machine Learning Research, 26(51):1−60, 2025. [(***Journal***)](https://jmlr.org/papers/v26/24-0276.html) [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests) [(***Video***)](https://www.youtube.com/watch?v=LGLagrXICAQ)
+* Key, O., Gretton, A., ***Briol, F-X.*** & Fernandez, T. (2025). *Composite goodness-of-fit tests with kernels*. Journal of Machine Learning Research, 26(51):1−60. [(***Journal***)](https://jmlr.org/papers/v26/24-0276.html) [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests) [(***Video***)](https://www.youtube.com/watch?v=LGLagrXICAQ)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
