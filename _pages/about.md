@@ -23,6 +23,8 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 ## News
 
+* I am organising this year's [UCL IMSS Annual Lecture on Computational Statistics and Machine Learning](https://imss2026.github.io), with Dr Lester Mackey as keynote speaker. This will be followed by the two-day [London Meeting on Computational Statistics](https://fsml-ucl.github.io/CSMLworkshop2026/) at the London Mathematical Society.
+
 * Congratulations to my postdoctoral researcher [Harita Dellaporta](https://haritadell.github.io) for her first major grant success for a project entitled 'Reliable insights from scientific simulations'.
 
 * Congratulations to my PhD student [Masha Naslidnyk](https://mashanaslidnyk.github.io) who has been awarded a two-year EPSRC-funded fellowship for her project on 'Probabilistic AI for spatiotemporal mapping of tumour evolution'.
