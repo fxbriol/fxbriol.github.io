@@ -32,7 +32,7 @@ author_profile: true
 
 ### 2024
 
-* 10-11th December 2024 - Talk - [***ANR Samourai RT-UQ workshop***](https://uq.math.cnrs.fr/dec24), Institut Henri Poincare (Paris, France).
+* 10-11th December 2024 - Talk - [***ANR Samourai RT-UQ workshop***](https://uq.math.cnrs.fr/dec24), Institut Henri Poincare (Paris, France). Invited keynote.
 * 28th November 2024 - Talk - ***ESSEC Business School***, [Data Analytics seminar](https://isds-department.essec.edu/research/research-seminars/data-analytics) (Cergy, France).
 * 21st November 2024 - Talk - ***Newcastle University***, [Workshop on Next Generational Extrapolation Methods](https://sites.google.com/view/nuextrapolation/home) (Newcastle, UK).
 * 24th October 2024 - Talk - ***University of Southampton***, [Southampton Statistical Sciences Research Institute (S3RI) seminar series](https://www.southampton.ac.uk/s3ri/news/seminars/latest.page) (Southampton, UK).
@@ -45,7 +45,7 @@ author_profile: true
 * 31st May 2024 - Talk - ***University of Warwick***, [Foundations of AI seminar](https://faiseminarswarwick.github.io) (Coventry, UK).
 * 23rd April 2024 - Talk - ***University College London***, Computational Statistics Theme day, Department of Statistical Science (London, UK).
 * 11th April 2024 - Talk - ***Lancaster University***, Department of Mathematics and Statistics. [Computational Statistics and Machine Learning Seminar](https://lu-csml.github.io/) (Lancaster, UK).
-* 9th-11th April 2024 - Talk - [***STOR-i Masterclass*** on "Stein's Method as a Computational Tool"](https://www.lancaster.ac.uk/stor-i/about-us/events/masterclass-3-dr-francois-xavier-briol-university-college-london-2024-04-09-09-00/), Lancaster University (Lancaster, UK). Delivering three-day masterclass for the STOR-i centre for doctoral training.
+* 9th-11th April 2024 - Talk - [***STOR-i Masterclass*** on "Stein's Method as a Computational Tool"](https://www.lancaster.ac.uk/stor-i/about-us/events/masterclass-3-dr-francois-xavier-briol-university-college-london-2024-04-09-09-00/), Lancaster University (Lancaster, UK). Invited to deliver three-day masterclass for the STOR-i centre for doctoral training.
 * 25th-27th March 2024 - Talk - [***Workshop on Functional Inference and Machine Intelligence (FIMI)***](https://ismseminar.github.io/fimi2024/), University of Bristol (Bristol, UK). 
 
 ### 2023
@@ -53,7 +53,7 @@ author_profile: true
 * 14th November 2023 - Talk - [***BAYSM Conference***](https://events.stat.uconn.edu/BAYSM2023/) (virtual).
 * 6th September 2023 - Talk - [***Royal Statistical Society Conference***](https://rss.org.uk/training-events/conference-2023/invited-session-topics/), Session on "Making Better use of your MCMC Samples" (Harrogate, UK). 
 * 17th-19th July 2023 - Talk - [***Workshop on 'Fusing Simulation with Data Science'***](https://warwick.ac.uk/fac/sci/statistics/news/fsds/), University of Warwick (Coventry, UK).
-* 30th May 2023 - Talk - [***MobilitAI***](https://www.mobilit.ai) (Toulouse, France).
+* 30th May 2023 - Talk - [***MobilitAI***](https://www.mobilit.ai) (Toulouse, France). Invited keynote.
 * 9th-12th May 2023 - Talk - [***ICMS workshop on mathematical foundations of data-driven engineering***](https://www.newton.ac.uk/event/ddew04/), International Centre for Mathematical Sciences, University of Edinburgh (Edinburgh, UK).
 * 15th-17th March 2023 - Talk - [***BayesComp 2023***](https://bayescomp2023.com), special session on "Junior advances in scalable Bayesian methods" (Levi, Finland).
 * 9th March 2023 - Talk - [***Isaac Newton Institute***](https://www.newton.ac.uk/seminar/38530/), Programe on "Data-driven Engineering", University of Cambridge (Cambridge, UK).
