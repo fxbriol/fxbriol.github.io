@@ -62,34 +62,34 @@ author_profile: true
 
 ### 2022
 
-* 9th May 2022 - Talk - ***Finnish Center for Artificial Intelligence***, Machine learning Coffee Seminar (Online talk).
+* 9th May 2022 - Talk - ***Finnish Center for Artificial Intelligence***, Machine learning Coffee Seminar (Online).
 * 27th April 2022 - Talk - ***G-Research*** (London, UK).
-* 17th March 2022 - Talk - ***Boston University, Department of Mathematics & Statistics*** (Online talk).
+* 17th March 2022 - Talk - ***Boston University, Department of Mathematics & Statistics*** (Online).
 * 11th February 2022 - Talk - ***University of Cambridge, Statistical Laboratory*** (Cambridge, UK).
-* 1st February 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Online talk).
-* 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Online Talk). ([Video](https://www.secondmind.ai/labs/seminar-francois-xavier-briol-university-college-london/))
+* 1st February 2022 - Talk - ***Amsterdam Machine Learning Lab, Universiteit van Amsterdam*** (Online).
+* 6th January 2022 - Talk - ***Secondmind***, Research Seminar Series (Online). ([Video](https://www.secondmind.ai/labs/seminar-francois-xavier-briol-university-college-london/))
 
 ### 2021
 
 * 8th December 2021 - Poster - ***Royal Statistical Society***, workshop on Stein's method in computational statistics (London, UK).
 * 11th November 2021 - Talk - ***Cardiff University***, Probability, Statistics, Operational Research and Machine Learning Seminar Series, School of Mathematics (Cardiff, UK).
 * 25th October 2021 - Talk - ***Dagstuhl Seminar on Probabilistic Numerical Computation***, Dagstuhl schloss (Dagstuhl, Germany).
-* 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online talk).
+* 16th September 2021 - Talk - ***Met Office Data Science Community Meetings***, UK Met Office (Online).
 * 9th July 2021 - Talk - [***Warwick SIAM-IMA Applied Mathematics Conference 2021***](https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/conference2021/), University of Warwick (Online talk).
-* 2nd June 2021 - Talk - ***UCL/Met Office Meeting on Uncertainty Quantification and Parametrisations*** (Online talk).
-* 19th February 2021 - Talk - [***OxCSML Seminar***](https://github.com/oxcsml/ML_bazaar/wiki/Seminar), University of Oxford (Online talk).
+* 2nd June 2021 - Talk - ***UCL/Met Office Meeting on Uncertainty Quantification and Parametrisations*** (Online).
+* 19th February 2021 - Talk - [***OxCSML Seminar***](https://github.com/oxcsml/ML_bazaar/wiki/Seminar), University of Oxford (Online).
 
 
 ### 2020
 
-* 25th September 2020 - Talk - ***Duke University***, Department of Statistical Science, Departmental Seminar (Online talk).
+* 25th September 2020 - Talk - ***Duke University***, Department of Statistical Science, Departmental Seminar (Online).
 * 25th September 2020 - Talk - ***RIKEN AIP*** (Online). [(slides)](https://fxbriol.github.io/pdfs/fxbriol_RIKEN_sept2020.pdf)
 * 9-14th August 2020 - Talk - [***14th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing***](https://mcqmc20.web.ox.ac.uk/), University of Oxford (Oxford, UK). [(***Video***)](https://www.youtube.com/watch?v=6MheW58gyKA)
-* 3rd August 2020 - Talk - [***Joint Statistical Meetings 2020***](https://ww2.amstat.org/meetings/jsm/2020/) (Online talk).
-* 30th July 2020 - Talk - University College London, Department of Statistical Science. Departmental Seminar Series (Online talk).
+* 3rd August 2020 - Talk - [***Joint Statistical Meetings 2020***](https://ww2.amstat.org/meetings/jsm/2020/) (Online).
+* 30th July 2020 - Talk - University College London, Department of Statistical Science. Departmental Seminar Series (Online).
 * 25th June 2020 - Talk - [***Junior Bayes Beyond Borders Seminar Series***](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home/Webinar+series/), Bocconi University (Online talk). 
-* 22nd April 2020 - Talk - ***University College London, Department of Computer Science***. AI Centre Seminar (Online talk).
-* 2nd April 2020 - Talk (online) - ***University College London, Department of Statistical Science***, Computational Statistics Reading Group (Online talk).
+* 22nd April 2020 - Talk - ***University College London, Department of Computer Science***. AI Centre Seminar (Online).
+* 2nd April 2020 - Talk (online) - ***University College London, Department of Statistical Science***, Computational Statistics Reading Group (Online).
 * 27th February 2020 - Talk - ***Amazon Research Cambridge*** (Cambridge, UK).
 * 7th February 2020 - Talk - ***Newcastle University, School of Mathematics, Statistics & Physics*** (Newcastle, UK).
 
@@ -160,10 +160,10 @@ author_profile: true
 * 5th April 2016 - Poster - ***University of Warwick***, Statistics Department (Coventry, UK). CRISM Master Class on Nonparametric Bayes.
 * 11th March 2016 - Talk - ***University College London***, Centre for Computational Statistics and Machine Learning (London, UK). Microsoft Research CSML Seminar Series.
 * 8th March 2016 - Talk - ***University of Bath***, Department of Mathematical Sciences, Statistics Seminar (Bath, UK).
-* 7th March 2016 - Talk - ***University of Warwick***, Mathematics Institute (Coventry, UK). EQUIP Research Group, Lunch Talk.
+* 7th March 2016 - Talk - ***University of Warwick***, Mathematics Institute (Coventry, UK). EQUIP Research Group.
 * 29th February 2016 - Poster - ***University of Nottingham*** (Nottingham, UK), LMS workshop on Big Inverse Problems.
-* 1st February 2016 - Talk - ***University of Oxford***, Statistics Department (Oxford, UK). Kernel Methods Talk.
-* 21st January 2016 - Talk - ***University of Oxford***, Engineering Science Department (Oxford, UK). Machine Learning Group, Tea Talk.
+* 1st February 2016 - Talk - ***University of Oxford***, Statistics Department (Oxford, UK). Kernel Methods Reading Group.
+* 21st January 2016 - Talk - ***University of Oxford***, Engineering Science Department (Oxford, UK). Machine Learning Group.
 * 5-7th January 2016 - Talk & Poster - ***6th IMS-ISBA Joint Meeting on Bayesian Computation at MCMSKI V*** (Lenzerheide, Switzerland)
 
 
@@ -176,6 +176,6 @@ author_profile: true
 * 9th October 2015 - Poster - ***University of Warwick***, (Coventry, UK). Oxford-Warwick Workshop: Scalable Statistical Methods for the Analysis of Large and Complex Data Sets.
 * 14th September 2015 - Talk - ***International Conference on Scientific Computation and Differential Equations (SciCADE 2015)***, Minisymposia on Probabilistic Numerical Analysis of Differential Equations, University of Potsdam (Potsdam, Germany).
 * 21st August 2015 - Poster - ***Monash University***, Clayton School of Information Technology (Melbourne, Australia). Machine Learning Bootcamp.
-* 22nd June 2015 - Talk - ***University of Warwick***, Mathematics Institute (Coventry, UK). EQUIP Research Group, Lunch Talk.
-* 11th June 2015 - Talk - ***University of Oxford***, Engineering Science Department (Oxford, UK). Machine Learning Group, Tea Talk.
+* 22nd June 2015 - Talk - ***University of Warwick***, Mathematics Institute (Coventry, UK). EQUIP Research Group.
+* 11th June 2015 - Talk - ***University of Oxford***, Engineering Science Department (Oxford, UK). Machine Learning Group.
 * 17th April 2015 - Poster - ***51st Gregynog Statistical Conference***, Gregynog Hall (Newton, UK).
