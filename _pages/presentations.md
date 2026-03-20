@@ -4,6 +4,11 @@ permalink: /presentations/
 author_profile: true
 ---
 
+### 2026
+
+* 14th-16th December 2026 - Talk - ***Annual Conference of the New Zealand Statistical Association***, (Auckland, NZ).
+
+[Small break from travel due to personal leave!]
 
 ### 2025
 
