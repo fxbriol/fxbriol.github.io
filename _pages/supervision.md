@@ -8,6 +8,8 @@ My favourite part of my job is to supervise research projects and I supervise on
 
 ## PhD Students
 
+***[Update: I am not able to consider any more applications for start in Autumn 2026. If you are interested in starting in Autumn 2027, feel free to reach out from end of summer 2026 onwards. ]***
+
 **What I am looking for:** 
 I am particularly interested in hearing from potential PhD students with a strong mathematical background and/or strong programming abilities. Typical students in my group have achieved top grades in mathematics, statistics or computer science undergraduate and postgraduate taught programmes, and have previous research experience through a research thesis or summer research placements.  I am also very happy to consider applicants with experience in industry. Note that I do not typically consider applicants without a MSc (either already completed or in progress). Beyond mathematical background and programming abilities, what I value most is students who are driven and passionate about their work.
 
@@ -27,7 +29,7 @@ I am always very happy to hear from potential visiting researchers at PhD level 
 
 ## BSc and MSc Students
 
-***[Update: I will not have capacity to take on any BSc/MSc students before Autumn 2025.]***
+***[Update: I will not have capacity to take on any BSc/MSc students before Autumn 2026.]***
 
 I typically supervise BSc students from the BSc Statistics, and MSc students through the MSc Statistics and MSc Data Science programmes, all at UCL. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. 
 
