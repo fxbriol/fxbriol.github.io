@@ -6,3 +6,17 @@
   number_educ: 0
   education1: Prior to starting his PhD, Yuga studied at the University of Dortmund.
 
+- name: Sophia Kang
+  photo: sophia.png
+  info: Sophia is an independent researcher, and her research focuses on kernel methods, optimisation and gradient flows. 
+  email: seulkang0518@gmail.com
+  website: https://www.linkedin.com/in/sophia-kang-614799181
+  number_educ: 0
+
+- name: Yuta Ono
+  photo: yuta.png
+  info: Yuta is a PhD Student at Imperial College London, and his research focuses on scalable deep learning. He started his PhD in Oct 2026 and is supervised by Dr Yingzhen Li, though I am acting as external supervisor.
+  email: ono-yuta116@g.ecc.u-tokyo.ac.jp
+  website: https://yuta0no.github.io
+  number_educ: 0
+
