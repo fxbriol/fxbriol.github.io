@@ -15,8 +15,6 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Bharti, A., Dellaporta, C., Hikida, Y., ***Briol, F-X.*** (2026+). *Amortised and provably-robust simulation-based inference*. arXiv:2602.11325. [(***Preprint***)](https://arxiv.org/abs/arXiv:2602.11325) [(***Code***)](https://github.com/bharti-ayush/nsm-bayes).
 
-* Kang, S. S., ***Briol, F-X.***, Karvonen, T., Chen, Z. (2026+). *BayesSum: Bayesian quadrature in discrete spaces*. arXiv:2512.16105. [(***Preprint***)](https://arxiv.org/abs/2512.16105) [(***Code***)](https://github.com/seulkang0518/BayesSum).
-
 * Laplante, W., Altamirano, M., Knoblauch, J., Duncan, A. D., ***Briol, F-X.*** (2026+). *Conjugate generalised Bayesian inference for discrete doubly intractable problems*. arXiv:2511.23275. [(***Preprint***)](https://arxiv.org/abs/2511.23275) [(***Code***)](https://github.com/williamlaplante/DSM) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-LRM-Bayes.pdf)
 
 * Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2026+). *Multi-output robust and conjugate Gaussian processes*. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
@@ -24,6 +22,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 ## Published Papers
 
 * Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2026). *Stationary MMD points*. arXiv:2505.20754. To appear at ICML 2026. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/MMDF_cubature)
+
+* Kang, S. S., ***Briol, F-X.***, Karvonen, T., Chen, Z. (2026+). *BayesSum: Bayesian quadrature in discrete spaces*. To appear in the proceedings of the International Conference on Probabilistic Numerics 2026. arXiv:2512.16105.  [(***Preprint***)](https://arxiv.org/abs/2512.16105) [(***Code***)](https://github.com/seulkang0518/BayesSum).
 
 * Hikida, Y., Bharti, A., Jeffrey, N. & ***Briol, F-X.*** (2025). *Multilevel neural simulation-based inference*. arXiv:2506.06087. To appear at NeurIPS 2025. [(***Preprint***)](https://arxiv.org/abs/2506.06087) [(***Code***)](https://github.com/yugahikida/multilevel-sbi) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-ML-NLE.pdf) [(***Video***)](https://www.youtube.com/watch?v=hBWd85edW3w)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2025 workshop "AI for Science: The Reach and Limits of AI for Scientific Discovery"](https://ai4sciencecommunity.github.io/neurips25).
