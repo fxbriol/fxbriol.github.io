@@ -35,6 +35,9 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Matsubara, T., Knoblauch, J., ***Briol, F-X.*** & Oates, C. J. (2024). *Generalised Bayesian inference for discrete intractable likelihood*. Journal of the American Statistical Association (to appear). [(***Journal***)](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257891) [(***Preprint***)](https://arxiv.org/abs/2206.08420) [(***Code***)](https://github.com/takuomatsubara/Discrete-Fisher-Bayes)
 
+* Laplante, W., Altamirano, M., Knoblauch, J., Duncan, A. D., ***Briol, F-X.*** (2026+). *Conjugate generalised Bayesian inference for discrete doubly intractable problems*. arXiv:2511.23275. [(***Preprint***)](https://arxiv.org/abs/2511.23275) [(***Code***)](https://github.com/williamlaplante/DSM) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-LRM-Bayes.pdf)
+
+
 Another line of work has been on taking existing Bayesian models and making them robust. There are many existing approaches to this, typically by modifying the likelihood, but this tends to break any computational advantages of these methods such as conjugacy. My work has therefore focused on developing Bayesian methods which are both robust and scalable. Examples includes Gaussian process regression, Kalman filtering, and online changepoint detection:
 
 * Altamirano, M., ***Briol, F-X.*** & Knoblauch, J. (2023). *Robust and scalable Bayesian online changepoint detection*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:642-663. [(***Conference***)](https://proceedings.mlr.press/v202/altamirano23a.html) [(***Preprint***)](https://arxiv.org/abs/2302.04759) [(***Code***)](https://github.com/maltamiranomontero/DSM-bocd) [(***Video***)](https://www.youtube.com/watch?v=exhkRsqq6HA)
