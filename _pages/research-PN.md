@@ -44,14 +44,18 @@ On the modelling side, I have also extended the approach to use alternatives to 
 
 * Ott, K., Tiemann, M., Hennig, P., & ***Briol, F-X.*** (2023). *Bayesian numerical integration with neural networks*. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:1606-1617. [(***Conference***)](https://proceedings.mlr.press/v216/ott23a.html) [(***Preprint***)](https://arxiv.org/abs/2305.13248)
 
-On the applied side, I have shown how Bayesian quadrature can bring crucial computational gains for some challenging computational problems in statistics and machine learning, including multi-fidelity modelling and simulation-based inference:
-
+On the methodology side, I have shown how Bayesian quadrature can bring crucial computational gains for some challenging computational problems in statistics and machine learning, including multi-fidelity modelling and simulation-based inference:
 
 * Li, K., Giles, D., Karvonen, T., Guillas, S. & ***Briol, F-X.*** (2023). *Multilevel Bayesian quadrature*. Proceedings of The 26th International Conference on Artificial Intelligence and Statistics, PMLR 206:1845-1868. [(***Conference***)](https://proceedings.mlr.press/v206/li23a.html) [(***Preprint***)](https://arxiv.org/abs/2210.08329) [(***Code***)](https://github.com/CeciliaKaiyu/MLBQ)
 	* This paper was accepted for an oral presentation (top 6% of accepted papers) at AISTATS.
 
 * Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312. [(***Conference***)](https://proceedings.mlr.press/v202/bharti23a.html) [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
+I have also shown how it can be used for computing conditional expectations or nested expectations which:
+
+* Chen, Z., Naslydnik, M., Gretton, A. & ***Briol, F-X.*** (2024). *Conditional Bayesian quadrature*. Uncertainty in Artificial Intelligence, PMLR 244:648-684. [(***Conference***)](https://proceedings.mlr.press/v244/chen24b.html) [(***Preprint***)](https://arxiv.org/abs/2406.16530) [(***Code***)](https://github.com/hudsonchen/CBQ) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-CBQ.pdf)
+
+* Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:8760-8793. [(***Conference***)](https://proceedings.mlr.press/v267/chen25av.html) [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
 
 Finally, an interesting by-product of my interest in Bayesian numerical methods has been the following paper, which provides some of the most general theoretical results for Gaussian process regression (including implications for Bayesian optimisation and Bayesian quadrature):	
 
