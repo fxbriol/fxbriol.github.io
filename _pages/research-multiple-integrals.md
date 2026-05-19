@@ -35,7 +35,7 @@ My main contribution to answering this problem has been a series of papers which
 
 * Chen, Z., Naslydnik, M., Gretton, A. & ***Briol, F-X.*** (2024). *Conditional Bayesian quadrature*. Uncertainty in Artificial Intelligence, PMLR 244:648-684. [(***Conference***)](https://proceedings.mlr.press/v244/chen24b.html) [(***Preprint***)](https://arxiv.org/abs/2406.16530) [(***Code***)](https://github.com/hudsonchen/CBQ) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-CBQ.pdf)
 
-* * Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:8760-8793. [(***Conference***)](https://proceedings.mlr.press/v267/chen25av.html) [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
+* Chen, Z., Naslidnyk, M. & ***Briol, F-X.*** (2025). *Nested expectations with kernel quadrature*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:8760-8793. [(***Conference***)](https://proceedings.mlr.press/v267/chen25av.html) [(***Preprint***)](https://arxiv.org/abs/2502.18284) [(***Code***)](https://github.com/hudsonchen/nest_kq) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-NKQ.pdf)
 
 
 ## Funding
