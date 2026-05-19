@@ -60,9 +60,10 @@ Another line of work has been on taking existing Bayesian models and making them
 
 Beyond Bayesian methods, I have also been developing hypothesis testing methods, which are either able to detect model misspecification, or be robust to it. Although I have not specifically applied these to Bayesian inference, they very much could be used for this problem too.
 
-* Liu, X. & ***Briol, F-X.*** (2024). *On the robustness of kernel goodness-of-fit tests*. arXiv:2408.05854. [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
+* Liu, X. & ***Briol, F-X.*** (2025). *On the robustness of kernel goodness-of-fit tests*. Journal of Machine Learning Research, 26(262):1-72.  [(***Journal***)](http://jmlr.org/papers/v26/24-1365.html) [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
+ 
 
-* Key, O., Gretton, A., ***Briol, F-X.*** & Fernandez, T. (2025). *Composite goodness-of-fit tests with kernels*. Journal of Machine Learning Research, 26(51):1−60, 2025. [(***Journal***)](https://jmlr.org/papers/v26/24-0276.html) [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests) [(***Video***)](https://www.youtube.com/watch?v=LGLagrXICAQ)
+* Key, O., Gretton, A., ***Briol, F-X.*** & Fernandez, T. (2025). *Composite goodness-of-fit tests with kernels*. Journal of Machine Learning Research, 26(51):1−60. [(***Journal***)](https://jmlr.org/papers/v26/24-0276.html) [(***Preprint***)](https://arxiv.org/abs/2111.10275) [(***Code***)](https://github.com/oscarkey/composite-tests) [(***Video***)](https://www.youtube.com/watch?v=LGLagrXICAQ)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2021 workshop "Your Model is Wrong: 
 Robustness and misspecification in probabilistic modeling"](https://sites.google.com/view/robustbayes-neurips21/home).
 
@@ -70,4 +71,5 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 ## Funding
 
 * **EPSRC Small Grant in the Mathematical Sciences** grant [(EP/Y011805/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) on *"Robust Foundations for Bayesian Inference"*.
+* **Turing Institute project on ``Bayesian Robustness in Filtering Algorithms''**.
 
