@@ -37,6 +37,8 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Laplante, W., Altamirano, M., Knoblauch, J., Duncan, A. D., ***Briol, F-X.*** (2026+). *Conjugate generalised Bayesian inference for discrete doubly intractable problems*. arXiv:2511.23275. [(***Preprint***)](https://arxiv.org/abs/2511.23275) [(***Code***)](https://github.com/williamlaplante/DSM) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-LRM-Bayes.pdf)
 
+* Bharti, A., Dellaporta, C., Hikida, Y., ***Briol, F-X.*** (2026+). *Amortised and provably-robust simulation-based inference*. arXiv:2602.11325. [(***Preprint***)](https://arxiv.org/abs/arXiv:2602.11325) [(***Code***)](https://github.com/bharti-ayush/nsm-bayes).
+
 
 Another line of work has been on taking existing Bayesian models and making them robust. There are many existing approaches to this, typically by modifying the likelihood, but this tends to break any computational advantages of these methods such as conjugacy. My work has therefore focused on developing Bayesian methods which are both robust and scalable. Examples includes Gaussian process regression, Kalman filtering, and online changepoint detection:
 
@@ -47,12 +49,14 @@ Another line of work has been on taking existing Bayesian models and making them
 
 * Duran-Martin, G., Altamirano, M., Shestopaloff, A. Y., Sanchez-Betancourt, L., Knoblauch, J., Jones, M., ***Briol, F-X.*** & Murphy, K. (2024). *Outlier-robust Kalman filtering through generalised Bayes*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:12138-12171. [(***Conference***)](https://proceedings.mlr.press/v235/duran-martin24a.html) [(***Preprint***)](https://arxiv.org/abs/2405.05646) [(***Code***)](https://github.com/gerdm/weighted-likelihood-filter)
 
+* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:32562-32592. [(***Conference***)](https://proceedings.mlr.press/v267/laplante25a.html) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP) [(***Video***)](https://www.youtube.com/watch?v=oYthwdum7m0)
+  
+* Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2026+). *Multi-output robust and conjugate Gaussian processes*. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
+
+
 <p align="center">
   <img src="/images/wolf-IMQ.gif" alt="Robust Kalman Filter through Generalised Bayes" width="70%">
 </p>
-
-* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. arXiv:2502.02450. To appear at ICML 2025. [(***Conference***)](https://openreview.net/forum?id=YG84SWm7gn) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP)
-
 
 Beyond Bayesian methods, I have also been developing hypothesis testing methods, which are either able to detect model misspecification, or be robust to it. Although I have not specifically applied these to Bayesian inference, they very much could be used for this problem too.
 
