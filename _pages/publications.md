@@ -141,7 +141,7 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 ## Workshop Papers & Conferences with High-acceptance Rate 
 
-* Liu, Q., Kanagawa, H., Fisher, M. A., ***Briol, F-X.*** & Oates, C. J. (2025). *Fast approximate solution of Stein equations for post-processing of MCMC*. arXiv:2501.06634. Proceedings of the 16th Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2024 [(***Preprint***)](https://arxiv.org/abs/2501.06634) [(***Code***)](https://github.com/MatthewAlexanderFisher/FastStein)
+* Liu, Q., Kanagawa, H., Fisher, M. A., ***Briol, F-X.*** & Oates, C. J. (2026). *Fast approximate solution of Stein equations for post-processing of MCMC*. arXiv:2501.06634. Proceedings of the 16th Monte Carlo and Quasi-Monte Carlo Methods (MCQMC) conference 2024 [(***Conference***)](https://link.springer.com/chapter/10.1007/978-3-032-10590-5_3) [(***Preprint***)](https://arxiv.org/abs/2501.06634) [(***Code***)](https://github.com/MatthewAlexanderFisher/FastStein)
   
 * Zhang, M., Key, O., Hayes, P., Barber, D., Paige, B. & ***Briol, F-X.*** (2022). *Towards healing the blindness of score matching*. [NeurIPS 2022 workshop on score-based methods](https://score-based-methods-workshop.github.io). arXiv:2209.07396. [(***Preprint***)](https://arxiv.org/abs/2209.07396)
 
