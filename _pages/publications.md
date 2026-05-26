@@ -13,9 +13,9 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Bharti, A., Dellaporta, C., Hikida, Y., ***Briol, F-X.*** (2026+). *Amortised and provably-robust simulation-based inference*. arXiv:2602.11325. [(***Preprint***)](https://arxiv.org/abs/arXiv:2602.11325) [(***Code***)](https://github.com/bharti-ayush/nsm-bayes).
+* Bharti, A., Dellaporta, C., Hikida, Y. & ***Briol, F-X.*** (2026+). *Amortised and provably-robust simulation-based inference*. arXiv:2602.11325. [(***Preprint***)](https://arxiv.org/abs/arXiv:2602.11325) [(***Code***)](https://github.com/bharti-ayush/nsm-bayes).
 
-* Laplante, W., Altamirano, M., Knoblauch, J., Duncan, A. D., ***Briol, F-X.*** (2026+). *Conjugate generalised Bayesian inference for discrete doubly intractable problems*. arXiv:2511.23275. [(***Preprint***)](https://arxiv.org/abs/2511.23275) [(***Code***)](https://github.com/williamlaplante/DSM) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-LRM-Bayes.pdf)
+* Laplante, W., Altamirano, M., Knoblauch, J., Duncan, A. D. & ***Briol, F-X.*** (2026+). *Conjugate generalised Bayesian inference for discrete doubly intractable problems*. arXiv:2511.23275. [(***Preprint***)](https://arxiv.org/abs/2511.23275) [(***Code***)](https://github.com/williamlaplante/DSM) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-LRM-Bayes.pdf)
 
 * Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2026+). *Multi-output robust and conjugate Gaussian processes*. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
 
