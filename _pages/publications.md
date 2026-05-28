@@ -13,7 +13,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Preprints
 
-* Odnoblyudova, A., Dellaporta, C. \& ***Briol, F-X.*** (2026+). *A computationally-tractable measure of global sensitivity for sampling-based Bayesian inference*. arXiv:2605.28099. [(***Preprint***)](https://arxiv.org/abs/2605.28099) [(***Code***)](https://github.com/jularina/fd-sense)
+* Odnoblyudova, A., Dellaporta, C. & ***Briol, F-X.*** (2026+). *A computationally-tractable measure of global sensitivity for sampling-based Bayesian inference*. arXiv:2605.28099. [(***Preprint***)](https://arxiv.org/abs/2605.28099) [(***Code***)](https://github.com/jularina/fd-sense)
 
 * Bharti, A., Dellaporta, C., Hikida, Y. & ***Briol, F-X.*** (2026+). *Amortised and provably-robust simulation-based inference*. arXiv:2602.11325. [(***Preprint***)](https://arxiv.org/abs/arXiv:2602.11325) [(***Code***)](https://github.com/bharti-ayush/nsm-bayes)
 
