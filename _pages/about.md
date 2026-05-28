@@ -22,7 +22,9 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 
 ## News
-* I have been awarded the Royal Statistical Society's [Mardia Prize](https://rss.org.uk/training-events/events/honours/mardia-prize/) for 2026. 
+* I have been awarded the Royal Statistical Society's [Mardia Prize](https://rss.org.uk/training-events/events/honours/mardia-prize/) for 2026.
+
+* I have two papers on interacting particle methods appearing at ICML 2026 in Seoul! In ['Stationary MMD points'](https://arxiv.org/abs/2505.20754), we prove some nice properties of MMD gradient flows where it comes to computing expectations, whereas in [Thinned mean field Langevin dynamics](https://arxiv.org/abs/2605.28589), we show how to reduce the cost of such methods without impacting their convergence rate.
 
 * Congratulations to [Harita Dellaporta](https://haritadell.github.io) for her first major grant success for a project entitled 'Reliable insights from scientific simulations', and to [Masha Naslidnyk](https://mashanaslidnyk.github.io), who has been awarded a two-year EPSRC-funded fellowship for her project on 'Probabilistic AI for spatiotemporal mapping of tumour evolution'.
 
