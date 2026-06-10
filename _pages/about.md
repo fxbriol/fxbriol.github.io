@@ -22,6 +22,9 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 
 ## News
+
+* I have a vacancy for a research assistant/research fellow position which [just opened](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=18527&nPostingTargetId=45123&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext). The deadline for applications is end of July 2026, and the position is available from January to August 2027. 
+
 * I have been awarded the Royal Statistical Society's [Mardia Prize](https://rss.org.uk/training-events/events/honours/mardia-prize/) for 2026.
 
 * I have two papers on interacting particle methods accepted at ICML 2026, both led by [Zonghao Chen](https://hudsonchen.github.io). In ['Stationary MMD points'](https://arxiv.org/abs/2505.20754), we study MMD gradient flows for expectation estimation, whereas in [Thinned mean field Langevin dynamics](https://arxiv.org/abs/2605.28589), we reduce computational cost without sacrificing convergence rates.
