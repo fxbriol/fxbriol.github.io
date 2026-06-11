@@ -1,5 +1,5 @@
 ---
-title: "Supervision"
+title: "Working with me"
 permalink: /supervision/
 author_profile: true
 ---
