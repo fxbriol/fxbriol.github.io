@@ -21,7 +21,7 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 ## Post-PhD
 
-I currently have an opening for a research assistant or research fellow for the period January-August 2027. See [here](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=18527&nPostingTargetId=45123&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext) for more details, including a job description.
+I currently have an opening for a research assistant or research fellow for the period January-August 2027. See [here](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=18527&nPostingTargetId=45123&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext) for more details, including a job description. The deadline for applications is the 31st July 2026.
 
 If you are interested in applying for independent funding and would like to be based at UCL, do feel free to get in touch with me. You may want to have a look at the list of [independent fellowships](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/research/research-fellowships) that is maintained on the UCL Statistical Science website.
 
