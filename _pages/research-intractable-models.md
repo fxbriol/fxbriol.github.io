@@ -32,6 +32,16 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 * Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2024). *Cost-aware simulation-based inference*. arXiv:2410.07930. [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
 
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+      src="https://www.youtube-nocookie.com/embed/hBWd85edW3w"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+      title="YouTube video"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+  </iframe>
+</div>
+
 <p align="center">
   <img src="/images/mvgandk_d2_scatter.png" alt="QMC Sampling from a g-and-k Model" width="50%">
 </p>
