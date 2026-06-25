@@ -29,19 +29,6 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 
 * Bharti, A., Naslidnyk, M., Key, O., Kaski, S., & ***Briol, F-X.*** (2023). *Optimally-weighted estimators of the maximum mean discrepancy for likelihood-free inference*. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:2289-2312. [(***Conference***)](https://proceedings.mlr.press/v202/bharti23a.html) [(***Preprint***)](https://arxiv.org/abs/2301.11674) [(***Code***)](https://github.com/bharti-ayush/optimally-weighted_MMD)
 
-* Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2024). *Cost-aware simulation-based inference*. arXiv:2410.07930. [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi)
-
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe
-      src="https://www.youtube-nocookie.com/embed/hBWd85edW3w"
-      style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-      title="YouTube video"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-  </iframe>
-</div>
-
 <p align="center">
   <img src="/images/mvgandk_d2_scatter.png" alt="QMC Sampling from a g-and-k Model" width="50%">
 </p>
@@ -78,5 +65,26 @@ As part of my work in the Data-Centric Engineering programme of The Alan Turing 
 <p align="center">
   <img src="/images/stochastic-radio-channels.png" alt="Intractable Models in Telecommunications" width="70%">
 </p>
+
+
+More recently, I have been very active in the field of neural simulation-based inference, where neural network based emulators of conditional densities (e.g. based on normalising flows, diffusion models, or other recent AI models) are used to perform inference:
+
+* Bharti, A., Huang, D., Kaski, S. & ***Briol, F-X.*** (2025). *Cost-aware simulation-based inference*. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:28-36. [(***Conference***)](https://proceedings.mlr.press/v258/bharti25a.html) [(***Preprint***)](https://arxiv.org/abs/2410.07930) [(***Code***)](https://github.com/huangdaolang/cost-aware-sbi) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-CaSBI.pdf) [(***Video***)](https://www.youtube.com/watch?v=9tnp9fbpydY)
+
+* Hikida, Y., Bharti, A., Jeffrey, N. & ***Briol, F-X.*** (2025). *Multilevel neural simulation-based inference*. Advances in Neural Information Processing Systems, 52468-52502. [(***Preprint***)](https://arxiv.org/abs/2506.06087) [(***Code***)](https://github.com/yugahikida/multilevel-sbi) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-ML-NLE.pdf) [(***Video***)](https://www.youtube.com/watch?v=hBWd85edW3w)
+	* A preliminary version of the paper was accepted to the [NeurIPS 2025 workshop "AI for Science: The Reach and Limits of AI for Scientific Discovery"](https://ai4sciencecommunity.github.io/neurips25).
+
+* Bharti, A., Dellaporta, C., Hikida, Y. & ***Briol, F-X.*** (2026+). *Amortised and provably-robust simulation-based inference*. arXiv:2602.11325. [(***Preprint***)](https://arxiv.org/abs/arXiv:2602.11325) [(***Code***)](https://github.com/bharti-ayush/nsm-bayes)
+
+* Laplante, W., Hikida, Y., Dellaporta, C., ***Briol, F-X.*** & Bharti, A. (2026+). *Conservative neural posterior estimation via distributionally robust training*. arXiv:2605.28516. [(***Preprint***)](https://arxiv.org/abs/2605.28516) [(***Code***)](https://github.com/yugahikida/dro-npe)
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+      src="https://www.youtube-nocookie.com/embed/hBWd85edW3w"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+      title="YouTube video"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+  </iframe>
+</div>
 
 <br>
