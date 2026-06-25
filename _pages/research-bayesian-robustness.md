@@ -73,3 +73,12 @@ Robustness and misspecification in probabilistic modeling"](https://sites.google
 * **EPSRC Small Grant in the Mathematical Sciences** grant [(EP/Y011805/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y011805/1) on *"Robust Foundations for Bayesian Inference"*.
 * **Turing Institute project on ``Bayesian Robustness in Filtering Algorithms''**.
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe
+      src="https://www.youtube-nocookie.com/embed/oYthwdum7m0"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+      title="YouTube video"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+  </iframe>
+</div>
