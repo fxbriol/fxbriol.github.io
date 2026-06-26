@@ -42,14 +42,3 @@ My main contribution to answering this problem has been a series of papers which
 
 * **Amazon Research Award** for a project entitled *"Transfer Learning for Numerical Integration in Expensive Machine Learning Systems"*. See the following [Amazon announcement](https://www.amazon.science/blog/recipients-of-the-2019-amazon-research-awards-announced) and [UCL press release](https://www.ucl.ac.uk/mathematical-physical-sciences/news/2020/jul/ucl-statistical-science-lecturer-receives-2019-amazon-research-award) for more details.
 * **EPSRC New Investigator Award** grant [(EP/Y022300/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y022300/1) on *"Transfer Learning for Monte Carlo Methods"*.
-
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe
-      src="https://www.youtube.com/embed/WeiP2LCANdw"
-      style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-      title="YouTube video"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-  </iframe>
-</div>
