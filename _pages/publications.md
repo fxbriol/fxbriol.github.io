@@ -12,6 +12,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 * [Robustness in Bayesian Statistics and Machine Learning](https://fxbriol.github.io/research/bayesian-robustness/)
 
 ## Preprints
+* Kang, S. S., Sharrock, L., Cheng, X., ***Briol, F-X.*** & Chen, Z. (2026+). *A gradient flow perspective on minimum MMD estimation*. arXiv:2607.03871. [(***Preprint***)](https://arxiv.org/abs/2607.03871) [(***Code***)](https://github.com/seulkang0518/MDF_AL)
 
 * Odnoblyudova, A., Dellaporta, C. & ***Briol, F-X.*** (2026+). *A computationally-tractable measure of global sensitivity for sampling-based Bayesian inference*. arXiv:2605.28099. [(***Preprint***)](https://arxiv.org/abs/2605.28099) [(***Code***)](https://github.com/jularina/fd-sense)
 
