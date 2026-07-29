@@ -8,6 +8,7 @@ author_profile: true
 
 * 14th-16th December 2026 - Talk - ***Annual Conference of the New Zealand Statistical Association***, (Auckland, NZ). Invited keynote.
 * 8th December 2026 - Talk - ***London Mathematical Society Computer Science Colloquium***, theme: "Machine learning theory". (remote).
+* 13th October 2026 - Talk - ***Newcastle University*** (Newcastle, UK).
 
 [Small break from travel due to personal leave!]
 
