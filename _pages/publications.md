@@ -26,7 +26,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Published Papers
 
-* Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2026). *Stationary MMD points*. arXiv:2505.20754. To appear at ICML 2026. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/MMDF_cubature)
+* Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2026). *Stationary MMD points*. arXiv:2505.20754. To appear at ICML 2026. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/stationary_mmd)
 
 * Chen, Z., Kanagawa, H., ***Briol, F-X.***, Oates, C. J & Mackey, L. (2026). *Thinned mean field Langevin dynamics*. arXiv:2605.28589. To appear at ICML 2026. [(***Preprint***)](https://arxiv.org/abs/2605.28589) [(***Code***)](https://github.com/hudsonchen/thinned_mfld)
 
