@@ -31,7 +31,7 @@ I am always very happy to hear from potential visiting researchers at PhD level 
 
 ## BSc and MSc Students
 
-***[Update: I will not have capacity to take on any BSc/MSc students before Autumn 2026.]***
+***[Update: I will not have capacity to take on any BSc/MSc students before Summer 2027.]***
 
 I typically supervise BSc students from the BSc Statistics, and MSc students through the MSc Statistics and MSc Data Science programmes, all at UCL. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. 
 
