@@ -30,7 +30,7 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Chen, Z., Kanagawa, H., ***Briol, F-X.***, Oates, C. J & Mackey, L. (2026). *Thinned mean field Langevin dynamics*. arXiv:2605.28589. To appear at ICML 2026. [(***Preprint***)](https://arxiv.org/abs/2605.28589) [(***Code***)](https://github.com/hudsonchen/thinned_mfld)
 
-* Kang, S. S., ***Briol, F-X.***, Karvonen, T. & Chen, Z. (2026). *BayesSum: Bayesian quadrature in discrete spaces*. To appear in the proceedings of the International Conference on Probabilistic Numerics 2026. arXiv:2512.16105.  [(***Preprint***)](https://arxiv.org/abs/2512.16105) [(***Code***)](https://github.com/seulkang0518/BayesSum).
+* Kang, S. S., ***Briol, F-X.***, Karvonen, T. & Chen, Z. (2026). *BayesSum: Bayesian quadrature in discrete spaces*. Proceedings of the International Conference on Probabilistic Numerics 2026, PMLR 341:73-89. [(***Conference***)](https://proceedings.mlr.press/v341/kang26a.html)  [(***Preprint***)](https://arxiv.org/abs/2512.16105) [(***Code***)](https://github.com/seulkang0518/BayesSum).
 
 * Hikida, Y., Bharti, A., Jeffrey, N. & ***Briol, F-X.*** (2025). *Multilevel neural simulation-based inference*. Advances in Neural Information Processing Systems, 52468-52502. [(***Preprint***)](https://arxiv.org/abs/2506.06087) [(***Code***)](https://github.com/yugahikida/multilevel-sbi) [(***Slides***)](https://fxbriol.github.io/pdfs/slides-ML-NLE.pdf) [(***Video***)](https://www.youtube.com/watch?v=hBWd85edW3w)
 	* A preliminary version of the paper was accepted to the [NeurIPS 2025 workshop "AI for Science: The Reach and Limits of AI for Scientific Discovery"](https://ai4sciencecommunity.github.io/neurips25).
