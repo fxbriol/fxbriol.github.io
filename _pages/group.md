@@ -144,8 +144,11 @@ I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.gi
 
 ## Alumni
 
-  * [Masha Naslidnyk](https://mashanaslidnyk.github.io) - PhD on "Scalable kernel-based distances for statistical inference and integration" (2021-2025). Now postdoctoral research fellow at UCL Statistical Science.
-  * [Oscar Key](https://oscarkey.github.io) - PhD on "Scalable deep learning and data assimilation" (2020-2025). Now research scientist at Prior Labs.
-  * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD on "Multilevel methods for Monte Carlo integration, with applications to tsunami modelling" (2019-2024). Now research scientist at Comac.
-  * [Zhuo Sun](https://jz-fun.github.io) - PhD on "Transfer learning in Monte Carlo and beyond" (2019-2023). Now assistant professor at Shanghai University of Finance and Economics, and previously research scientist at Huawei.
+  * [Zonghao (Hudson) Chen](https://hudsonchen.github.io) - PhD thesis: "MiniMMD: Minimization of MMD for sampling, inference and integration" (2022-2026). Now postdoctoral researcher at the Wharton School, University of Pennsylvania.
+  * [Matias Altamirano](https://maltamiranomontero.github.io) - PhD thesis: "Reconciling robustness and tractability in Bayesian inference under data contamination" (2022-2026). Now independent postdoctoral fellow (i.e. Nightingale Fellow) in the department of Statistics, University of Oxford.  
+  * [Ilina Yozova](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/academic-and-lecturing-staff/ms-ilina-yozova) - PhD on Bayesian nonparametric methods for causal inference (2021-2026). Now Lecturer (Teaching) at UCL Statistical Science. 
+  * [Masha Naslidnyk](https://mashanaslidnyk.github.io) - PhD thesis: "Scalable kernel-based distances for statistical inference and integration" (2021-2025). Now postdoctoral research fellow at UCL Statistical Science.
+  * [Oscar Key](https://oscarkey.github.io) - PhD thesis: "Scalable deep learning and data assimilation" (2020-2025). Now research scientist at Prior Labs.
+  * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD thesis: "Multilevel methods for Monte Carlo integration, with applications to tsunami modelling" (2019-2024). Now research scientist at Comac.
+  * [Zhuo Sun](https://jz-fun.github.io) - PhD thesis: "Transfer learning in Monte Carlo and beyond" (2019-2023). Now assistant professor at Shanghai University of Finance and Economics, and previously research scientist at Huawei.
 
