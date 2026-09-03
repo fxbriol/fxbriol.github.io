@@ -23,6 +23,8 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 ## News
 
+* I will be visiting the [Department of Statistics at the University of Auckland](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html) from October to December 2026.
+
 * Congratulations to [Arina Odnoblyudova](https://jularina.github.io/arina-odv-web/) for the first preprint of her PhD, which shows how to make Bayesian global sensitivity computationally tractable for modern Bayesian inference problems. Find out more [here](https://arxiv.org/abs/2605.28099).
 
 * Congratulations to [Zonghao (Hudson) Chen](https://hudsonchen.github.io) for successfully completing his PhD! Hudson will now move to the Wharton School at the University of Pennsylvania for a postdoctoral position.
