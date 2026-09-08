@@ -4,6 +4,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
+### 2027
+
+* 9th February 2027 - Talk - Workshop on Stein Methods and Statistics, University of Manchester (Manchester, UK).
+
 ### 2026
 
 * 14th-16th December 2026 - Talk - [***Annual Conference of the New Zealand Statistical Association***](https://www.stats.org.nz/nzsa2026/index.php), (Auckland, NZ). Invited keynote.
