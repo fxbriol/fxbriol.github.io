@@ -19,7 +19,7 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 **Application process:** I can supervise PhD students at UCL through a number of routes. One important point is that applications for PhD positions are often separate from applications for scholarships. In those cases, you will usually have to submit two types of applications, one for admission to UCL and the other for funding. Here are a few of the main [funding routes](https://fxbriol.github.io/supervision/funding/) to consider. If you get in touch with me about an application, I am happy to help you navigate this.
 
-## Post-PhD
+## Postdoctoral Research
 
 I do not currently have any additional funding for postdoctoral researchers. However, we are expecting several postdoctoral positions to open in the next few months, so feel free to reach out to me if you might be interested in workshing with me. 
 
@@ -33,6 +33,6 @@ I am always very happy to hear from potential visiting researchers at PhD level 
 
 ***[Update: I will not have capacity to take on any BSc/MSc students before Summer 2027.]***
 
-I typically supervise BSc students from the BSc Statistics, and MSc students through the MSc Statistics and MSc Data Science programmes, all at UCL. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. 
+I typically supervise BSc students from the BSc Statistics and BSc Data Science, and MSc students through the MSc Statistics and MSc Data Science programmes, all at UCL. If you are currently enrolled in one of these programmes, feel free to contact me about research projects which align with my research. 
 
 Unfortunately I am not able to supervise any other BSc or MSc projects at this time (whether in other departments at UCL or beyond UCL). I am also not able to welcome research interns at BSc/MSc level from other universities (whether remote or in person). I will therefore not answer any email enquiries about this.
