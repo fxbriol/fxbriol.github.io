@@ -6,14 +6,15 @@ author_profile: true
 
 ### 2027
 
-* 9th February 2027 - Talk - Workshop on Stein Methods and Statistics, University of Manchester (Manchester, UK).
+* 25th February 2027 - Talk - ***University of York***, Statistics Seminar.
+* 9th February 2027 - Talk - Workshop on Stein Methods and Statistics, University of Manchester.
 
 ### 2026
 
-* 14th-16th December 2026 - Talk - [***Annual Conference of the New Zealand Statistical Association***](https://www.stats.org.nz/nzsa2026/index.php), (Auckland, NZ). Invited keynote.
-* 8th December 2026 - Talk - [***London Mathematical Society Computer Science Colloquium***](https://www.lms.ac.uk/events/lms-computer-science-colloquium-2026), theme: "Scientific Machine learning". (remote).
+* 14th-16th December 2026 - Talk - [***Annual Conference of the New Zealand Statistical Association***](https://www.stats.org.nz/nzsa2026/index.php), University of Auckland. Invited keynote.
+* 8th December 2026 - Talk - [***London Mathematical Society Computer Science Colloquium***](https://www.lms.ac.uk/events/lms-computer-science-colloquium-2026), theme: "Scientific Machine learning".
 * 13th October 2026 - Talk - ***Newcastle University*** (Newcastle, UK).
-* 24th September 2026 - Talk - ***The Alan Turing Institute***, Environmental Forecasting theme (London, UK).
+* 24th September 2026 - Talk - ***The Alan Turing Institute***, Environmental Forecasting theme seminar.
 
 [Small break from travel due to personal leave!]
 
