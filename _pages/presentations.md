@@ -7,7 +7,7 @@ author_profile: true
 ### 2027
 
 * 25th February 2027 - Talk - ***University of York***, Statistics Seminar.
-* 9th February 2027 - Talk - Workshop on Stein Methods and Statistics, University of Manchester.
+* 9th February 2027 - Talk - ***Workshop on Stein Methods and Statistics***, University of Manchester.
 
 ### 2026
 
