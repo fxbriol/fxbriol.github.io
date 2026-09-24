@@ -25,7 +25,7 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 * Congratulations to [Arina Odnoblyudova](https://jularina.github.io/arina-odv-web/) for the first preprint of her PhD, which shows how to make Bayesian global sensitivity computationally tractable for modern Bayesian inference problems. Find out more [here](https://arxiv.org/abs/2605.28099).
 
-* Congratulations to [Zonghao (Hudson) Chen](https://hudsonchen.github.io) for successfully completing his PhD! Hudson will now move to the Wharton School at the University of Pennsylvania for a postdoctoral position.
+* Congratulations to [Zonghao (Hudson) Chen](https://hudsonchen.github.io) and [Matias Altamirano](https://maltamiranomontero.github.io) for successfully completing their PhD! Hudson will now move to the Wharton School at the University of Pennsylvania for a postdoctoral position, whilst Matias will take up a Florence Nightingale Fellowship in the Department of Statistics at the University of Oxford.
 
 * Congratulations to [Harita Dellaporta](https://haritadell.github.io) for her first major grant success for a project entitled 'Reliable insights from scientific simulations', and to [Masha Naslidnyk](https://mashanaslidnyk.github.io), who has been awarded a two-year EPSRC-funded fellowship for her project on 'Probabilistic AI for spatiotemporal mapping of tumour evolution'.
 
