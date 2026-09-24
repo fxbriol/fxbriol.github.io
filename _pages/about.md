@@ -23,12 +23,10 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 ## News
 
-* Congratulations to [Arina Odnoblyudova](https://jularina.github.io/arina-odv-web/) for the first preprint of her PhD, which shows how to make Bayesian global sensitivity computationally tractable for modern Bayesian inference problems. Find out more [here](https://arxiv.org/abs/2605.28099).
+* I was awarded the Royal Statistical Society's [Mardia Prize](https://rss.org.uk/training-events/events/honours/mardia-prize/) 2026 jointly with my colleague Purvasha Chakravarti.
+
+* [Arina Odnoblyudova](https://jularina.github.io/arina-odv-web/) has recently uploaded the first preprint of her PhD. The paper shows how to make Bayesian global sensitivity computationally tractable for modern Bayesian inference problems. Find out more [here](https://arxiv.org/abs/2605.28099).
 
 * Congratulations to [Zonghao (Hudson) Chen](https://hudsonchen.github.io) and [Matias Altamirano](https://maltamiranomontero.github.io) for successfully completing their PhD! Hudson will now move to the Wharton School at the University of Pennsylvania for a postdoctoral position, whilst Matias will take up a Florence Nightingale Fellowship in the Department of Statistics at the University of Oxford.
-
-* Congratulations to [Harita Dellaporta](https://haritadell.github.io) for her first major grant success for a project entitled 'Reliable insights from scientific simulations', and to [Masha Naslidnyk](https://mashanaslidnyk.github.io), who has been awarded a two-year EPSRC-funded fellowship for her project on 'Probabilistic AI for spatiotemporal mapping of tumour evolution'.
-
-* I recently gave a course on "Robust and scalable simulation-based inference" at [Greek Stochastics 2025](https://www.stochastics.gr/meetings/omicron/index.html). The slides are now available [here](https://fxbriol.github.io/pdfs/slides-SBI-course.pdf).
 
 
