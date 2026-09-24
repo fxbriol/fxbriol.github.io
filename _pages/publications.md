@@ -28,9 +28,9 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 * Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2026+). *Multi-output robust and conjugate Gaussian processes*. Accepted for publication at NeurIPS 2026. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
   
-* Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2026). *Stationary MMD points*. arXiv:2505.20754. To appear at ICML 2026. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/stationary_mmd)
+* Chen, Z., Karvonen, T., Kanagawa, H., ***Briol, F-X.*** & Oates, C. J. (2026). *Stationary MMD points*. Accepted for publication at ICML 2026. arXiv:2505.20754. [(***Preprint***)](https://arxiv.org/abs/2505.20754) [(***Code***)](https://github.com/hudsonchen/stationary_mmd)
 
-* Chen, Z., Kanagawa, H., ***Briol, F-X.***, Oates, C. J & Mackey, L. (2026). *Thinned mean field Langevin dynamics*. arXiv:2605.28589. To appear at ICML 2026. [(***Preprint***)](https://arxiv.org/abs/2605.28589) [(***Code***)](https://github.com/hudsonchen/thinned_mfld)
+* Chen, Z., Kanagawa, H., ***Briol, F-X.***, Oates, C. J & Mackey, L. (2026). *Thinned mean field Langevin dynamics*. Accepted for publication at ICML 2026. arXiv:2605.28589. [(***Preprint***)](https://arxiv.org/abs/2605.28589) [(***Code***)](https://github.com/hudsonchen/thinned_mfld)
 
 * Kang, S. S., ***Briol, F-X.***, Karvonen, T. & Chen, Z. (2026). *BayesSum: Bayesian quadrature in discrete spaces*. Proceedings of the International Conference on Probabilistic Numerics 2026, PMLR 341:73-89. [(***Conference***)](https://proceedings.mlr.press/v341/kang26a.html)  [(***Preprint***)](https://arxiv.org/abs/2512.16105) [(***Code***)](https://github.com/seulkang0518/BayesSum).
 
