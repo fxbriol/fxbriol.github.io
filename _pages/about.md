@@ -22,7 +22,7 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 
 ## News
-* I have two papers recently accepted at NeurIPS 2026. The first covers [reliable neural simulation-based inference](https://arxiv.org/abs/2605.28516), whilst the second covers [robust multi-output Gaussian process regression](https://arxiv.org/abs/2510.26401).
+* I have two papers accepted at NeurIPS 2026. The first covers [reliable neural simulation-based inference](https://arxiv.org/abs/2605.28516), whilst the second covers [robust multi-output Gaussian process regression](https://arxiv.org/abs/2510.26401).
 
 * I was awarded the Royal Statistical Society's [Mardia Prize](https://rss.org.uk/training-events/events/honours/mardia-prize/) 2026 jointly with my colleague Purvasha Chakravarti.
 
