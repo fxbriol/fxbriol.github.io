@@ -23,7 +23,7 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 ## News
 
-* I am considering PhD applications for autumn 2027 on the topic of robust and scalable probabilistic machine learning. If you are interested, please read carefully my [supervision](https://fxbriol.github.io/supervision/) page before contacting me. For funding, you may want to consider the [UELA studentships](https://www.jobs.ac.uk/job/DTA190/50-fully-funded-4-year-epsrc-phd-studentships-in-engineering-and-physical-sciences), or if you are interested in collaborating with climate scientists, the [UnRisk CDT](https://unrisk-cdt.ac.uk/projects/robust-and-scalable-spatio-temporal-modelling/).
+* I am considering PhD applications for autumn 2027 on the topic of robust and scalable probabilistic machine learning. If you are interested, please read this [webpage](https://fxbriol.github.io/supervision/) carefully before contacting me. For funding, you may want to consider the [UELA studentships](https://www.jobs.ac.uk/job/DTA190/50-fully-funded-4-year-epsrc-phd-studentships-in-engineering-and-physical-sciences), or if the [UnRisk CDT](https://unrisk-cdt.ac.uk/projects/robust-and-scalable-spatio-temporal-modelling/).
 
 * I have two papers accepted at NeurIPS 2026. The first covers [reliable neural simulation-based inference](https://arxiv.org/abs/2605.28516), whilst the second covers [robust multi-output Gaussian process regression](https://arxiv.org/abs/2510.26401).
 
