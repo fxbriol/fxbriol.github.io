@@ -22,6 +22,9 @@ For more details on my work, see my [Google Scholar](https://scholar.google.co.u
 
 
 ## News
+
+* I am currently considering applications for PhDs in autumn 2027 on robust and scalable probabilistic machine learning. If you are interested, please read carefully my [supervision](https://fxbriol.github.io/supervision/) page before contacting me. For funding, you may want to consider the UELA studentships, or if you are interested in collaborating with climate scientists, the [UnRisk CDT](https://unrisk-cdt.ac.uk/projects/robust-and-scalable-spatio-temporal-modelling/).
+
 * I have two papers accepted at NeurIPS 2026. The first covers [reliable neural simulation-based inference](https://arxiv.org/abs/2605.28516), whilst the second covers [robust multi-output Gaussian process regression](https://arxiv.org/abs/2510.26401).
 
 * I was (jointly) awarded the Royal Statistical Society's [Mardia Prize](https://rss.org.uk/training-events/events/honours/mardia-prize/) 2026.
