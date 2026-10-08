@@ -151,4 +151,3 @@ I co-lead the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.gi
   * [Oscar Key](https://oscarkey.github.io) - PhD thesis: "Scalable deep learning and data assimilation" (2020-2025). Now research scientist at Prior Labs.
   * [Kaiyu Li](https://ceciliakaiyu.github.io) - PhD thesis: "Multilevel methods for Monte Carlo integration, with applications to tsunami modelling" (2019-2024). Now research scientist at Comac.
   * [Zhuo Sun](https://jz-fun.github.io) - PhD thesis: "Transfer learning in Monte Carlo and beyond" (2019-2023). Now assistant professor at Shanghai University of Finance and Economics, and previously research scientist at Huawei.
-
