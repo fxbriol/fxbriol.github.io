@@ -6,6 +6,7 @@ author_profile: true
 
 ### 2027
 
+* 18th-20th May 2027 - Talk - ***BayesComp 2027***, Invited session on 'Reliable and Robust simulation-based inference'.
 * 25th February 2027 - Talk - ***University of York***, Statistics Seminar.
 * 9th February 2027 - Talk - ***Workshop on Stein Methods and Statistics***, University of Manchester.
 
