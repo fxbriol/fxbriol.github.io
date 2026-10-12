@@ -30,6 +30,14 @@
   number_educ: 0
   education1: Prior to starting his PhD, Ahab studied at Oxford and UCL. 
 
+- name: Marta Piperno
+  photo: marta.jpg
+  info: Marta is a PhD student through the CCMI CDT at UCL, and her research focuses on simulation-based inference and predictively-oriented inference. She started her PhD in Autumn 2026. I am her main supervisor, and Dr. Matt Graham is her subsidiary supervisor.
+  email: marta.piperno.26@ucl.ac.uk
+  website: https://www.linkedin.com/in/marta-piperno-786067234/?isSelfProfile=false
+  number_educ: 0
+  education1: Prior to starting her PhD, Marta had studied in Rome and Munich. 
+  
 - name: Stefanos Ioannou
   photo: stefanos.jpg
   info: Stefanos is a PhD student through the CCMI CDT at UCL, and his research focuses on explainable AI and simulation-based inference. He started his PhD in Autumn 2026. I am his subsidiary supervisor, and Dr. Alessandro Barp is his primary supervisor.
