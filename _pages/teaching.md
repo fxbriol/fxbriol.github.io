@@ -14,4 +14,6 @@ I also regularly supervise BSc and MSc students for their dissertation at UCL, m
 
 Beyond this, I also regularly teach PhD-level research courses; e.g.:
 * "Robust and scalable simulation-based inference" - 2025. [[*slides*](https://fxbriol.github.io/pdfs/slides-SBI-course.pdf)].
-* "Stein's method as a computational tool" - 2024. [[*slides*](https://fxbriol.github.io/pdfs/fxbriol_Stein_slides.pdf)]. 
+* "Stein's method as a computational tool" - 2024. [[*slides*](https://fxbriol.github.io/pdfs/fxbriol_Stein_slides.pdf)].
+
+Finally, I am external examiner for the 'BSc Data Science' and the 'BSc Economics and Data Science' at the [LSE's Department of Statistics](https://www.lse.ac.uk/statistics).
