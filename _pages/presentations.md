@@ -12,9 +12,10 @@ author_profile: true
 
 ### 2026
 
+* 17th-18th December 2026 - Talk - [***The 40th Anniversary Symposium of Japanese Society of Computational Statistics***](https://jscs-sympo40anniv.ywstat.jp).
 * 14th-16th December 2026 - Talk - [***Annual Conference of the New Zealand Statistical Association***](https://www.stats.org.nz/nzsa2026/index.php), University of Auckland. Invited keynote.
 * 8th December 2026 - Talk - [***London Mathematical Society Computer Science Colloquium***](https://www.lms.ac.uk/events/lms-computer-science-colloquium-2026), theme: "Scientific Machine learning".
-* 13th October 2026 - Talk - ***Newcastle University*** (Newcastle, UK).
+* 13th October 2026 - Talk - ***Newcastle University*** 
 * 24th September 2026 - Talk - ***The Alan Turing Institute***, Environmental Forecasting theme seminar.
 
 [Small break from travel due to personal leave!]
