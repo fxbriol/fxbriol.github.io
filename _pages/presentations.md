@@ -6,17 +6,18 @@ author_profile: true
 
 ### 2027
 
+* 2nd-4th June 2027 - Talk - ***Workshop on kernel methods***, University of Edinburgh (Edinburgh, UK).
 * 18th-20th May 2027 - Talk - [***BayesComp 2027***](https://bayescomp2027.org), Invited session on 'Reliable and Robust simulation-based inference' (College Station, Texas, US).
 * 25th February 2027 - Talk - ***University of York***, Statistics Seminar (York, UK).
 * 9th February 2027 - Talk - [***Workshop on Stein Methods and Statistics***](https://manchester-stein.github.io), University of Manchester (Manchester, UK).
 
 ### 2026
 
-* 17th-18th December 2026 - Talk - [***The 40th Anniversary Symposium of Japanese Society of Computational Statistics***](https://jscs-sympo40anniv.ywstat.jp).
-* 14th-16th December 2026 - Talk - [***Annual Conference of the New Zealand Statistical Association***](https://www.stats.org.nz/nzsa2026/index.php), University of Auckland. Invited keynote.
-* 8th December 2026 - Talk - [***London Mathematical Society Computer Science Colloquium***](https://www.lms.ac.uk/events/lms-computer-science-colloquium-2026), theme: "Scientific Machine learning".
-* 13th October 2026 - Talk - ***Newcastle University*** 
-* 24th September 2026 - Talk - ***The Alan Turing Institute***, Environmental Forecasting theme seminar.
+* 17th-18th December 2026 - Talk - [***The 40th Anniversary Symposium of Japanese Society of Computational Statistics***](https://jscs-sympo40anniv.ywstat.jp) (Auckland, NZ).
+* 14th-16th December 2026 - Talk - [***Annual Conference of the New Zealand Statistical Association***](https://www.stats.org.nz/nzsa2026/index.php), University of Auckland. Invited keynote. (Auckland, NZ)
+* 8th December 2026 - Talk - [***London Mathematical Society Computer Science Colloquium***](https://www.lms.ac.uk/events/lms-computer-science-colloquium-2026), theme: "Scientific Machine learning". (London, UK)
+* 13th October 2026 - Talk - ***Newcastle University*** (Newcastle, UK)
+* 24th September 2026 - Talk - ***The Alan Turing Institute***, Environmental Forecasting theme seminar (remote/London, UK).
 
 [Small break from travel due to personal leave!]
 
