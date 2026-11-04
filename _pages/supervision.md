@@ -19,9 +19,9 @@ I am particularly interested in hearing from potential PhD students with a stron
 
 ## Postdoctoral Research
 
-My department is currently advertising postdoctoral positions, see [here](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/research/project-vacancies). Please feel free to reach out if you are interested and have relevant experience. 
+Unfortunately I do not currently have any funding for postdoctoral positions.
 
-Additionally, if you are interested in applying for independent funding and would like to be based at UCL, do also feel free to get in touch with me. You may want to have a look at the list of [independent fellowships](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/research/research-fellowships) that is maintained on the UCL Statistical Science website.
+If you are interested in applying for independent funding and would like to be based at UCL, do also feel free to get in touch with me. You may want to have a look at the list of [independent fellowships](https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/research/research-fellowships) that is maintained on the UCL Statistical Science website.
 
 ## Visiting Researchers
 
