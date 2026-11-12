@@ -49,18 +49,31 @@ Another line of work has been on taking existing Bayesian models and making them
 
 * Duran-Martin, G., Altamirano, M., Shestopaloff, A. Y., Sanchez-Betancourt, L., Knoblauch, J., Jones, M., ***Briol, F-X.*** & Murphy, K. (2024). *Outlier-robust Kalman filtering through generalised Bayes*. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:12138-12171. [(***Conference***)](https://proceedings.mlr.press/v235/duran-martin24a.html) [(***Preprint***)](https://arxiv.org/abs/2405.05646) [(***Code***)](https://github.com/gerdm/weighted-likelihood-filter)
 
-* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:32562-32592. [(***Conference***)](https://proceedings.mlr.press/v267/laplante25a.html) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP) [(***Video***)](https://www.youtube.com/watch?v=oYthwdum7m0)
-  
-* Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2026+). *Multi-output robust and conjugate Gaussian processes*. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
-
 
 <p align="center">
   <img src="/images/wolf-IMQ.gif" alt="Robust Kalman Filter through Generalised Bayes" width="70%">
 </p>
 
-<p align="center">
-  <img src="/images/navitoclax.gif" alt="Robust Multi-output Gaussian processes through Generalised Bayes" width="70%">
-</p>
+* Laplante, W., Altamirano, M., Duncan, A., Knoblauch, J. & ***Briol, F-X.*** (2025). *Robust and conjugate spatio-temporal Gaussian processes*. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:32562-32592. [(***Conference***)](https://proceedings.mlr.press/v267/laplante25a.html) [(***Preprint***)](https://arxiv.org/abs/2502.02450) [(***Code***)](https://github.com/williamlaplante/ST-RCGP) [(***Video***)](https://www.youtube.com/watch?v=oYthwdum7m0)
+  
+* Rooijakkers, J., Rønneberg, L., ***Briol, F-X.***, Knoblauch, J. & Altamirano, M. (2026+). *Multi-output robust and conjugate Gaussian processes*. arXiv:2510.26401. [(***Preprint***)](https://arxiv.org/abs/2510.26401) [(***Code***)](https://github.com/joshuarooijakkers/robust_conjugate_MOGP)
+
+
+<div style="text-align: center;">
+  <button type="button" id="play-mogp">
+    ▶ Play multi-output GP animation
+  </button>
+</div>
+
+<script>
+  document.getElementById("play-mogp").addEventListener("click", function () {
+    const image = document.createElement("img");
+    image.alt = "Robust Multi-output Gaussian processes through Generalised Bayes";
+    image.style.width = "70%";
+    image.src = "{{ '/images/navitoclax.gif' | relative_url }}";
+    this.replaceWith(image);
+  }, { once: true });
+</script>
 
 Beyond Bayesian methods, I have also been developing hypothesis testing methods, which are either able to detect model misspecification, or be robust to it. Although I have not specifically applied these to Bayesian inference, they very much could be used for this problem too.
 
