@@ -58,6 +58,10 @@ Another line of work has been on taking existing Bayesian models and making them
   <img src="/images/wolf-IMQ.gif" alt="Robust Kalman Filter through Generalised Bayes" width="70%">
 </p>
 
+<p align="center">
+  <img src="/images/navitoclax.gif" alt="Robust Multi-output Gaussian processes through Generalised Bayes" width="70%">
+</p>
+
 Beyond Bayesian methods, I have also been developing hypothesis testing methods, which are either able to detect model misspecification, or be robust to it. Although I have not specifically applied these to Bayesian inference, they very much could be used for this problem too.
 
 * Liu, X. & ***Briol, F-X.*** (2025). *On the robustness of kernel goodness-of-fit tests*. Journal of Machine Learning Research, 26(262):1-72.  [(***Journal***)](http://jmlr.org/papers/v26/24-1365.html) [(***Preprint***)](https://arxiv.org/abs/2408.05854) [(***Code***)](https://github.com/XingLLiu/robust-kernel-test)
